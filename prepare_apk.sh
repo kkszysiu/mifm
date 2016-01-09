@@ -1,6 +1,7 @@
 #!/bin/bash
 echo "Hello world..."
 
+mkdir -p ./mifm-1.37-1-6-3/
 ./apps/apktool d ./original_apk/mifm-1.37-1-6-3.apk --output ./mifm-1.37-1-6-3/ -f
 
 cp ./translation/strings.xml ./mifm-1.37-1-6-3/res/values/strings.xml
