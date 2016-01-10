@@ -194,7 +194,7 @@
     <string name="music_not_install">App is not installed</string>
     <string name="music_main_title">Selected Player:</string>
     <string name="music_main_default_title">Come set the default startup APP now!</string>
-    <string name="music_mode">上车自动播放</string>
+    <string name="music_mode">Autoplay</string>
     <string name="music_chose_app">Select application</string>
     <string name="music_info">米键可以直接操作该播放器</string>
     <string name="music_chose">Please choose the default player</string>
@@ -205,7 +205,7 @@
     <string name="music_set_play">播放器设置成功，退出当前播放器后重启蓝牙生效。</string>
     <string name="protocol">Disclaimer Agreement</string>
     <string name="protocol_check_cont">我已经阅读并同意了《车载蓝牙FM的免责协议》</string>
-    <string name="protocol_ok">确认</string>
+    <string name="protocol_ok">Confirm</string>
     <string name="protocol_mi_protocol">小米用户协议</string>
     <string name="protocol_mi_privacy_policyl">小米隐私政策</string>
     <string name="protocol_load_fail">加载协议失败！</string>
