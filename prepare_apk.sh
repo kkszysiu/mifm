@@ -10,8 +10,6 @@ echo "./apps/apktool d ./original_apk/$original_name.apk --output ./$original_na
 
 echo "cp ./translation/strings.xml ./$original_name/res/values/strings.xml"
 
-exit 1
-
 ls -lath
 ls -lath ./$original_name/
 
