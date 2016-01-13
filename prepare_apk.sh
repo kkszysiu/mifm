@@ -1,20 +1,26 @@
 #!/bin/bash
-echo "Hello world..."
+echo "Starting build..."
 
-mkdir -p ./mifm-1.37-1-6-3/
+original_name="mifm-1.38"
 
-echo "./apps/apktool d ./original_apk/mifm-1.37-1-6-3.apk --output ./mifm-1.37-1-6-3/ -f"
-./apps/apktool d ./original_apk/mifm-1.37-1-6-3.apk --output ./mifm-1.37-1-6-3/ -f
+mkdir -p ./$original_name/
 
-echo "cp ./translation/strings.xml ./mifm-1.37-1-6-3/res/values/strings.xml"
+echo "./apps/apktool d ./original_apk/$original_name.apk --output ./$original_name/ -f"
+./apps/apktool d ./original_apk/$original_name.apk --output ./$original_name/ -f
+
+echo "cp ./translation/strings.xml ./$original_name/res/values/strings.xml"
+
+exit 1
 
 ls -lath
-ls -lath ./mifm-1.37-1-6-3/
+ls -lath ./$original_name/
 
-cp ./translation/strings.xml ./mifm-1.37-1-6-3/res/values/strings.xml
+cp ./translation/strings.xml ./$original_name/res/values/strings.xml
 
-echo "./apps/apktool b ./mifm-1.37-1-6-3 --output ./dist/mifm-1.37-1-6-3.apk"
-./apps/apktool b mifm-1.37-1-6-3 --output ./dist/mifm-1.37-1-6-3.apk
+echo "./apps/apktool b ./$original_name --output ./dist/$original_name.apk"
+./apps/apktool b $original_name --output ./dist/$original_name.apk
 
-echo "java -jar ./apps/sign.jar ./dist/mifm-1.37-1-6-3.apk --override"
-java -jar ./apps/sign.jar ./dist/mifm-1.37-1-6-3.apk --override
+echo "java -jar ./apps/sign.jar ./dist/$original_name.apk --override"
+java -jar ./apps/sign.jar ./dist/$original_name.apk --override
+
+echo "Finishing build..."
