@@ -9,7 +9,7 @@ script: ./prepare_apk.sh
 deploy:
   provider: releases
   api_key: "$mifm_deployment_token"
-  file: ./dist/mifm-1.37-1-6-3.apk
+  file: ./dist/mifm-1.38.apk
   skip_cleanup: true
   on:
     tags: true
