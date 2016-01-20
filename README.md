@@ -1,4 +1,4 @@
-![Device Preview](http://i.imgur.com/O3wsnyi.png)
+![Device Preview](http://i.imgur.com/Bnk1BrG.png)
 
 # MIFM
 The APK ditributed with Roidmi ( http://www.roidmi.com/ ) is sadly only in Chinese language.
