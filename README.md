@@ -1,3 +1,5 @@
+![Device Preview](http://i.imgur.com/O3wsnyi.png)
+
 # MIFM
 The APK ditributed with Roidmi ( http://www.roidmi.com/ ) is sadly only in Chinese language.
 For some people (including me) that might be a problem. But the device is purely awesome so I just translated it to English.
