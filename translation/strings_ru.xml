@@ -300,6 +300,8 @@
 请您在发现任何违反本服务协议以及其他任何单项服务的服务条款，请及时通知无锡睿米信息技术有限公司。
 
 本产品在行车过程中给您带来诸多便利，但为了您行车的安全，我们强烈建议您在行车过程中按规程正确使用本产品，在行车过程中由于使用不当造成的各类事故，无锡睿米信息技术有限公司概不负责。"</string>
+    <string name="shake_song">Song shake</string>
+    <string name="shake_song_tip">Warning: Some phones does\'t support the song shake feature.</string>
     <string name="phone_voice_title">Ringtones projection</string>
     <string name="push_activity">Push activity</string>
     <string name="setting">Settings</string>
