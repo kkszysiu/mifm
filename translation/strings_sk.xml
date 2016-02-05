@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RoidMi</string>
+    <string name="app_name_show">RoidMi FM Transmiter</string>
+    <string name="app_version">Verzia softvéru: %1$s</string>
+    <string name="btn_change">Zmena frekvenice</string>
+    <string name="btn_bt">Nastavenia Bluetooth</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cannel">Zrušiť</string>
+    <string name="btn_allow">Povoliť</string>
+    <string name="btn_refused">Odmietnuť</string>
+    <string name="btn_open">Povolené</string>
+    <string name="btn_close">Zakázané</string>
+    <string name="btn_next">Ďalej</string>
+    <string name="delete">Odstrániť</string>
+    <string name="delete_success">Odstránenie úspešné</string>
+    <string name="delete_fail">Odstránenie neúspešné</string>
+    <string name="default_music_app">Predvolený hudobný prehrávač:</string>
+    <string name="fm_but">Vysielač FM</string>
+    <string name="fm_bt_note">Žiadne spojenie</string>
+    <string name="fm_bt_lost">Bluetooth spojenie je prerušené!</string>
+    <string name="fm_title">FM</string>
+    <string name="fm_mhz">MHz</string>
+    <string name="fm_note">Nastavte frekvenciu autorádia na nastavenú hodnotu</string>
+    <string name="fm_set_note">Frekvencia bola zmenená!</string>
+    <string name="welcome">Vítajte v</string>
+    <string name="No_Link_FM">Prosím pripojte zariadenie</string>
+    <string name="No_Data">Žiadne údaje</string>
+    <string name="No_Create_File">Nie je možné vytvoriť súbor</string>
+    <string name="Net_not_connected">Skontrolujte pripojenie k sieti!</string>
+    <string name="space_insufficient">Nedostatok priestoru v telefóne</string>
+    <string name="No_WIFI">Poznámka: Za použitie dát sa môžu účtovať poplatky. Ak chcete pokračovať, kliknite na tlačidlo OK.</string>
+    <string name="about">O aplikácii</string>
+    <string name="auto_title">Spúšťaci režim</string>
+    <string name="auto_info">Vyberte: Otvoriť v hudobnom prehrávači</string>
+    <string name="auto_info_title">Prosím, vyberte spúšťací režim</string>
+    <string name="auto_state_default">Predvolený</string>
+    <string name="auto_state_click">Klikni</string>
+    <string name="auto_state_play">Spusti</string>
+    <string name="auto_state_click_info">Stlačte tlačidlo OK pre otvorenie prehrávača</string>
+    <string name="auto_state_play_info">Automaticky otvorí a obnový prehrávanie</string>
+    <string name="auto_bt_disconnected">Vykonajte operáciu po aktivácii Bluetooth</string>
+    <string name="auto_prompt_default">Nastavený ako predvolený.</string>
+    <string name="auto_prompt_click">Je nastavené na "dlhé stlačenie"</string>
+    <string name="auto_prompt_play">Je nastavené automatické prehrávanie. Vyžaduje reštartovanie Bluetooth</string>
+    <string name="bt_not_open">Bluetooth nie je aktívny</string>
+    <string name="bt_link_title">Bluetooth:</string>
+    <string name="bt_link_ok_info">Pripojenie Bluetooth funguje správne</string>
+    <string name="bt_link_ok">Spárované</string>
+    <string name="bt_link_fail">Nespárované</string>
+    <string name="channel_change">FM</string>
+    <string name="channel_set_title">Nastavte frekvenciu</string>
+    <string name="channel_send_title">FM nastavena frekvencia: %1$sMHZ</string>
+    <string name="channel_send_current">Aktuálna frekvencia</string>
+    <string name="channel_prompt">Nalaďte frekvenciu na aute</string>
+    <string name="channel_recommend">Odporúčaná frekvencia</string>
+    <string name="drive_title_today">Today, with record</string>
+    <string name="drive_title">Driving record</string>
+    <string name="drive_title_drive">行驶</string>
+    <string name="drive_title_drive_today">Driving today:</string>
+    <string name="drive_title_hour">Hodina</string>
+    <string name="drive_title_minute">Minuta</string>
+    <string name="drive_near_info">%1$s Drive%2$s</string>
+    <string name="drive_time_0">"睿米，无限惊喜
+赶紧来享受本该属于你的乐趣吧"</string>
+    <string name="drive_time_30_1">"恭喜你，在绿色行车的道路已做到了极致
+中国绿色出行的历史上将会留下你的一笔"</string>
+    <string name="drive_time_30_2">"祝贺你，已经是绿色行车达人了
+你在中国行车绿色榜中已经名列前茅"</string>
+    <string name="drive_time_30_3">"你越来越环保有爱了
+每天努力一点点，我们的目标就更近了"</string>
+    <string name="drive_time_60">"不错哦，让我们一起实现
+每天行车不超一小时的梦想吧"</string>
+    <string name="drive_time_120">恭喜你，在绿色出行的路上又向前迈进一步</string>
+    <string name="drive_time_300_1">"恭喜你，在智能驾驶的土豪榜上留下了您的足迹
+每天再使用多一点，你会体验到更多的乐趣哦"</string>
+    <string name="drive_time_300_2">"哇，每天行车超过2小时
+睿米土豪榜将会有你的一席之地"</string>
+    <string name="drive_time_300_more_1">"哇，你已经是中国行车土豪了
+去晒一下此刻的心情吧"</string>
+    <string name="drive_time_300_more_2">"哇，你已经位列中国土豪榜首了
+遥遥领先的心情是不是很爽啊！"</string>
+    <string name="firmware">Firmware</string>
+    <string name="firmware_name">RoidMi FM</string>
+    <string name="firmware_version">Verzia Firmware</string>
+    <string name="firmware_update">Aktualizácia Firmware</string>
+    <string name="feed_back">Feedback</string>
+    <string name="defout_contact">Vaše kontaktné informácie (email, phone, QQ)</string>
+    <string name="defout_content">Vďaka za váš feedback, vypočujeme vaše návrhy a pripomienky.</string>
+    <string name="fb_contact_empty">Toto pole nesmie byť prázdne!</string>
+    <string name="fb_contact_error">Chyba！</string>
+    <string name="fb_content_empty">Toto pole nesmie byť prázdne!</string>
+    <string name="fb_send">Odoslať</string>
+    <string name="fb_sending">Odosielanie…</string>
+    <string name="fb_send_success">Úspešne odoslané</string>
+    <string name="fb_send_fail">Odosielanie neúspešné</string>
+    <string name="feed_back_list_null1">Ak máte pripomienky k prekladu, píšte na sonix.svk@gmail.com</string>
+    <string name="feed_back_list_null2"></string>
+    <string name="guide">Sprievodca</string>
+    <string name="guide_use">Prerobiť</string>
+    <string name="guide_title">RoidMi</string>
+    <string name="guide_login">Prihlásenie</string>
+    <string name="guide_1">Prihlásenim, súhlasite s dodržovaním pravidiel</string>
+    <string name="guide_2">a</string>
+    <string name="guide_protocol"><u>Licenčná Zmlúva</u></string>
+    <string name="guide_privacy_policyl"><u>Ochrana osobných údajov</u></string>
+    <string name="guide_start_up">开机自启动</string>
+    <string name="guide_start_up_info1">保证程序正常运行</string>
+    <string name="guide_start_up_info2">设置成功后，按手机返回键返回本界面</string>
+    <string name="guide_start_up_setting">打开自启动设置</string>
+    <string name="guide_install">Inštalácia RoidMi</string>
+    <string name="guide_install_info">Vložte RoidMi do slotu pre cigarety na vašom aute</string>
+    <string name="guide_install_ok">Ok, RoidMi je vložené!</string>
+    <string name="guide_bt">Bluetooth</string>
+    <string name="guide_bt_info">Prosím chodte do nastavenia Bluetooth a spárujte vaše zariadenie s RoidMi</string>
+    <string name="guide_bt_link_info">Po úspešnom spárovaní, stlačte tlačidlo späť pre návrat do aplikácie.</string>
+    <string name="guide_bt_setting">Nastavenia Bluetooth</string>
+    <string name="guide_bt_success">Bluetooth je pripojene</string>
+    <string name="guide_bt_success_info">Váše zariadenie je pripojene k RoidMi</string>
+    <string name="voice_detection_title">Test zvuku</string>
+    <string name="voice_detection_tip">Klikni "Odoslať zvuk" pre overenie funkčnosti.</string>
+    <string name="send_voice">Odoslať zvuk</string>
+    <string name="send_voice_fail">Ak ste nič nepočuli zmeňte frekvenciu</string>
+    <string name="send_voice_success">Ak ste počuli pokračujte k ďaľšiemu kroku.</string>
+    <string name="next">Ďalej</string>
+    <string name="defalut_player">Predvolený hudobný prehrávač</string>
+    <string name="defalut_player_detail">Svoj predvolený hudobný prehrávač môžte neskôr zmenit v nastaveniach</string>
+    <string name="begin_use">Začíname!</string>
+    <string name="fm_setting">Nastavenie frekvencie</string>
+    <string name="fm_setting_detial">Nastavte frekvenciu autorádia na:</string>
+    <string name="fm_setting_info">Nastavte odporúčenu frekvenciu na vašom rádiu.</string>
+    <string name="go_to">Ďalej</string>
+    <string name="help">Pomoc</string>
+    <string name="help_other">FAQ</string>
+    <string name="help_title">Pomoc</string>
+    <string name="help_Q1">1. Nemôžem vyhľadať zariadenie Bluetooth.</string>
+    <string name="help_A1">Tip: Vytiahnite RoidMi zo slotu a po niekoľkých sekundách ho vložte späť a pokus opakujte.</string>
+    <string name="help_Q2">2. Nemôžem sa pripojiť k Bluetooth.</string>
+    <string name="help_A2">Tip: Vytiahnite RoidMi zo slotu a po niekoľkých sekundách ho vložte späť a pokus opakujte.</string>
+    <string name="help_Q3">3. Som pripojeny no rádio nie je počuť,</string>
+    <string name="help_A3">Tip: Na domovskej stránke aplikácie zmeňte frekvenciu  (nastavená frekvencia nesmie byť zhodná s existujúcim rádiovým vysielaním).</string>
+    <string name="help_Q4">4、音乐播放器不是自己常用的播放器</string>
+    <string name="help_A4">操作提示：进入APP，点击首页的【默认启动】，选择自己常用的播放器即可。</string>
+    <string name="help_Q5">5、设置自动播放模式后，不能自动打开音乐播放器</string>
+    <string name="help_A5">操作提示：请在手机的系统设置中将车载蓝牙FM应用程序设置为受保护的后台应用。参考：进入手机【设置】，点击【受保护的后台应用】，点击车载蓝牙FM应用后面的开关。</string>
+    <string name="help_Q6">6、切换模式设置后无效果</string>
+    <string name="help_A6">操作提示：模式切换后，是从下一次的蓝牙连接开始生效，重新连接蓝牙即可。</string>
+    <string name="help_Q7">7、不喜欢自动播放模式</string>
+    <string name="help_A7">操作提示：进入APP，点击首页的【默认启动】，将【上车自动播放】设置成【关闭】即可。</string>
+    <string name="help_Q8">8、语音提示不需要</string>
+    <string name="help_A8">操作提示：进入APP，点击APP首页右上角的更多图标，将【语音提示】设置成【关闭】即可。</string>
+    <string name="help_Q9">9、如何切换播放器的灯光颜色？</string>
+    <string name="help_A9">操作提示：点击APP首页右上角的更多图标，点击【灯光颜色】，选择对应的颜色即可。</string>
+    <string name="help_Q10">10、常用的播放器在自动播放模式下使用不了？</string>
+    <string name="help_A10">操作提示：请确认该播放器是否进行了更新操作，如果为更新后的软件，请及时将播放器的引导页点击关闭掉。</string>
+    <string name="help_Q11">11、部分音乐类软件使用不了？</string>
+    <string name="help_A11">操作提示：该软件不属于我们硬件产品控制协议之内的软件，推荐使用系统播放器、酷狗音乐、天天动听、酷我音乐和QQ音乐等软件</string>
+    <string name="help_CC_Q1">播放器是否在手机附近？</string>
+    <string name="help_CC_A1">播放器通过蓝牙与手机连接，播放器和手机的距离越近，越有利于播放器和手机连接。</string>
+    <string name="help_CC_Q2">播放器是否还有供电？</string>
+    <string name="help_CC_A2">如果播放器和手机距离很近还是没有查找到，请检查播放器的供电情况，播放器指示灯是否闪烁，可拔出播放器重新插入点烟器内。</string>
+    <string name="help_CC_Q3">尝试重新启动蓝牙？</string>
+    <string name="help_CC_A3">如果播放器供电状况良好，手机仍无法查找到，可以尝试将手机的蓝牙关闭后重新打开，稍等一会后重新搜索播放器。</string>
+    <string name="help_CC_Q4">播放器已和其它手机绑定？</string>
+    <string name="help_CC_A4">如果你的播放器已经和其它手机绑定，并且绑定的手机仍在播放器附近，此时你需要关闭已绑定手机的蓝牙，然后重新使用新手机搜索播放器。</string>
+    <string name="help_CC_Q5">尝试重新连接手机？</string>
+    <string name="help_CC_A5">请尝试重启手机后，重新打开车载蓝牙FM应用。</string>
+    <string name="help_CC_Q6">播放器接触不良？</string>
+    <string name="help_CC_A6">注意烟充内是否有烟灰残留物，如有，请先清洁后再插入产品</string>
+    <string name="help_CC_Q7">对于不能手动调节频率的车载FM怎么办？</string>
+    <string name="help_CC_A7">将车载FM调节到一个频率，然后将app频率调到对应的频率，点击确定即可</string>
+    <string name="help_CC_Q8">为什么推荐使用FM调至空频率？</string>
+    <string name="help_CC_A8">FM信号会相互干扰，当FM信号过强，可能会听不到产品发射FM信号，造成FM发射有问题，因此根据当地频率覆盖强弱，我们为您推荐了三个空频率</string>
+    <string name="help_CC_Q9">怎么调到一个最佳频率？</string>
+    <string name="help_CC_A9">推荐频率也许未必是你所在城市最佳的选择，可以尝试用手动方式增减0.1MHz调节汽车FM到一个没有电台干扰的频率，同时记得将手机APP也调节到同样频率。如果一段时间听下来非常OK，也欢迎你将所在城市和频率通过“关于”中的“意见反馈”分享给我们，我们可以在软件迭代时优化推荐频率给你所在城市的小伙伴们。</string>
+    <string name="login">Prihlásiť sa</string>
+    <string name="login_fail">Prihlásenie zlyhalo</string>
+    <string name="login_out">Odhlásiť sa z účtu</string>
+    <string name="login_out_info">Ste si istý že sa chcete odhlásiť?</string>
+    <string name="LED">Farba LED svetla</string>
+    <string name="LED_title">Zmena farby LED</string>
+    <string name="LED_prompt">Prosím vyberte si farbu</string>
+    <string name="LED_toast">Farba je nastavená na %1$s</string>
+    <string name="LED_red">červená</string>
+    <string name="LED_green">zelená</string>
+    <string name="LED_blue">modrá</string>
+    <string name="LED_orange">oranžová</string>
+    <string name="LED_qing">bledo modrá</string>
+    <string name="LED_close">Vypni LED</string>
+    <string name="MI_Key_proofread">Tlačidlo spárovania</string>
+    <string name="MI_Key_swap">Táto akcia zameni horné a dolné tlačidlo</string>
+    <string name="music">Predvolený prehrávač</string>
+    <string name="music_title">Hudobný prehrávač</string>
+    <string name="music_not_install">Aplikácia nie je nainštalovaná</string>
+    <string name="music_main_title">Vyberte prehrávač:</string>
+    <string name="music_main_default_title">Nastavte predvolenú startup aplikáciu!</string>
+    <string name="music_mode">Autoplay</string>
+    <string name="music_chose_app">Zvolte aplikáciu</string>
+    <string name="music_info">米键可以直接操作该播放器</string>
+    <string name="music_chose">Prosím zvolte predvolenú aplikáciu</string>
+    <string name="music_open">Otvoriť</string>
+    <string name="music_set_title">Zvolte predvolenu aplikáciu</string>
+    <string name="music_set_bt_note">Nastavene!</string>
+    <string name="music_set_click">播放器设置成功，退出当前播放器后长按可打开新播放器。</string>
+    <string name="music_set_play">播放器设置成功，退出当前播放器后重启蓝牙生效。</string>
+    <string name="protocol">Podmienky používania</string>
+    <string name="protocol_check_cont">Prečítal som si podmienky používania a súhlasim</string>
+    <string name="protocol_ok">OK</string>
+    <string name="protocol_mi_protocol">Podmienky použivania XIAOMI</string>
+    <string name="protocol_mi_privacy_policyl">Ochrana osobných údajov XIAOMI</string>
+    <string name="protocol_load_fail">Nepodarilo sa načítať protokol！</string>
+    <string name="protocol_title_1">Všeobecné ustanovenia</string>
+    <string name="protocol_content_1">"
+1、用户同意本协议的条款并按照页面上的提示完成全部的注册程序。用户在进行注册程序过程中点击“同意”按钮即表示用户与无锡睿米信息技术有限公司达成协议，完全接受本协议项下的全部条款。
+
+2、用户注册成功后，无锡睿米信息技术有限公司将给予每个用户一个用户帐号及相应的密码，该用户帐号和密码由用户负责保管；用户应当对以其用户帐号进行的所有活动和事件负法律责任。
+
+3、用户可以使用车载蓝牙FM各个频道单项服务，当用户使用车载蓝牙FM各单项服务时，用户的使用行为视为其对该单项服务的服务条款以及车载蓝牙FM在该单项服务中发出的各类公告的同意。
+
+4、车载蓝牙FM会员服务协议以及各类服务条款和公告可由无锡睿米信息技术有限公司随时更新和修订，且无需另行通知。您在使用相关服务时，应关注车载蓝牙FM对此更新和修订的通知，并遵守其所使用的相关条款。
+
+您在使用车载蓝牙FM提供的各项服务之前，应仔细阅读本服务协议。如您不同意本服务协议及/或随时对其的修改，您可以主动取消车载蓝牙FM提供的服务；您一旦使用车载蓝牙FM服务，即视为您已了解并完全同意本服务协议各项内容，包括无锡睿米信息技术有限公司对服务协议随时所做的任何修改，并成为车载蓝牙FM用户。"</string>
+    <string name="protocol_title_2">二、注册信息和隐私保护</string>
+    <string name="protocol_content_2">"
+1、车载蓝牙FM帐号（即车载蓝牙FM用户ID）的所有权归无锡睿米信息技术有限公司，用户完成注册申请手续后，获得车载蓝牙FM帐号的使用权。用户应提供及时、详尽及准确的个人资料，并不断更新注册资料，符合及时、详尽准确的要求，所有原始键入的资料将引用为注册资料。如果因注册信息不真实而引起的问题，并对问题发生所带来的后果，无锡睿米信息技术有限公司不负任何责任。
+
+2、用户不应将其帐号、密码转让、出售或出借予他人使用，如果无锡睿米信息技术有限公司发现使用者并非帐号注册者本人，无锡睿米信息技术有限公司有权停止继续服务。如用户发现其帐号遭他人非法使用，应立即通知无锡睿米信息技术有限公司。因黑客行为或用户违反本协议规定导致帐号、密码遭他人非法使用的，由用户本人承担因此导致的损失和一切法律责任，无锡睿米信息技术有限公司不承担任何责任。
+
+3、无锡睿米信息技术有限公司不对外公开或向第三方提供单个用户的注册资料，除非:
+（1）事先获得用户的明确授权；
+（2）只有透露你的个人资料，才能提供你所要求的产品和服务；
+（3）根据有关的法律法规要求；
+（4）按照相关政府主管部门的要求；
+（5）为维护无锡睿米信息技术有限公司的合法权益。
+
+4、在用户注册车载蓝牙FM帐户，使用其他车载蓝牙FM产品或服务，访问车载蓝牙FM网页，或参加促销和有奖游戏时，车载蓝牙FM会收集用户的个人身份识别资料。无锡睿米信息技术有限公司不会向任何第三方提供、出售、出租，分享和交易用户的个人身份识别资料。但是，用户同意无锡睿米信息技术有限公司将用户的个人身份识别资料用于改进提供的服务及网页内容。
+
+5、在用户使用车载蓝牙FM的产品和服务时，车载蓝牙FM会主动或被动的收集和获取用户的使用行为所产生的各种数据和信息；包括但不限于位置信息、IP地址、设备信息、cookies等；用户在此不可撤销的同意无锡睿米信息技术有限公司对上述数据和信息享有使用权，并且为了提升车载蓝牙FM产品，改进车载蓝牙FM服务等目的，将该数据和信息提供给第三方使用。
+
+6、在用户使用车载蓝牙FM的产品和服务时，为了给用户提供更好的服务，车载蓝牙FM可能通过您的手机使用各种定位技术，用户在此不可撤销的同意车载蓝牙FM使用此技术为用户服务，并同意车载蓝牙FM授权第三方使用上述技术为用户提供服务。"</string>
+    <string name="protocol_title_3">三、使用规则</string>
+    <string name="protocol_content_3">"
+1、用户在使用车载蓝牙FM服务时，必须遵守中华人民共和国相关法律法规的规定，用户应同意将不会利用本服务进行任何违法或不正当的活动，包括但不限于下列行为:
+·上载、展示、张贴、传播或以其它方式传送含有下列内容之一的信；
+·反对宪法所确定的基本原则的；
+·危害国家安全，泄露国家机密，颠覆国家政权，破坏国家统一的；
+·损害国家荣誉和利益的；
+·煽动民族仇恨、民族歧视、破坏民族团结的；
+·破坏国家宗教政策，宣扬邪教和封建迷信的；
+·散步谣言，扰乱社会秩序，破坏社会稳定的；
+·散步淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；
+·侮辱或者诽谤他人，侵害他人合法权利的；
+·含有虚假、有害、胁迫、侵害他人隐私、骚扰、侵害、中伤、粗俗、猥亵、或其它道德上令人感的内容；
+·含有中国法律、法规、规章、条例以及如何具有法律效力之规范所限制或禁止的其它内容的；
+·不得为任何非法目的而使用网络服务系统；
+·不利用车载蓝牙FM服务从事以下活动；
+·未经允许，进入计算机信息网络或者使用计算机信息网络资源的；
+·未经允许，对计算机信息网络功能进行删除、修改或者增加的；
+·未经允许，对进入计算机信息网络中存储、处理或者传输的数据和应用程序进行删除、修改或增加的；
+·故意制作、传播计算机病毒等破坏性程序的；
+·其他危害计算机信息网络安全的行为；
+
+2、用户违反本协议或相关的服务条款的规定，导致或产生的任何第三方主张的任何索赔、要求或损失，包括合理的律师费，您同意赔偿无锡睿米信息技术有限公司与合作公司、关联公司，并使之免受损害。对此，无锡睿米信息技术有限公司有权视用户的行为性质，采取包括但不限于删除用户发布信息内容、暂停使用许可、终止服务、限制使用、回收车载蓝牙FM帐号、追究法律责任等措施。对恶意注册车载蓝牙FM帐号或利用车载蓝牙FM帐号进行违法活动、捣乱、骚扰、欺骗、其他用户以及其他违反本协议的行为，无锡睿米信息技术有限公司有权回收其帐号。同时，无锡睿米信息技术有限公司会视司法部门的要求，协助调查。
+
+3、用户不得对本服务任何部分或本服务之使用或获得，进行复制、拷贝、出售、转售或用于任何其它商业目的。
+
+4、用户须对自己在使用车载蓝牙FM服务过程中的行为承担法律责任。用户承担法律责任的形式包括但不限于：对受到侵害者进行赔偿，以及在无锡睿米信息技术有限公司首先承担了因用户行为导致的行政处罚或侵权损害赔偿责任后，用户应给予无锡睿米信息技术有限公司等额的赔偿。"</string>
+    <string name="protocol_title_4">四、服务内容</string>
+    <string name="protocol_content_4">"
+1、车载蓝牙FM网络服务的具体内容由无锡睿米信息技术有限公司根据实际情况提供。
+
+2、除非本服务协议另有其它明示规定，无锡睿米信息技术有限公司所推出的新产品、新功能、新服务、均受到本服务协议之规范。
+
+3、为使用本服务，您必须能够自行经有法律资格对您提供互联网接入服务的第三方，进入国际互联网，并应自行支付相关服务费用。此外，您必须自行配备及负责与国际联网连线所需之一切必要装备，包括计算机、数据机或其它存取装置；
+
+4、鉴于网络服务的特殊性，用户同意无锡睿米信息技术有限公司有权不经事先通知，随时变更、中断或终止部分或全部的网络服务。无锡睿米信息技术有限公司不担保网络服务不会中断，对网络服务的及时性、安全性、准确性也都不作担保。
+
+5、无锡睿米信息技术有限公司需要定期或不定期地对提供网络服务的平台或相关的设备进行检修或者维护，如因此类情况而造成网络服务（包括收费服务）在合理时间内的中断，无锡睿米信息技术有限公司无需为此承担任何责任。无锡睿米信息技术有限公司保留不经事先通知为维修保养、升级或其它目的暂停本服务任何部分的权利。
+
+6、本服务或第三方可提供与其它国际互联网上之网站或资源之链接。由于无锡睿米信息技术有限公司无法控制这些网站及资源，您了解并同意，此类网站或资源是否可供利用，无锡睿米信息技术有限公司不予负责，存在或源于此类网站或资源之任何内容、广告、产品或其它资料，无锡睿米信息技术有限公司亦不予保证或负责。因使用或依赖任何此类网站或资源发布的或经由此类网站或资源获得的任何内容、商品或服务所产生的任何损害或损失，无锡睿米信息技术有限公司不承担任何责任。
+
+7、用户明确同意其使用车载蓝牙FM网络服务所存在的风险将完全其自己承担。用户理解并接受下载或通过车载蓝牙FM服务取得的任何信息资料取决于用户自己，并由其承担系统受损、资料丢失以及其它任何风险。无锡睿米信息技术有限公司对在服务网上得到的任何商品购物服务、交易进程、招聘信息，都不作担保。
+
+8、6个月未登陆的帐号，无锡睿米信息技术有限公司保留关闭的权利。
+
+9、无锡睿米信息技术有限公司有权于任何时间暂时或永久修改或终止车载蓝牙FM服务（或其任何部分），而无论其通知与否，无锡睿米信息技术有限公司对用户和任何第三人均无需承担任何责任。
+
+10、终止服务
+您同意车载蓝牙FM的基于其自行之考虑，因任何理由，包含但不限于长时间未使用，或车载蓝牙FM认为您已经违反本服务协议的文字及精神，终止您的密码、帐号或本服务之使用，并将您在本服务内任何内容加以移除并删除。您同意依本服务协议任何规定提供本服务，无需进行事先通知即可中断或终止，您承认并同意，车载蓝牙FM可立即关闭或删除您的帐号及您帐号中所有相关信息及文件。此外，您同意本服务之使用被中断或终止或您的帐号及相关信息和文件被关闭或删除，车载蓝牙FM对您或任何第三人均不承担任何责任。"</string>
+    <string name="protocol_title_5">五、其 他</string>
+    <string name="protocol_content_5">"
+1、本协议的订立、执行和解释及争议的解决均应适用中华人民共和国法律。
+
+2、如双方就本协议内容或其执行发生任何争议，双方应尽量友好协商解决；协商不成时，任何一方均可向无锡睿米信息技术有限公司所在地的人民法院提起诉讼。
+
+3、车载蓝牙FM未行使或执行本服务协议任何权利或规定，不构成对前述权利或权利之放弃。
+
+4、如本协议中的任何条款无论因何种原因完全或部分无效或不具有执行力，本协议的其余条款仍有效并且有约束力。
+
+请您在发现任何违反本服务协议以及其他任何单项服务的服务条款，请及时通知无锡睿米信息技术有限公司。
+
+本产品在行车过程中给您带来诸多便利，但为了您行车的安全，我们强烈建议您在行车过程中按规程正确使用本产品，在行车过程中由于使用不当造成的各类事故，无锡睿米信息技术有限公司概不负责。"</string>
+    <string name="shake_song">Song Shake</string>
+    <string name="shake_song_tip">Upozornenie: Niektoré telefóny nepodporuju funkciu "Song Shake".</string>
+    <string name="phone_voice_title">Ringtones projection</string>
+    <string name="push_activity">Push activity</string>
+    <string name="setting">Nastavenia</string>
+    <string name="update">Skontrolovať aktualizácie</string>
+    <string name="update_title">Aktualizácia</string>
+    <string name="update_info">Skontrolovať či je novšia verzia</string>
+    <string name="update_state_no">Máte nainštalovanú najnovšiu verziu</string>
+    <string name="update_state_yes">Je dostupná nová verzia!</string>
+    <string name="update_timeout">Vypršal časový limit žiadosti!</string>
+    <string name="update_not_find_file">Apk súbor sa nenašiel!</string>
+    <string name="update_getInfo">Kontrolujem dostupnosť aktualizácii…</string>
+    <string name="update_download_info">Sťahovanie novej verzie…%1$s</string>
+    <string name="update_download_progress">%1$s/%2$s</string>
+    <string name="update_download_fail">Sťahovanie neúspešne! Prosím skúste to znova neskôr.</string>
+    <string name="update_download_again">Stiahnuť znova</string>
+    <string name="update_latest">Toto je najnovšia verzia</string>
+    <string name="update_latest_version">Je dostupná nová verzia: %1$s</string>
+    <string name="update_download">Aktualizovať</string>
+    <string name="update_install">Nainštalovať</string>
+    <string name="update_dialog_title">Je dostupná nová verzia, aktualizujte! (Verzia V%1$s)</string>
+    <string name="update_dialog_not_update">Aktualizovať neskôr</string>
+    <string name="update_dialog_update">Aktualizovať teraz</string>
+    <string name="voice_title">Hlasové príkazy</string>
+    <string name="voice_mode_close">Zakázane</string>
+    <string name="voice_info">是否每次启动音乐app时进行语音提醒</string>
+    <string name="voice_info_title">是否开启语音提示（疲劳驾驶、打开播放器等）？</string>
+    <string name="key_pair_none">RoidMi nie je spárované</string>
+    <string name="key_pairing">Dongle pairing</string>
+    <string name="key_not_pair">RoidMi nie je spárované</string>
+    <string name="key_pair_success">RoidMi úspešne spárované</string>
+    <string name="key_pair_fail">Párovanie zlyhalo</string>
+    <string name="key_pair_tip1">请按下方操作配对</string>
+    <string name="key_pair_tip2">请同时按上、下键进行配对</string>
+    <string name="key_pair_tip3">Vítajte späť!</string>
+    <string name="key_pair_tip4">Kliknutim nižšie spárujete</string>
+    <string name="key_pair_change_direction">切换左右键控制方向</string>
+    <string name="key_pair_buy">Tlačidlo kúpiť</string>
+    <string name="key_pair_begin">Párovať</string>
+    <string name="key_pair_title">Pair</string>
+    <string name="key_pair_rebegin">Znova párovať</string>
+</resources>
