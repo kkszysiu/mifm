@@ -22,7 +22,7 @@
     <string name="fm_bt_lost">BT connection lost</string>
     <string name="fm_title">FM</string>
     <string name="fm_mhz">MHz</string>
-    <string name="fm_note">Please adjust car's radio frequency</string>
+    <string name="fm_note">Please adjust car\'s radio frequency</string>
     <string name="fm_set_note">Frequency set!</string>
     <string name="welcome">Welcome</string>
     <string name="No_Link_FM">Please plug in your RoidMi</string>
