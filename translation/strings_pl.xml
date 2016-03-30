@@ -54,6 +54,7 @@
     <string name="channel_send_current">Aktualna częstotliwość</string>
     <string name="channel_prompt">Zestrój radioodbiornik</string>
     <string name="channel_recommend">Zalecana częstotliwość</string>
+    <string name="download_fail_nofilename">File error（400）</string>
     <string name="drive_title_today">Today, with record</string>
     <string name="drive_title">Driving record</string>
     <string name="drive_title_drive">Podróż</string>

@@ -6,7 +6,7 @@ getLocalString() {
 
 echo "Starting build..."
 
-original_name="mifm-1.39"
+original_name="mifm-1.40"
 
 mkdir -p ./$original_name/
 

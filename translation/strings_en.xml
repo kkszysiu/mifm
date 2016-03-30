@@ -54,6 +54,7 @@
     <string name="channel_send_current">Current frequency</string>
     <string name="channel_prompt">synchronize car frequency</string>
     <string name="channel_recommend">Recommended frequency</string>
+    <string name="download_fail_nofilename">File error（400）</string>
     <string name="drive_title_today">今日行驶记录</string>
     <string name="drive_title">Driving record</string>
     <string name="drive_title_drive">行驶</string>

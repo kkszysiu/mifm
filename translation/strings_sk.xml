@@ -54,6 +54,7 @@
     <string name="channel_send_current">Aktuálna frekvencia</string>
     <string name="channel_prompt">Nalaďte frekvenciu na aute</string>
     <string name="channel_recommend">Odporúčaná frekvencia</string>
+    <string name="download_fail_nofilename">File error（400）</string>
     <string name="drive_title_today">Today, with record</string>
     <string name="drive_title">Driving record</string>
     <string name="drive_title_drive">行驶</string>
