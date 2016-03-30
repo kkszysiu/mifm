@@ -3,46 +3,47 @@
     <string name="app_name">Car Bluetooth FM</string>
     <string name="app_name_show">Car Bluetooth Player</string>
     <string name="app_version">Software version: %1$s</string>
-    <string name="btn_change">change frequency</string>
+    <string name="btn_change">Change frequency</string>
     <string name="btn_bt">Bluetooth Settings</string>
-    <string name="btn_ok">Ok</string>
+    <string name="btn_ok">OK</string>
     <string name="btn_cannel">Cancel</string>
     <string name="btn_allow">Allow</string>
     <string name="btn_refused">Refuse</string>
     <string name="btn_open">Enabled</string>
     <string name="btn_close">Disabled</string>
     <string name="btn_next">Next</string>
+    <string name="btn_exit">Exit</string>
     <string name="delete">Delete</string>
-    <string name="delete_success">Delete successful</string>
+    <string name="delete_success">Deleted successfully</string>
     <string name="delete_fail">Delete failed</string>
-    <string name="default_music_app">The default music player:</string>
+    <string name="default_music_app">Default music player:</string>
     <string name="fm_but">FM transmitter</string>
-    <string name="fm_bt_note">未连接</string>
-    <string name="fm_bt_lost">蓝牙连接中断!</string>
+    <string name="fm_bt_note">Not connected</string>
+    <string name="fm_bt_lost">BT connection lost</string>
     <string name="fm_title">FM</string>
     <string name="fm_mhz">MHz</string>
-    <string name="fm_note">请将车载收音机调整至相应频率</string>
-    <string name="fm_set_note">调频发送成功!</string>
-    <string name="welcome">Welcome in</string>
-    <string name="No_Link_FM">Please turn on the dongle</string>
-    <string name="No_Data">no data</string>
-    <string name="No_Create_File">Can not create file</string>
-    <string name="Net_not_connected">请检查网络是否已经打开</string>
-    <string name="space_insufficient">The remaining space on the phone is not sufficient</string>
-    <string name="No_WIFI">流量提醒:您现在正在使用流量，可能产生高额费用。如要继续请点击确定。</string>
+    <string name="fm_note">Please adjust car's radio frequency</string>
+    <string name="fm_set_note">Frequency set!</string>
+    <string name="welcome">Welcome</string>
+    <string name="No_Link_FM">Please plug in your RoidMi</string>
+    <string name="No_Data">No data</string>
+    <string name="No_Create_File">Cannot create file</string>
+    <string name="Net_not_connected">Please check if network is available.</string>
+    <string name="space_insufficient">Insufficient space</string>
+    <string name="No_WIFI">You are using mobile data plan! Charges may apply. To continue, press OK.</string>
     <string name="about">About</string>
     <string name="auto_title">Start mode</string>
-    <string name="auto_info">选择打开音乐播放器的模式</string>
-    <string name="auto_info_title">请选择启动模式</string>
-    <string name="auto_state_default">default</string>
-    <string name="auto_state_click">click</string>
-    <string name="auto_state_play">play</string>
-    <string name="auto_state_click_info">长按贴键确定键打开播放器</string>
-    <string name="auto_state_play_info">自动打开播放器并播放音乐</string>
-    <string name="auto_bt_disconnected">请在蓝牙连接成功后进行该操作</string>
-    <string name="auto_prompt_default">已设置为“默认”。</string>
-    <string name="auto_prompt_click">已设置为“长按打开”。</string>
-    <string name="auto_prompt_play">已设置为“自动播放”，重启蓝牙生效，现在去重启吧。</string>
+    <string name="auto_info">Music player mode</string>
+    <string name="auto_info_title">Please select startup mode</string>
+    <string name="auto_state_default">Default</string>
+    <string name="auto_state_click">Click</string>
+    <string name="auto_state_play">Play</string>
+    <string name="auto_state_click_info">Press OK to open default player</string>
+    <string name="auto_state_play_info">Launches player and starts music</string>
+    <string name="auto_bt_disconnected">Do it after BT connects successfully</string>
+    <string name="auto_prompt_default">Default.</string>
+    <string name="auto_prompt_click">Long press open.</string>
+    <string name="auto_prompt_play">Auto play. Restart bluetooth to take effect.</string>
     <string name="bt_not_open">Bluetooth is not open</string>
     <string name="bt_link_title">Bluetooth:</string>
     <string name="bt_link_ok_info">Bluetooth connection is okay</string>
@@ -52,7 +53,7 @@
     <string name="channel_set_title">Set frequency</string>
     <string name="channel_send_title">FM transmission frequency: %1$sMHZ</string>
     <string name="channel_send_current">Current frequency</string>
-    <string name="channel_prompt">synchronize car frequency</string>
+    <string name="channel_prompt">Synchronize car frequency</string>
     <string name="channel_recommend">Recommended frequency</string>
     <string name="download_fail_nofilename">File error（400）</string>
     <string name="drive_title_today">今日行驶记录</string>
@@ -174,27 +175,28 @@
     <string name="help_CC_A8">FM信号会相互干扰，当FM信号过强，可能会听不到产品发射FM信号，造成FM发射有问题，因此根据当地频率覆盖强弱，我们为您推荐了三个空频率</string>
     <string name="help_CC_Q9">怎么调到一个最佳频率？</string>
     <string name="help_CC_A9">推荐频率也许未必是你所在城市最佳的选择，可以尝试用手动方式增减0.1MHz调节汽车FM到一个没有电台干扰的频率，同时记得将手机APP也调节到同样频率。如果一段时间听下来非常OK，也欢迎你将所在城市和频率通过“关于”中的“意见反馈”分享给我们，我们可以在软件迭代时优化推荐频率给你所在城市的小伙伴们。</string>
+    <string name="info_center">Info Center</string>
     <string name="login">Login</string>
     <string name="login_fail">Login failed</string>
     <string name="login_out">Logout account</string>
     <string name="login_out_info">Are you sure you want to log out?</string>
-    <string name="LED">Light Color</string>
-    <string name="LED_title">Light Color Settings</string>
-    <string name="LED_prompt">Please choose light color</string>
-    <string name="LED_toast">Light color is set to %1$s</string>
-    <string name="LED_red">red</string>
-    <string name="LED_green">green</string>
-    <string name="LED_blue">blue</string>
-    <string name="LED_orange">orange</string>
-    <string name="LED_qing">blue2</string>
-    <string name="LED_close">Turn off the lights</string>
+    <string name="LED">LED Colour</string>
+    <string name="LED_title">Colour Settings</string>
+    <string name="LED_prompt">Please choose LED colour</string>
+    <string name="LED_toast">LED colour is set to %1$s</string>
+    <string name="LED_red">Red</string>
+    <string name="LED_green">Green</string>
+    <string name="LED_blue">Blue</string>
+    <string name="LED_orange">Orange</string>
+    <string name="LED_qing">Cyan</string>
+    <string name="LED_close">LED off</string>
     <string name="MI_Key_proofread">Pairing button</string>
     <string name="MI_Key_swap">此操作会切换上下键控制方向</string>
-    <string name="music">The default player</string>
-    <string name="music_title">music player</string>
+    <string name="music">Default player</string>
+    <string name="music_title">Music player</string>
     <string name="music_not_install">App is not installed</string>
     <string name="music_main_title">Selected Player:</string>
-    <string name="music_main_default_title">Come set the default startup APP now!</string>
+    <string name="music_main_default_title">Set default app!</string>
     <string name="music_mode">Autoplay</string>
     <string name="music_chose_app">Select application</string>
     <string name="music_info">米键可以直接操作该播放器</string>
@@ -207,10 +209,10 @@
     <string name="protocol">Disclaimer Agreement</string>
     <string name="protocol_check_cont">我已经阅读并同意了《车载蓝牙FM的免责协议》</string>
     <string name="protocol_ok">Confirm</string>
-    <string name="protocol_mi_protocol">小米用户协议</string>
-    <string name="protocol_mi_privacy_policyl">小米隐私政策</string>
-    <string name="protocol_load_fail">加载协议失败！</string>
-    <string name="protocol_title_1">一、总 则</string>
+    <string name="protocol_mi_protocol">User Agreement</string>
+    <string name="protocol_mi_privacy_policyl">Privacy Policy</string>
+    <string name="protocol_load_fail">User Agreement loading failed!</string>
+    <string name="protocol_title_1">1. General Provisions</string>
     <string name="protocol_content_1">"
 1、用户同意本协议的条款并按照页面上的提示完成全部的注册程序。用户在进行注册程序过程中点击“同意”按钮即表示用户与无锡睿米信息技术有限公司达成协议，完全接受本协议项下的全部条款。
 
@@ -221,7 +223,7 @@
 4、车载蓝牙FM会员服务协议以及各类服务条款和公告可由无锡睿米信息技术有限公司随时更新和修订，且无需另行通知。您在使用相关服务时，应关注车载蓝牙FM对此更新和修订的通知，并遵守其所使用的相关条款。
 
 您在使用车载蓝牙FM提供的各项服务之前，应仔细阅读本服务协议。如您不同意本服务协议及/或随时对其的修改，您可以主动取消车载蓝牙FM提供的服务；您一旦使用车载蓝牙FM服务，即视为您已了解并完全同意本服务协议各项内容，包括无锡睿米信息技术有限公司对服务协议随时所做的任何修改，并成为车载蓝牙FM用户。"</string>
-    <string name="protocol_title_2">二、注册信息和隐私保护</string>
+    <string name="protocol_title_2">2. Privacy</string>
     <string name="protocol_content_2">"
 1、车载蓝牙FM帐号（即车载蓝牙FM用户ID）的所有权归无锡睿米信息技术有限公司，用户完成注册申请手续后，获得车载蓝牙FM帐号的使用权。用户应提供及时、详尽及准确的个人资料，并不断更新注册资料，符合及时、详尽准确的要求，所有原始键入的资料将引用为注册资料。如果因注册信息不真实而引起的问题，并对问题发生所带来的后果，无锡睿米信息技术有限公司不负任何责任。
 
@@ -239,7 +241,7 @@
 5、在用户使用车载蓝牙FM的产品和服务时，车载蓝牙FM会主动或被动的收集和获取用户的使用行为所产生的各种数据和信息；包括但不限于位置信息、IP地址、设备信息、cookies等；用户在此不可撤销的同意无锡睿米信息技术有限公司对上述数据和信息享有使用权，并且为了提升车载蓝牙FM产品，改进车载蓝牙FM服务等目的，将该数据和信息提供给第三方使用。
 
 6、在用户使用车载蓝牙FM的产品和服务时，为了给用户提供更好的服务，车载蓝牙FM可能通过您的手机使用各种定位技术，用户在此不可撤销的同意车载蓝牙FM使用此技术为用户服务，并同意车载蓝牙FM授权第三方使用上述技术为用户提供服务。"</string>
-    <string name="protocol_title_3">三、使用规则</string>
+    <string name="protocol_title_3">3. Terms of Service</string>
     <string name="protocol_content_3">"
 1、用户在使用车载蓝牙FM服务时，必须遵守中华人民共和国相关法律法规的规定，用户应同意将不会利用本服务进行任何违法或不正当的活动，包括但不限于下列行为:
 ·上载、展示、张贴、传播或以其它方式传送含有下列内容之一的信；
@@ -266,7 +268,7 @@
 3、用户不得对本服务任何部分或本服务之使用或获得，进行复制、拷贝、出售、转售或用于任何其它商业目的。
 
 4、用户须对自己在使用车载蓝牙FM服务过程中的行为承担法律责任。用户承担法律责任的形式包括但不限于：对受到侵害者进行赔偿，以及在无锡睿米信息技术有限公司首先承担了因用户行为导致的行政处罚或侵权损害赔偿责任后，用户应给予无锡睿米信息技术有限公司等额的赔偿。"</string>
-    <string name="protocol_title_4">四、服务内容</string>
+    <string name="protocol_title_4">4. Services</string>
     <string name="protocol_content_4">"
 1、车载蓝牙FM网络服务的具体内容由无锡睿米信息技术有限公司根据实际情况提供。
 
@@ -288,7 +290,7 @@
 
 10、终止服务
 您同意车载蓝牙FM的基于其自行之考虑，因任何理由，包含但不限于长时间未使用，或车载蓝牙FM认为您已经违反本服务协议的文字及精神，终止您的密码、帐号或本服务之使用，并将您在本服务内任何内容加以移除并删除。您同意依本服务协议任何规定提供本服务，无需进行事先通知即可中断或终止，您承认并同意，车载蓝牙FM可立即关闭或删除您的帐号及您帐号中所有相关信息及文件。此外，您同意本服务之使用被中断或终止或您的帐号及相关信息和文件被关闭或删除，车载蓝牙FM对您或任何第三人均不承担任何责任。"</string>
-    <string name="protocol_title_5">五、其 他</string>
+    <string name="protocol_title_5">5. Other</string>
     <string name="protocol_content_5">"
 1、本协议的订立、执行和解释及争议的解决均应适用中华人民共和国法律。
 
@@ -323,6 +325,7 @@
     <string name="update_download">Update</string>
     <string name="update_install">Install</string>
     <string name="update_dialog_title">New version available, update it! (Version V%1$s)</string>
+    <string name="update_dialog_title_force">New version available, to continue using this app you have to update this app!</string>
     <string name="update_dialog_not_update">Update later</string>
     <string name="update_dialog_update">Update now</string>
     <string name="voice_title">Voice prompts</string>
