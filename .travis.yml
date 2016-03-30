@@ -10,10 +10,10 @@ deploy:
   provider: releases
   api_key: "$mifm_deployment_token"
   file:
-    - dist/mifm-1.40_en.apk
-    - dist/mifm-1.40_pl.apk
-    - dist/mifm-1.40_ru.apk
-    - dist/mifm-1.40_sk.apk
+    - dist/mifm-1.41_en.apk
+    - dist/mifm-1.41_pl.apk
+    - dist/mifm-1.41_ru.apk
+    - dist/mifm-1.41_sk.apk
   skip_cleanup: true
   on:
     tags: true
