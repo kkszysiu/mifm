@@ -45,4 +45,4 @@ for filename in os.listdir('./translation/'):
         fh.close()
 
         # xmllint --format translation/strings_pl.xml --output translation/strings_pl.xml
-        subprocess.call('xmllint --format {} --output {}'.format(path, path), shell=True)
+        subprocess.call('XMLLINT_INDENT="    " xmllint --format {} --output {}'.format(path, path), shell=True)
