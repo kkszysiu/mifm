@@ -14,7 +14,7 @@ deploy:
     - dist/mifm-1.41_pl.apk
     - dist/mifm-1.41_ru.apk
     - dist/mifm-1.41_sk.apk
+    - dist/mifm-1.41_uk.apk
   skip_cleanup: true
   on:
     tags: true
-

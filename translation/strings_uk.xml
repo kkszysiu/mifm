@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Car Bluetooth FM</string>
+    <string name="app_name_show">Car Bluetooth Player</string>
+    <string name="app_version">Версія програмного забезпечення: %1$s</string>
+    <string name="btn_change">Змінити частоту</string>
+    <string name="btn_bt">Bluetooth налаштування</string>
+    <string name="btn_ok">Ок</string>
+    <string name="btn_cannel">Скасувати</string>
+    <string name="btn_allow">Дозволити</string>
+    <string name="btn_refused">Відмовити</string>
+    <string name="btn_open">Ввімкнено</string>
+    <string name="btn_close">Викмнено</string>
+    <string name="btn_next">Далі</string>
+    <string name="btn_exit">Вийти</string>
+    <string name="delete">Видалити</string>
+    <string name="delete_success">Успішно видалено</string>
+    <string name="delete_fail">Не вдалося видалити</string>
+    <string name="default_music_app">Музичний програвач за промовчанням:</string>
+    <string name="fm_but">FM трансміттер</string>
+    <string name="fm_bt_note">Не підключено</string>
+    <string name="fm_bt_lost">BT підключення втрачено</string>
+    <string name="fm_title">FM</string>
+    <string name="fm_mhz">МГц</string>
+    <string name="fm_note">Будь-ласка, налаштуйте радіочастоту автомобіля</string>
+    <string name="fm_set_note">Частоту задано!</string>
+    <string name="welcome">Ласкаво просиво</string>
+    <string name="No_Link_FM">Будь ласка, підключіть ваш RoidMi</string>
+    <string name="No_Data">Немає даних</string>
+    <string name="No_Create_File">Неможливо створити файл</string>
+    <string name="Net_not_connected">Будь ласка, перевірьте чи доступна мережа.</string>
+    <string name="space_insufficient">Недостатньо місця</string>
+    <string name="No_WIFI">Ви використовуєте мобільний тарифний план! Може стягуватися плата. Для продовження натисніть кнопку Ок.</string>
+    <string name="about">Про додаток</string>
+    <string name="auto_title">Режим запуску</string>
+    <string name="auto_info">Режим музичного програвача</string>
+    <string name="auto_info_title">Будь ласка, виберіть режим запуску</string>
+    <string name="auto_state_default">За промовчанням</string>
+    <string name="auto_state_click">Натиснути</string>
+    <string name="auto_state_play">Грати</string>
+    <string name="auto_state_click_info">Натисніть Ок, щоб відкрити програвач за промовчання</string>
+    <string name="auto_state_play_info">Запускає програвач та починає відтворення</string>
+    <string name="auto_bt_disconnected">Зробіть це після того, як BT успішно підключено</string>
+    <string name="auto_prompt_default">За промовчанням.</string>
+    <string name="auto_prompt_click">Натисніть та чекайте, щоб відкрити.</string>
+    <string name="auto_prompt_play">Автоматичне відтворення. Перезапустіть Bluetooth, щоб зміни вступили в силу.</string>
+    <string name="bt_not_open">Bluetooth не відкрито</string>
+    <string name="bt_link_title">Bluetooth:</string>
+    <string name="bt_link_ok_info">Bluetooth підключення в порядку</string>
+    <string name="bt_link_ok">Пов'язано</string>
+    <string name="bt_link_fail">Непов'язано</string>
+    <string name="channel_change">FM</string>
+    <string name="channel_set_title">Задати частоту</string>
+    <string name="channel_send_title">FM частота передачі: %1$sМГц</string>
+    <string name="channel_send_current">Поточна частота</string>
+    <string name="channel_prompt">Синхронізувати частоту автомобіля</string>
+    <string name="channel_recommend">Рекомендована частота</string>
+    <string name="download_fail_nofilename">Помилка файлу（400）</string>
+    <string name="drive_title_today">今日行驶记录</string>
+    <string name="drive_title">Запис водіння</string>
+    <string name="drive_title_drive">行驶</string>
+    <string name="drive_title_drive_today">今日驾驶:</string>
+    <string name="drive_title_hour">小时</string>
+    <string name="drive_title_minute">分</string>
+    <string name="drive_near_info">%1$s 行车%2$s</string>
+    <string name="drive_time_0">"睿米，无限惊喜
+赶紧来享受本该属于你的乐趣吧"</string>
+    <string name="drive_time_30_1">"恭喜你，在绿色行车的道路已做到了极致
+中国绿色出行的历史上将会留下你的一笔"</string>
+    <string name="drive_time_30_2">"祝贺你，已经是绿色行车达人了
+你在中国行车绿色榜中已经名列前茅"</string>
+    <string name="drive_time_30_3">"你越来越环保有爱了
+每天努力一点点，我们的目标就更近了"</string>
+    <string name="drive_time_60">"不错哦，让我们一起实现
+每天行车不超一小时的梦想吧"</string>
+    <string name="drive_time_120">恭喜你，在绿色出行的路上又向前迈进一步</string>
+    <string name="drive_time_300_1">"恭喜你，在智能驾驶的土豪榜上留下了您的足迹
+每天再使用多一点，你会体验到更多的乐趣哦"</string>
+    <string name="drive_time_300_2">"哇，每天行车超过2小时
+睿米土豪榜将会有你的一席之地"</string>
+    <string name="drive_time_300_more_1">"哇，你已经是中国行车土豪了
+去晒一下此刻的心情吧"</string>
+    <string name="drive_time_300_more_2">"哇，你已经位列中国土豪榜首了
+遥遥领先的心情是不是很爽啊！"</string>
+    <string name="firmware">Прошивка</string>
+    <string name="firmware_name">Car Bluetooth FM</string>
+    <string name="firmware_version">Версія прошивки</string>
+    <string name="firmware_update">Оновити прошивку</string>
+    <string name="feed_back">Зворотній зв'язок</string>
+    <string name="defout_contact">Ваша контактна інформація (email, phone, QQ)</string>
+    <string name="defout_content">Дякуємо вам за зворотній зв'язок, ми уважно розглянемо ваші пропозиції та коментарі.</string>
+    <string name="fb_contact_empty">联系方式不能为空！</string>
+    <string name="fb_contact_error">联系方式格式错误！</string>
+    <string name="fb_content_empty">反馈意见不能为空！</string>
+    <string name="fb_send">Відправити</string>
+    <string name="fb_sending">Відправляється…</string>
+    <string name="fb_send_success">Успішно відправлено</string>
+    <string name="fb_send_fail">Не вдалося відправити</string>
+    <string name="feed_back_list_null1">我们期待听到您的声音，</string>
+    <string name="feed_back_list_null2">把最好的体验带给您！</string>
+    <string name="guide">引导</string>
+    <string name="guide_use">Переконфігурувати</string>
+    <string name="guide_title">Car Bluetooth FM</string>
+    <string name="guide_login">Ввійти</string>
+    <string name="guide_1">登录则表示您同意遵守小米的</string>
+    <string name="guide_2">та</string>
+    <string name="guide_protocol"><u>用户协议</u></string>
+    <string name="guide_privacy_policyl"><u>隐私政策</u></string>
+    <string name="guide_start_up">开机自启动</string>
+    <string name="guide_start_up_info1">保证程序正常运行</string>
+    <string name="guide_start_up_info2">设置成功后，按手机返回键返回本界面</string>
+    <string name="guide_start_up_setting">打开自启动设置</string>
+    <string name="guide_install">Встановлення адаптеру</string>
+    <string name="guide_install_info">Вставте адаптер в прикурювач</string>
+    <string name="guide_install_ok">Ок, адаптер вставлено!</string>
+    <string name="guide_bt">Bluetooth підключення</string>
+    <string name="guide_bt_info">Будь ласка, перейдіть в системні налаштування Bluetooth для парування вашего телефону та адаптеру</string>
+    <string name="guide_bt_link_info">Після успішного Bluetooth парування, натисніть клавішу "Повернутися" та поверніться.</string>
+    <string name="guide_bt_setting">Перейти до BT налашувань</string>
+    <string name="guide_bt_success">Bluetooth підключення успішне</string>
+    <string name="guide_bt_success_info">Ваш телефон успішно підключено до адаптеру</string>
+    <string name="voice_detection_title">Виявлення голосу</string>
+    <string name="voice_detection_tip">Натисніть для відправлення звуку, щоб з'ясувати чи підключення успішне</string>
+    <string name="send_voice">Відправити звук</string>
+    <string name="send_voice_fail">Не чуєте звуку, змініть FM частоту та поверніться</string>
+    <string name="send_voice_success">Я почув звук, перейти до наступного кроку</string>
+    <string name="next">Далі</string>
+    <string name="defalut_player">Музичний програвач за промовчанням</string>
+    <string name="defalut_player_detail">Ви можете змінити програвач за промовчанням в налаштуваннях пізніше</string>
+    <string name="begin_use">Поїхали!</string>
+    <string name="fm_setting">Налаштування частоти</string>
+    <string name="fm_setting_detial">Автомобільна FM частота для @ повинна бути встановлена в:</string>
+    <string name="fm_setting_info">Встановіть рекомендовану частоту на вашому радіо.</string>
+    <string name="go_to">Далі</string>
+    <string name="help">Допомога</string>
+    <string name="help_other">Загальні проблеми</string>
+    <string name="help_title">Допомога</string>
+    <string name="help_Q1">1、手机蓝牙搜索不到“睿米车载蓝牙播放器”</string>
+    <string name="help_A1">操作提示：先将播放器硬件从点烟孔拔掉然后重新插入点烟孔，将手机蓝牙关闭间隔10S 重新打开，点击搜索新设备。</string>
+    <string name="help_Q2">2、播放器蓝牙连接不上</string>
+    <string name="help_A2">操作提示：将播放器断电后重新插入点烟孔，点击搜索新设备，重新连接播放器。</string>
+    <string name="help_Q3">3、蓝牙连接成功，车载音响没有声音</string>
+    <string name="help_A3">操作提示：进入APP，点击首页的【FM发射频率】，设置一下播放器的发射频率，点击发射调频看到调频成功提示信息后，将车载FM调频调制所设的频率即可。</string>
+    <string name="help_Q4">4、音乐播放器不是自己常用的播放器</string>
+    <string name="help_A4">操作提示：进入APP，点击首页的【默认启动】，选择自己常用的播放器即可。</string>
+    <string name="help_Q5">5、设置自动播放模式后，不能自动打开音乐播放器</string>
+    <string name="help_A5">操作提示：请在手机的系统设置中将车载蓝牙FM应用程序设置为受保护的后台应用。参考：进入手机【设置】，点击【受保护的后台应用】，点击车载蓝牙FM应用后面的开关。</string>
+    <string name="help_Q6">6、切换模式设置后无效果</string>
+    <string name="help_A6">操作提示：模式切换后，是从下一次的蓝牙连接开始生效，重新连接蓝牙即可。</string>
+    <string name="help_Q7">7、不喜欢自动播放模式</string>
+    <string name="help_A7">操作提示：进入APP，点击首页的【默认启动】，将【上车自动播放】设置成【关闭】即可。</string>
+    <string name="help_Q8">8、语音提示不需要</string>
+    <string name="help_A8">操作提示：进入APP，点击APP首页右上角的更多图标，将【语音提示】设置成【关闭】即可。</string>
+    <string name="help_Q9">9、如何切换播放器的灯光颜色？</string>
+    <string name="help_A9">操作提示：点击APP首页右上角的更多图标，点击【灯光颜色】，选择对应的颜色即可。</string>
+    <string name="help_Q10">10、常用的播放器在自动播放模式下使用不了？</string>
+    <string name="help_A10">操作提示：请确认该播放器是否进行了更新操作，如果为更新后的软件，请及时将播放器的引导页点击关闭掉。</string>
+    <string name="help_Q11">11、部分音乐类软件使用不了？</string>
+    <string name="help_A11">操作提示：该软件不属于我们硬件产品控制协议之内的软件，推荐使用系统播放器、酷狗音乐、天天动听、酷我音乐和QQ音乐等软件</string>
+    <string name="help_CC_Q1">播放器是否在手机附近？</string>
+    <string name="help_CC_A1">播放器通过蓝牙与手机连接，播放器和手机的距离越近，越有利于播放器和手机连接。</string>
+    <string name="help_CC_Q2">播放器是否还有供电？</string>
+    <string name="help_CC_A2">如果播放器和手机距离很近还是没有查找到，请检查播放器的供电情况，播放器指示灯是否闪烁，可拔出播放器重新插入点烟器内。</string>
+    <string name="help_CC_Q3">尝试重新启动蓝牙？</string>
+    <string name="help_CC_A3">如果播放器供电状况良好，手机仍无法查找到，可以尝试将手机的蓝牙关闭后重新打开，稍等一会后重新搜索播放器。</string>
+    <string name="help_CC_Q4">播放器已和其它手机绑定？</string>
+    <string name="help_CC_A4">如果你的播放器已经和其它手机绑定，并且绑定的手机仍在播放器附近，此时你需要关闭已绑定手机的蓝牙，然后重新使用新手机搜索播放器。</string>
+    <string name="help_CC_Q5">尝试重新连接手机？</string>
+    <string name="help_CC_A5">请尝试重启手机后，重新打开车载蓝牙FM应用。</string>
+    <string name="help_CC_Q6">播放器接触不良？</string>
+    <string name="help_CC_A6">注意烟充内是否有烟灰残留物，如有，请先清洁后再插入产品</string>
+    <string name="help_CC_Q7">对于不能手动调节频率的车载FM怎么办？</string>
+    <string name="help_CC_A7">将车载FM调节到一个频率，然后将app频率调到对应的频率，点击确定即可</string>
+    <string name="help_CC_Q8">为什么推荐使用FM调至空频率？</string>
+    <string name="help_CC_A8">FM信号会相互干扰，当FM信号过强，可能会听不到产品发射FM信号，造成FM发射有问题，因此根据当地频率覆盖强弱，我们为您推荐了三个空频率</string>
+    <string name="help_CC_Q9">怎么调到一个最佳频率？</string>
+    <string name="help_CC_A9">推荐频率也许未必是你所在城市最佳的选择，可以尝试用手动方式增减0.1MHz调节汽车FM到一个没有电台干扰的频率，同时记得将手机APP也调节到同样频率。如果一段时间听下来非常OK，也欢迎你将所在城市和频率通过“关于”中的“意见反馈”分享给我们，我们可以在软件迭代时优化推荐频率给你所在城市的小伙伴们。</string>
+    <string name="info_center">Інформаційний центр</string>
+    <string name="login">Ввійти</string>
+    <string name="login_fail">Не вдалося ввійти</string>
+    <string name="login_out">Вийти із акаунту</string>
+    <string name="login_out_info">Ви впевнені, що хочете вийти?</string>
+    <string name="LED">Колір LED</string>
+    <string name="LED_title">Налаштування кольору</string>
+    <string name="LED_prompt">Будь ласка, виберіть колір LED</string>
+    <string name="LED_toast">Колір LED задано в %1$s</string>
+    <string name="LED_red">Червоний</string>
+    <string name="LED_green">Зелений</string>
+    <string name="LED_blue">Блакитний</string>
+    <string name="LED_orange">Помаранчевий</string>
+    <string name="LED_qing">Блакитно-зелений</string>
+    <string name="LED_close">LED вимкнено</string>
+    <string name="MI_Key_proofread">Кнопка парування</string>
+    <string name="MI_Key_swap">此操作会切换上下键控制方向</string>
+    <string name="music">Програвач за промовчанням</string>
+    <string name="music_title">Музичний програвач</string>
+    <string name="music_not_install">Додаток не встановлено</string>
+    <string name="music_main_title">Вибраний програвач:</string>
+    <string name="music_main_default_title">Задати додаток за промовчанням!</string>
+    <string name="music_mode">Автоматичне відтворення</string>
+    <string name="music_chose_app">Виберіть додаток</string>
+    <string name="music_info">米键可以直接操作该播放器</string>
+    <string name="music_chose">Будь ласка, виберіть програвач за промовчанням</string>
+    <string name="music_open">Відкрити</string>
+    <string name="music_set_title">Задати музичний додаток за промовчанням</string>
+    <string name="music_set_bt_note">播放器设置成功</string>
+    <string name="music_set_click">播放器设置成功，退出当前播放器后长按可打开新播放器。</string>
+    <string name="music_set_play">播放器设置成功，退出当前播放器后重启蓝牙生效。</string>
+    <string name="protocol">Відмова від відповідальності</string>
+    <string name="protocol_check_cont">我已经阅读并同意了《车载蓝牙FM的免责协议》</string>
+    <string name="protocol_ok">Підтвердити</string>
+    <string name="protocol_mi_protocol">Угода</string>
+    <string name="protocol_mi_privacy_policyl">Політика конфіденційності</string>
+    <string name="protocol_load_fail">Не вдалося завантажити Угоду!</string>
+    <string name="protocol_title_1">1. Загальні положення</string>
+    <string name="protocol_content_1">"
+1、用户同意本协议的条款并按照页面上的提示完成全部的注册程序。用户在进行注册程序过程中点击“同意”按钮即表示用户与无锡睿米信息技术有限公司达成协议，完全接受本协议项下的全部条款。
+
+2、用户注册成功后，无锡睿米信息技术有限公司将给予每个用户一个用户帐号及相应的密码，该用户帐号和密码由用户负责保管；用户应当对以其用户帐号进行的所有活动和事件负法律责任。
+
+3、用户可以使用车载蓝牙FM各个频道单项服务，当用户使用车载蓝牙FM各单项服务时，用户的使用行为视为其对该单项服务的服务条款以及车载蓝牙FM在该单项服务中发出的各类公告的同意。
+
+4、车载蓝牙FM会员服务协议以及各类服务条款和公告可由无锡睿米信息技术有限公司随时更新和修订，且无需另行通知。您在使用相关服务时，应关注车载蓝牙FM对此更新和修订的通知，并遵守其所使用的相关条款。
+
+您在使用车载蓝牙FM提供的各项服务之前，应仔细阅读本服务协议。如您不同意本服务协议及/或随时对其的修改，您可以主动取消车载蓝牙FM提供的服务；您一旦使用车载蓝牙FM服务，即视为您已了解并完全同意本服务协议各项内容，包括无锡睿米信息技术有限公司对服务协议随时所做的任何修改，并成为车载蓝牙FM用户。"</string>
+    <string name="protocol_title_2">2. Приватність</string>
+    <string name="protocol_content_2">"
+1、车载蓝牙FM帐号（即车载蓝牙FM用户ID）的所有权归无锡睿米信息技术有限公司，用户完成注册申请手续后，获得车载蓝牙FM帐号的使用权。用户应提供及时、详尽及准确的个人资料，并不断更新注册资料，符合及时、详尽准确的要求，所有原始键入的资料将引用为注册资料。如果因注册信息不真实而引起的问题，并对问题发生所带来的后果，无锡睿米信息技术有限公司不负任何责任。
+
+2、用户不应将其帐号、密码转让、出售或出借予他人使用，如果无锡睿米信息技术有限公司发现使用者并非帐号注册者本人，无锡睿米信息技术有限公司有权停止继续服务。如用户发现其帐号遭他人非法使用，应立即通知无锡睿米信息技术有限公司。因黑客行为或用户违反本协议规定导致帐号、密码遭他人非法使用的，由用户本人承担因此导致的损失和一切法律责任，无锡睿米信息技术有限公司不承担任何责任。
+
+3、无锡睿米信息技术有限公司不对外公开或向第三方提供单个用户的注册资料，除非:
+（1）事先获得用户的明确授权；
+（2）只有透露你的个人资料，才能提供你所要求的产品和服务；
+（3）根据有关的法律法规要求；
+（4）按照相关政府主管部门的要求；
+（5）为维护无锡睿米信息技术有限公司的合法权益。
+
+4、在用户注册车载蓝牙FM帐户，使用其他车载蓝牙FM产品或服务，访问车载蓝牙FM网页，或参加促销和有奖游戏时，车载蓝牙FM会收集用户的个人身份识别资料。无锡睿米信息技术有限公司不会向任何第三方提供、出售、出租，分享和交易用户的个人身份识别资料。但是，用户同意无锡睿米信息技术有限公司将用户的个人身份识别资料用于改进提供的服务及网页内容。
+
+5、在用户使用车载蓝牙FM的产品和服务时，车载蓝牙FM会主动或被动的收集和获取用户的使用行为所产生的各种数据和信息；包括但不限于位置信息、IP地址、设备信息、cookies等；用户在此不可撤销的同意无锡睿米信息技术有限公司对上述数据和信息享有使用权，并且为了提升车载蓝牙FM产品，改进车载蓝牙FM服务等目的，将该数据和信息提供给第三方使用。
+
+6、在用户使用车载蓝牙FM的产品和服务时，为了给用户提供更好的服务，车载蓝牙FM可能通过您的手机使用各种定位技术，用户在此不可撤销的同意车载蓝牙FM使用此技术为用户服务，并同意车载蓝牙FM授权第三方使用上述技术为用户提供服务。"</string>
+    <string name="protocol_title_3">3. Умови використання</string>
+    <string name="protocol_content_3">"
+1、用户在使用车载蓝牙FM服务时，必须遵守中华人民共和国相关法律法规的规定，用户应同意将不会利用本服务进行任何违法或不正当的活动，包括但不限于下列行为:
+·上载、展示、张贴、传播或以其它方式传送含有下列内容之一的信；
+·反对宪法所确定的基本原则的；
+·危害国家安全，泄露国家机密，颠覆国家政权，破坏国家统一的；
+·损害国家荣誉和利益的；
+·煽动民族仇恨、民族歧视、破坏民族团结的；
+·破坏国家宗教政策，宣扬邪教和封建迷信的；
+·散步谣言，扰乱社会秩序，破坏社会稳定的；
+·散步淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；
+·侮辱或者诽谤他人，侵害他人合法权利的；
+·含有虚假、有害、胁迫、侵害他人隐私、骚扰、侵害、中伤、粗俗、猥亵、或其它道德上令人感的内容；
+·含有中国法律、法规、规章、条例以及如何具有法律效力之规范所限制或禁止的其它内容的；
+·不得为任何非法目的而使用网络服务系统；
+·不利用车载蓝牙FM服务从事以下活动；
+·未经允许，进入计算机信息网络或者使用计算机信息网络资源的；
+·未经允许，对计算机信息网络功能进行删除、修改或者增加的；
+·未经允许，对进入计算机信息网络中存储、处理或者传输的数据和应用程序进行删除、修改或增加的；
+·故意制作、传播计算机病毒等破坏性程序的；
+·其他危害计算机信息网络安全的行为；
+
+2、用户违反本协议或相关的服务条款的规定，导致或产生的任何第三方主张的任何索赔、要求或损失，包括合理的律师费，您同意赔偿无锡睿米信息技术有限公司与合作公司、关联公司，并使之免受损害。对此，无锡睿米信息技术有限公司有权视用户的行为性质，采取包括但不限于删除用户发布信息内容、暂停使用许可、终止服务、限制使用、回收车载蓝牙FM帐号、追究法律责任等措施。对恶意注册车载蓝牙FM帐号或利用车载蓝牙FM帐号进行违法活动、捣乱、骚扰、欺骗、其他用户以及其他违反本协议的行为，无锡睿米信息技术有限公司有权回收其帐号。同时，无锡睿米信息技术有限公司会视司法部门的要求，协助调查。
+
+3、用户不得对本服务任何部分或本服务之使用或获得，进行复制、拷贝、出售、转售或用于任何其它商业目的。
+
+4、用户须对自己在使用车载蓝牙FM服务过程中的行为承担法律责任。用户承担法律责任的形式包括但不限于：对受到侵害者进行赔偿，以及在无锡睿米信息技术有限公司首先承担了因用户行为导致的行政处罚或侵权损害赔偿责任后，用户应给予无锡睿米信息技术有限公司等额的赔偿。"</string>
+    <string name="protocol_title_4">4. Послуги</string>
+    <string name="protocol_content_4">"
+1、车载蓝牙FM网络服务的具体内容由无锡睿米信息技术有限公司根据实际情况提供。
+
+2、除非本服务协议另有其它明示规定，无锡睿米信息技术有限公司所推出的新产品、新功能、新服务、均受到本服务协议之规范。
+
+3、为使用本服务，您必须能够自行经有法律资格对您提供互联网接入服务的第三方，进入国际互联网，并应自行支付相关服务费用。此外，您必须自行配备及负责与国际联网连线所需之一切必要装备，包括计算机、数据机或其它存取装置；
+
+4、鉴于网络服务的特殊性，用户同意无锡睿米信息技术有限公司有权不经事先通知，随时变更、中断或终止部分或全部的网络服务。无锡睿米信息技术有限公司不担保网络服务不会中断，对网络服务的及时性、安全性、准确性也都不作担保。
+
+5、无锡睿米信息技术有限公司需要定期或不定期地对提供网络服务的平台或相关的设备进行检修或者维护，如因此类情况而造成网络服务（包括收费服务）在合理时间内的中断，无锡睿米信息技术有限公司无需为此承担任何责任。无锡睿米信息技术有限公司保留不经事先通知为维修保养、升级或其它目的暂停本服务任何部分的权利。
+
+6、本服务或第三方可提供与其它国际互联网上之网站或资源之链接。由于无锡睿米信息技术有限公司无法控制这些网站及资源，您了解并同意，此类网站或资源是否可供利用，无锡睿米信息技术有限公司不予负责，存在或源于此类网站或资源之任何内容、广告、产品或其它资料，无锡睿米信息技术有限公司亦不予保证或负责。因使用或依赖任何此类网站或资源发布的或经由此类网站或资源获得的任何内容、商品或服务所产生的任何损害或损失，无锡睿米信息技术有限公司不承担任何责任。
+
+7、用户明确同意其使用车载蓝牙FM网络服务所存在的风险将完全其自己承担。用户理解并接受下载或通过车载蓝牙FM服务取得的任何信息资料取决于用户自己，并由其承担系统受损、资料丢失以及其它任何风险。无锡睿米信息技术有限公司对在服务网上得到的任何商品购物服务、交易进程、招聘信息，都不作担保。
+
+8、6个月未登陆的帐号，无锡睿米信息技术有限公司保留关闭的权利。
+
+9、无锡睿米信息技术有限公司有权于任何时间暂时或永久修改或终止车载蓝牙FM服务（或其任何部分），而无论其通知与否，无锡睿米信息技术有限公司对用户和任何第三人均无需承担任何责任。
+
+10、终止服务
+您同意车载蓝牙FM的基于其自行之考虑，因任何理由，包含但不限于长时间未使用，或车载蓝牙FM认为您已经违反本服务协议的文字及精神，终止您的密码、帐号或本服务之使用，并将您在本服务内任何内容加以移除并删除。您同意依本服务协议任何规定提供本服务，无需进行事先通知即可中断或终止，您承认并同意，车载蓝牙FM可立即关闭或删除您的帐号及您帐号中所有相关信息及文件。此外，您同意本服务之使用被中断或终止或您的帐号及相关信息和文件被关闭或删除，车载蓝牙FM对您或任何第三人均不承担任何责任。"</string>
+    <string name="protocol_title_5">5. Інше</string>
+    <string name="protocol_content_5">"
+1、本协议的订立、执行和解释及争议的解决均应适用中华人民共和国法律。
+
+2、如双方就本协议内容或其执行发生任何争议，双方应尽量友好协商解决；协商不成时，任何一方均可向无锡睿米信息技术有限公司所在地的人民法院提起诉讼。
+
+3、车载蓝牙FM未行使或执行本服务协议任何权利或规定，不构成对前述权利或权利之放弃。
+
+4、如本协议中的任何条款无论因何种原因完全或部分无效或不具有执行力，本协议的其余条款仍有效并且有约束力。
+
+请您在发现任何违反本服务协议以及其他任何单项服务的服务条款，请及时通知无锡睿米信息技术有限公司。
+
+本产品在行车过程中给您带来诸多便利，但为了您行车的安全，我们强烈建议您在行车过程中按规程正确使用本产品，在行车过程中由于使用不当造成的各类事故，无锡睿米信息技术有限公司概不负责。"</string>
+    <string name="shake_song">Пісня рукопотискання</string>
+    <string name="shake_song_tip">Увага: Деякі телефони не підтримують функції пісні рукопотискання.</string>
+    <string name="phone_voice_title">Проекція рінгтону</string>
+    <string name="push_activity">Натисніть діяльність</string>
+    <string name="setting">Налаштування</string>
+    <string name="update">Перевірити наявність оновлень</string>
+    <string name="update_title">Оновлення програмного забезпечення</string>
+    <string name="update_info">З'ясувати чи є нова версія</string>
+    <string name="update_state_no">Ви використовуєте останню версію</string>
+    <string name="update_state_yes">Нова версія доступна</string>
+    <string name="update_timeout">Час запиту вичерпано!</string>
+    <string name="update_not_find_file">Apk файл не знайдено!</string>
+    <string name="update_getInfo">Перевірити чи є нова версія…</string>
+    <string name="update_download_info">Завантаження нової версії …%1$s</string>
+    <string name="update_download_progress">%1$s/%2$s</string>
+    <string name="update_download_fail">Не вдалося завантажити! Будь ласка, спробуйте пізніше.</string>
+    <string name="update_download_again">Завантажити знову</string>
+    <string name="update_latest">Це остання версія</string>
+    <string name="update_latest_version">Знайдено нову версію: %1$s</string>
+    <string name="update_download">Оновити</string>
+    <string name="update_install">Встановити</string>
+    <string name="update_dialog_title">Нова версія доступна, оновіть її! (Версія V%1$s)</string>
+    <string name="update_dialog_title_force">Нова версія доступна, для продовження використання цього додатку вам потрібно оновити додаток!</string>
+    <string name="update_dialog_not_update">Оновити пізніше</string>
+    <string name="update_dialog_update">Оновити зараз</string>
+    <string name="voice_title">Голосові підказки</string>
+    <string name="voice_mode_close">вимкнути</string>
+    <string name="voice_info">是否每次启动音乐app时进行语音提醒</string>
+    <string name="voice_info_title">是否开启语音提示（疲劳驾驶、打开播放器等）？</string>
+    <string name="key_pair_none">Адаптер розпарено</string>
+    <string name="key_pairing">Парування адаптеру</string>
+    <string name="key_not_pair">Адаптер не зпарено</string>
+    <string name="key_pair_success">Успішно зпарено адаптер</string>
+    <string name="key_pair_fail">Не вдалося зпарувати</string>
+    <string name="key_pair_tip1">请按下方操作配对</string>
+    <string name="key_pair_tip2">请同时按上、下键进行配对</string>
+    <string name="key_pair_tip3">欢迎回来</string>
+    <string name="key_pair_tip4">点击下方重新配对</string>
+    <string name="key_pair_change_direction">切换左右键控制方向</string>
+    <string name="key_pair_buy">Кнопка придбати</string>
+    <string name="key_pair_begin">Почати парування</string>
+    <string name="key_pair_title">Парувати</string>
+    <string name="key_pair_rebegin">Пере-парувати</string>
+</resources>
