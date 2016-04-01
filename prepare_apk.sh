@@ -8,6 +8,9 @@ echo "Starting build..."
 
 original_name="mifm-1.41"
 
+rm -rf ./dist/
+mkdir -p ./dist/
+
 mkdir -p ./$original_name/
 
 echo "./apps/apktool d ./original_apk/$original_name.apk --output ./$original_name/ -f"
