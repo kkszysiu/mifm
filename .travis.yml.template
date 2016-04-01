@@ -1,0 +1,16 @@
+# language: java
+language: android
+
+jdk:
+  - oraclejdk7
+
+script: ./prepare_apk.sh
+
+deploy:
+  provider: releases
+  api_key: "$mifm_deployment_token"
+  file:
+>-DIST_FILES-<
+  skip_cleanup: true
+  on:
+    tags: true
