@@ -47,8 +47,8 @@
     <string name="bt_not_open">Bluetooth не відкрито</string>
     <string name="bt_link_title">Bluetooth:</string>
     <string name="bt_link_ok_info">Bluetooth підключення в порядку</string>
-    <string name="bt_link_ok">Пов'язано</string>
-    <string name="bt_link_fail">Непов'язано</string>
+    <string name="bt_link_ok">Пов\'язано</string>
+    <string name="bt_link_fail">Непов\'язано</string>
     <string name="channel_change">FM</string>
     <string name="channel_set_title">Задати частоту</string>
     <string name="channel_send_title">FM частота передачі: %1$sМГц</string>
@@ -86,9 +86,9 @@
     <string name="firmware_name">Car Bluetooth FM</string>
     <string name="firmware_version">Версія прошивки</string>
     <string name="firmware_update">Оновити прошивку</string>
-    <string name="feed_back">Зворотній зв'язок</string>
+    <string name="feed_back">Зворотній зв\'язок</string>
     <string name="defout_contact">Ваша контактна інформація (email, phone, QQ)</string>
-    <string name="defout_content">Дякуємо вам за зворотній зв'язок, ми уважно розглянемо ваші пропозиції та коментарі.</string>
+    <string name="defout_content">Дякуємо вам за зворотній зв\'язок, ми уважно розглянемо ваші пропозиції та коментарі.</string>
     <string name="fb_contact_empty">联系方式不能为空！</string>
     <string name="fb_contact_error">联系方式格式错误！</string>
     <string name="fb_content_empty">反馈意见不能为空！</string>
@@ -120,7 +120,7 @@
     <string name="guide_bt_success">Bluetooth підключення успішне</string>
     <string name="guide_bt_success_info">Ваш телефон успішно підключено до адаптеру</string>
     <string name="voice_detection_title">Виявлення голосу</string>
-    <string name="voice_detection_tip">Натисніть для відправлення звуку, щоб з'ясувати чи підключення успішне</string>
+    <string name="voice_detection_tip">Натисніть для відправлення звуку, щоб з\'ясувати чи підключення успішне</string>
     <string name="send_voice">Відправити звук</string>
     <string name="send_voice_fail">Не чуєте звуку, змініть FM частоту та поверніться</string>
     <string name="send_voice_success">Я почув звук, перейти до наступного кроку</string>
@@ -310,7 +310,7 @@
     <string name="setting">Налаштування</string>
     <string name="update">Перевірити наявність оновлень</string>
     <string name="update_title">Оновлення програмного забезпечення</string>
-    <string name="update_info">З'ясувати чи є нова версія</string>
+    <string name="update_info">З\'ясувати чи є нова версія</string>
     <string name="update_state_no">Ви використовуєте останню версію</string>
     <string name="update_state_yes">Нова версія доступна</string>
     <string name="update_timeout">Час запиту вичерпано!</string>
