@@ -102,8 +102,12 @@
     <string name="guide_login">Login</string>
     <string name="guide_1">登录则表示您同意遵守小米的</string>
     <string name="guide_2">e</string>
-    <string name="guide_protocol"><u>用户协议</u></string>
-    <string name="guide_privacy_policyl"><u>隐私政策</u></string>
+    <string name="guide_protocol">
+        <u>用户协议</u>
+    </string>
+    <string name="guide_privacy_policyl">
+        <u>隐私政策</u>
+    </string>
     <string name="guide_start_up">开机自启动</string>
     <string name="guide_start_up_info1">保证程序正常运行</string>
     <string name="guide_start_up_info2">设置成功后，按手机返回键返回本界面</string>
@@ -342,4 +346,8 @@
     <string name="key_pair_begin">Inizia accoppiamento</string>
     <string name="key_pair_title">Accoppia</string>
     <string name="key_pair_rebegin">Accoppia di nuovo</string>
+    <string name="download_fail_nofilename">File error（400）</string>
+    <string name="update_dialog_title_force">New version available, to continue using this app you have to update this app!</string>
+    <string name="info_center">Info Center</string>
+    <string name="btn_exit">Exit</string>
 </resources>
