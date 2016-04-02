@@ -52,7 +52,7 @@
     <string name="channel_set_title">Imposta la frequenza</string>
     <string name="channel_send_title">Frequenza di trasmissione FM: %1$sMHZ</string>
     <string name="channel_send_current">Frequenza attuale</string>
-    <string name="channel_prompt">sincronizza la frequenza sull'autoradio</string>
+    <string name="channel_prompt">sincronizza la frequenza sull\'autoradio</string>
     <string name="channel_recommend">Frequenza raccomandata</string>
     <string name="drive_title_today">今日行驶记录</string>
     <string name="drive_title">Driving record</string>
@@ -109,7 +109,7 @@
     <string name="guide_start_up_info2">设置成功后，按手机返回键返回本界面</string>
     <string name="guide_start_up_setting">打开自启动设置</string>
     <string name="guide_install">Installazione del dongle</string>
-    <string name="guide_install_info">Inserisci il dongle nell'accendisigari</string>
+    <string name="guide_install_info">Inserisci il dongle nell\'accendisigari</string>
     <string name="guide_install_ok">Ok, dongle collegato!</string>
     <string name="guide_bt">Connettività Bluetooth</string>
     <string name="guide_bt_info">Vai alle impostazioni Bluetooth per collegare il telefono al dongle</string>
@@ -193,9 +193,9 @@
     <string name="music_title">lettore musicale</string>
     <string name="music_not_install">App non installata</string>
     <string name="music_main_title">Lettore musicale selezionato:</string>
-    <string name="music_main_default_title">Seleziona l'App di default ora!</string>
+    <string name="music_main_default_title">Seleziona l\'App di default ora!</string>
     <string name="music_mode">Autoplay</string>
-    <string name="music_chose_app">Seleziona l'applicazione</string>
+    <string name="music_chose_app">Seleziona l\'applicazione</string>
     <string name="music_info">米键可以直接操作该播放器</string>
     <string name="music_chose">Scegli il lettore musicale di default</string>
     <string name="music_open">Apri</string>
@@ -308,7 +308,7 @@
     <string name="update">Controlla aggiornamenti</string>
     <string name="update_title">Aggiornamento software</string>
     <string name="update_info">Controlla aggiornamenti</string>
-    <string name="update_state_no">Stai usando l'ultima versione disponibile</string>
+    <string name="update_state_no">Stai usando l\'ultima versione disponibile</string>
     <string name="update_state_yes">È disponibile una nuova versione</string>
     <string name="update_timeout">Tempo di richiesta scaduto!</string>
     <string name="update_not_find_file">File APK non trovato!</string>
@@ -317,7 +317,7 @@
     <string name="update_download_progress">%1$s/%2$s</string>
     <string name="update_download_fail">Download fallito! Prova più tardi.</string>
     <string name="update_download_again">Scarica di nuovo</string>
-    <string name="update_latest">Questa è l'ultima versione disponibile</string>
+    <string name="update_latest">Questa è l\'ultima versione disponibile</string>
     <string name="update_latest_version">La nuova versione rilevata è: %1$s</string>
     <string name="update_download">Aggiorna</string>
     <string name="update_install">Installa</string>
