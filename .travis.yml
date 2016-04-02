@@ -11,6 +11,7 @@ deploy:
   api_key: "$mifm_deployment_token"
   file:
     - dist/mifm-1.41_en.apk
+    - dist/mifm-1.41_it.apk
     - dist/mifm-1.41_pl.apk
     - dist/mifm-1.41_ru.apk
     - dist/mifm-1.41_sk.apk
