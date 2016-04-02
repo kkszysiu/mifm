@@ -10,6 +10,7 @@ original_name="mifm-1.41"
 
 rm -rf ./dist/
 mkdir -p ./dist/
+touch ./dist/.gitkeep
 
 mkdir -p ./$original_name/
 
