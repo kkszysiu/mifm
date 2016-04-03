@@ -56,7 +56,7 @@
     <string name="channel_prompt">Tune in to this frequency!</string>
     <string name="channel_recommend">Recommended frequency</string>
     <string name="download_fail_nofilename">File error（400）</string>
-    <string name="drive_title_today">Today's stats</string>
+    <string name="drive_title_today">Today\'s stats</string>
     <string name="drive_title">Driving stats</string>
     <string name="drive_title_drive">Travel</string>
     <string name="drive_title_drive_today">Driven today:</string>
@@ -67,7 +67,7 @@
     <string name="drive_time_30_1">"Congratulations, you have won a green bar!"</string>
     <string name="drive_time_30_2">"Congratulations, you won another green bar!"</string>
     <string name="drive_time_30_3">"You have to love being eco-friendly! With little effort each day, we come closer to our goal!"</string>
-    <string name="drive_time_60">"Oh okay, you must know, that you can't earn more than one dream bar per day."</string>
+    <string name="drive_time_60">"Oh okay, you must know, that you can\'t earn more than one dream bar per day."</string>
     <string name="drive_time_120">Congratulations, the roads are even more green!</string>
     <string name="drive_time_300_1">"Congratulations, your smart driving left some footprint! Continue like this to have more fun!"</string>
     <string name="drive_time_300_2">"Wow, you\'ve been driving more than 2 hours, you\'ll be on the leaderboard!"</string>
@@ -131,7 +131,7 @@
     <string name="help_Q2">2) RoidMi can\'t connect to bluetooth</string>
     <string name="help_A2">Answer: Try replugging your RoidMi, then search again, and reconnect.</string>
     <string name="help_Q3">3) RoidMi is connected, but there\'s no sound!</string>
-    <string name="help_A3">Answer: Go to the app, set a frequency, and make sure you tune in to that frequency in your car's radio.</string>
+    <string name="help_A3">Answer: Go to the app, set a frequency, and make sure you tune in to that frequency in your car\'s radio.</string>
     <string name="help_Q4">4) The music player is not my default one!</string>
     <string name="help_A4">Answer: Go to app, and select your default music player from the option.</string>
     <string name="help_Q5">5) After selecting Auto Play, it doesn\'t start music automatically!</string>
