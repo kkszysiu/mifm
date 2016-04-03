@@ -305,7 +305,7 @@
 
 本产品在行车过程中给您带来诸多便利，但为了您行车的安全，我们强烈建议您在行车过程中按规程正确使用本产品，在行车过程中由于使用不当造成的各类事故，无锡睿米信息技术有限公司概不负责。"</string>
     <string name="shake_song">Shake musicale</string>
-    <string name="shake_song_tip">Sttenzione: alcuni telefoni non supportano lo shake.</string>
+    <string name="shake_song_tip">Attenzione: alcuni telefoni non supportano lo shake.</string>
     <string name="phone_voice_title">Invio suonerie</string>
     <string name="push_activity">Attività Push</string>
     <string name="setting">Impostazioni</string>
@@ -346,8 +346,8 @@
     <string name="key_pair_begin">Inizia accoppiamento</string>
     <string name="key_pair_title">Accoppia</string>
     <string name="key_pair_rebegin">Accoppia di nuovo</string>
-    <string name="download_fail_nofilename">File error（400）</string>
-    <string name="update_dialog_title_force">New version available, to continue using this app you have to update this app!</string>
-    <string name="info_center">Info Center</string>
-    <string name="btn_exit">Exit</string>
+    <string name="download_fail_nofilename">Errore nel file（400）</string>
+    <string name="update_dialog_title_force">È disponibile una nuova versione dell\'applicazione, per continuare ad usarla devi aggiornare!</string>
+    <string name="info_center">Centro informazioni</string>
+    <string name="btn_exit">Esci</string>
 </resources>
