@@ -40,9 +40,9 @@
     <string name="auto_state_play">Грати</string>
     <string name="auto_state_click_info">Натисніть Гаразд, щоб відкрити плеєр за промовчання</string>
     <string name="auto_state_play_info">Запускає плеєр та починає відтворення музики</string>
-    <string name="auto_bt_disconnected">Зробіть це після того, як BT успішно підключено</string>
+    <string name="auto_bt_disconnected">Зробіть це після того, як BT буде успішно підключено</string>
     <string name="auto_prompt_default">За промовчанням.</string>
-    <string name="auto_prompt_click">Натисніть та чекайте, щоб відкрити.</string>
+    <string name="auto_prompt_click">Відкрити довгим натисканням.</string>
     <string name="auto_prompt_play">Автоматичне відтворення. Перезапустіть Bluetooth, щоб зміни вступили в силу.</string>
     <string name="bt_not_open">Bluetooth не відкрито</string>
     <string name="bt_link_title">Bluetooth:</string>
@@ -198,12 +198,12 @@
     <string name="music_set_click">Плеєр успішно налаштовано. Вийдіть з поточного плеєра довгим натисканням та відкрийте новий плеєр.</string>
     <string name="music_set_play">Плеєр успішно налаштовано. Перезапустіть додаток, щоб зміни вступили в силу</string>
     <string name="protocol">Відмова від відповідальності</string>
-    <string name="protocol_check_cont">Я прочита та погоджуюся із "Угода RoidMi"</string>
+    <string name="protocol_check_cont">Я прочитав(ла) та погоджуюся із "Угодою"</string>
     <string name="protocol_ok">Підтвердити</string>
     <string name="protocol_mi_protocol">Угода</string>
     <string name="protocol_mi_privacy_policyl">Політика конфіденційності</string>
     <string name="protocol_load_fail">Не вдалося завантажити Угоду!</string>
-    <string name="protocol_title_1">1. Загальні положення</string>
+    <string name="protocol_title_1">1. General Provisions</string>
     <string name="protocol_content_1">"
 1) The user agrees to the terms of this Agreement and follow the instructions on the page to complete all registration procedures. The user during the registration process, click on the "Agree" button means that the user and the meter Wuxi Rui Information Technology Co., Ltd. reached an agreement, accepted all the terms of this Agreement.
 
@@ -214,7 +214,7 @@
 4) Bluetooth FM Member Service Agreement and various announcements by the Terms of Service and Information Technology Co., Ltd. Wuxi Rui meters updated and revised without notice. When you use related services, Bluetooth FM should be concerned about this updated and revised notice, and comply with the terms they use.
 
 Before you use Bluetooth FM to provide the services, the user should read this Agreement carefully. If you do not agree with and / or modification of the Service at any time, you can take the initiative to cancel the service provided by Bluetooth FM; once you use Bluetooth FM service is deemed to have understood and fully agree with the content of the Service Agreement , including any modifications meters Wuxi Rui Information Technology Co., Ltd. made at any time of the service agreement, and become Bluetooth FM users."</string>
-    <string name="protocol_title_2">2. Приватність</string>
+    <string name="protocol_title_2">2. Privacy</string>
     <string name="protocol_content_2">"
 1) Bluetooth FM account (ie Bluetooth FM user ID) of rice owned by Wuxi Rui Information Technology Co., Ltd., the user complete the registration formalities, Bluetooth FM obtained the right to use the account. Users should provide timely, accurate and detailed personal information and update registration information, with timely, detailed and accurate requirements, all the original type of information will be used for registration information. If the problem is due to the registration information is untrue and caused problems and consequences occur, rice Wuxi Rui Information Technology Co. assumes no responsibility.
 
@@ -232,7 +232,7 @@ Before you use Bluetooth FM to provide the services, the user should read this A
 5) When the user uses Bluetooth FM products and services, a variety of data and information Bluetooth FM will be actively or passively collect and access the user's behavior arising; including but not limited to location information, IP address, device information , cookies, etc; user hereby irrevocably consent Wuxi Rui information Technology Co., Ltd. meters above the right to use the data and information, and in order to enhance Bluetooth FM products, improved Bluetooth FM service purposes, the data and information provided to the third parties.
 
 6) When the user uses Bluetooth FM products and services, in order to provide better service, Bluetooth FM possible through your phone using a variety of positioning technology, the user hereby irrevocably consent to use this technology Bluetooth FM for customer service, and we agreed Bluetooth FM authorise third parties to use these technologies to provide users with services."</string>
-    <string name="protocol_title_3">3. Умови використання</string>
+    <string name="protocol_title_3">3. Terms of Service</string>
     <string name="protocol_content_3">"
 1) The user when using Bluetooth FM service, must comply with the provisions of relevant laws and regulations of the People's Republic of China, the user should agree to not use the Service for any illegal or improper activity, including, but not limited to the following acts:
 · Uploaded, displayed, posted, transmitted or otherwise transmit the letter containing the following contents;
@@ -259,7 +259,7 @@ Before you use Bluetooth FM to provide the services, the user should read this A
 3) The user may not use the Service or any part of the Service or obtain, copy, copy, sell, resell or exploit for any other commercial purposes.
 
 4) The user must use their own Bluetooth FM service process acts liable. User liability forms include, but are not limited to: compensation for those who have been violated, as well as in Wuxi Rui Information Technology Co., Ltd. meters first assumed the administrative penalties or liability for damages resulting from infringement by user behavior, the user should be given Wuxi Rui meters Information Technology Co., equal compensation."</string>
-    <string name="protocol_title_4">4. Послуги</string>
+    <string name="protocol_title_4">4. Services</string>
     <string name="protocol_content_4">"
 1) The specific content of Bluetooth FM network services provided by the Information Technology Co., Ltd. Wuxi Rui meter according to the actual situation.
 
@@ -281,7 +281,7 @@ Before you use Bluetooth FM to provide the services, the user should read this A
 
 10) Termination of service:
 You agree Bluetooth FM in its sole discretion based on consideration, for any reason, including but not limited to, prolonged use, or Bluetooth FM believe that you have violated the text and the spirit of the service agreement, terminate your password, account number or the Service the use, and take you to remove any content within the service and delete. You agree that any provision of services under this Agreement to provide this service, can be interrupted or terminated without prior notice, you acknowledge and agree that Bluetooth FM can deactivate or delete your account and your account all relevant information and documents immediately. In addition, you agree to use the Service is interrupted or terminated or your account number and related information and files are closed or deleted, Bluetooth FM to you or any third party shall not bear any responsibility."</string>
-    <string name="protocol_title_5">5. Інше</string>
+    <string name="protocol_title_5">5. Other</string>
     <string name="protocol_content_5">"
 1) To enter into this agreement, implementation and interpretation and dispute settlement should apply the law People's Republic of China.
 
@@ -295,7 +295,7 @@ In case you found any violation of the service agreement and any other terms of 
 
 This product is designed to bring you a lot of convenience, but for your driving safety, we strongly recommend that you use the product according to the rules proper use of this product, all kinds of traffic accidents in the process due to improper use, Wuxi Rui m Information Technology Co., Ltd. will not be responsible."</string>
     <string name="shake_song">Song shake</string>
-    <string name="shake_song_tip">Увага: Деякі телефони не підтримують функції song shake.</string>
+    <string name="shake_song_tip">Увага: Деякі телефони не підтримують функції Song shake.</string>
     <string name="phone_voice_title">Музика</string>
     <string name="push_activity">Натисніть діяльність</string>
     <string name="setting">Налаштування</string>
