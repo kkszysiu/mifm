@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Car Bluetooth FM</string>
-    <string name="app_name_show">Car Bluetooth Player</string>
+    <string name="app_name">MiFM</string>
+    <string name="app_name_show">XiaoMi MiFM</string>
     <string name="app_version">Versione software: %1$s</string>
     <string name="btn_change">cambia frequenza</string>
     <string name="btn_bt">Impostazioni Bluetooth</string>

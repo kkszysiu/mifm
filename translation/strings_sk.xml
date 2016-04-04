@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RoidMi</string>
-    <string name="app_name_show">RoidMi FM Transmiter</string>
+    <string name="app_name">MiFM</string>
+    <string name="app_name_show">XiaoMi MiFM</string>
     <string name="app_version">Verzia softvéru: %1$s</string>
     <string name="btn_change">Zmena frekvenice</string>
     <string name="btn_bt">Nastavenia Bluetooth</string>
