@@ -29,8 +29,8 @@
     <string name="No_Data">No data</string>
     <string name="No_Create_File">Cannot create file</string>
     <string name="Net_not_connected">Please check if network is available.</string>
-    <string name="space_insufficient">Insufficient space</string>
-    <string name="No_WIFI">You are using mobile data plan! Charges may apply. To continue, press OK.</string>
+    <string name="space_insufficient">Insufficient storage</string>
+    <string name="No_WIFI">You are using mobile data! Charges may apply. To continue, press OK.</string>
     <string name="about">About</string>
     <string name="auto_title">Start mode</string>
     <string name="auto_info">Music player mode</string>
@@ -52,7 +52,7 @@
     <string name="channel_change">FM</string>
     <string name="channel_set_title">Set frequency</string>
     <string name="channel_send_title">FM transmission frequency: %1$sMHZ</string>
-    <string name="channel_send_current">Current frequency</string>
+    <string name="channel_send_current">Transmitting at:</string>
     <string name="channel_prompt">Tune in to this frequency!</string>
     <string name="channel_recommend">Recommended frequency</string>
     <string name="download_fail_nofilename">File error（400）</string>
@@ -80,20 +80,20 @@
     <string name="feed_back">Feedback</string>
     <string name="defout_contact">Your contact information (email, phone, etc)</string>
     <string name="defout_content">Thanks for your feedback, we will carefully review your suggestions and comments.</string>
-    <string name="fb_contact_empty">Forms can\'nt be empty!</string>
+    <string name="fb_contact_empty">Forms can\'t be empty!</string>
     <string name="fb_contact_error">Contact error!</string>
     <string name="fb_content_empty">Feedback cannot be empty!</string>
     <string name="fb_send">Send</string>
     <string name="fb_sending">Sending…</string>
     <string name="fb_send_success">Sent successfully</string>
-    <string name="fb_send_fail">Failed to send</string>
+    <string name="fb_send_fail">Sending failed</string>
     <string name="feed_back_list_null1">We look forward to viewing your opinion,</string>
     <string name="feed_back_list_null2">to bring you the best experience!</string>
     <string name="guide">Tutorial</string>
     <string name="guide_use">Reconfigure</string>
     <string name="guide_title">XiaoMi RoidMi</string>
     <string name="guide_login">Login</string>
-    <string name="guide_1">By logging in, you agree to the terms of use.</string>
+    <string name="guide_1">By logging in, you agree to the terms of service.</string>
     <string name="guide_2">and</string>
     <string name="guide_protocol"><u>User Agreement</u></string>
     <string name="guide_privacy_policyl"><u>Privacy Policy</u></string>
@@ -105,9 +105,9 @@
     <string name="guide_install_info">Plug your RoidMi into the lighter socket</string>
     <string name="guide_install_ok">Ok, RoidMi is plugged!</string>
     <string name="guide_bt">Bluetooth connectivity</string>
-    <string name="guide_bt_info">Please go to the BT settings to pair your phone with RoidMi</string>
+    <string name="guide_bt_info">Please go to bluetooth settings to pair your phone with RoidMi</string>
     <string name="guide_bt_link_info">After pairing successfully, press back button to return to this screen.</string>
-    <string name="guide_bt_setting">Go to BT settings</string>
+    <string name="guide_bt_setting">Go to bluetooth settings</string>
     <string name="guide_bt_success">Bluetooth connection is successful</string>
     <string name="guide_bt_success_info">Successfully connected to RoidMi</string>
     <string name="voice_detection_title">Voice Detection</string>
@@ -149,23 +149,23 @@
     <string name="help_Q11">11) I can\'t use some music formats?</string>
     <string name="help_A11">Answer: RoidMi does not handle software. It is likely your player\'s fault. Check again with another player.</string>
     <string name="help_CC_Q1">Is RoidMi in range of the phone?</string>
-    <string name="help_CC_A1">播放器通过蓝牙与手机连接，播放器和手机的距离越近，越有利于播放器和手机连接。</string>
-    <string name="help_CC_Q2">播放器是否还有供电？</string>
-    <string name="help_CC_A2">如果播放器和手机距离很近还是没有查找到，请检查播放器的供电情况，播放器指示灯是否闪烁，可拔出播放器重新插入点烟器内。</string>
-    <string name="help_CC_Q3">尝试重新启动蓝牙？</string>
-    <string name="help_CC_A3">如果播放器供电状况良好，手机仍无法查找到，可以尝试将手机的蓝牙关闭后重新打开，稍等一会后重新搜索播放器。</string>
-    <string name="help_CC_Q4">播放器已和其它手机绑定？</string>
-    <string name="help_CC_A4">如果你的播放器已经和其它手机绑定，并且绑定的手机仍在播放器附近，此时你需要关闭已绑定手机的蓝牙，然后重新使用新手机搜索播放器。</string>
-    <string name="help_CC_Q5">尝试重新连接手机？</string>
-    <string name="help_CC_A5">请尝试重启手机后，重新打开车载蓝牙FM应用。</string>
-    <string name="help_CC_Q6">播放器接触不良？</string>
-    <string name="help_CC_A6">注意烟充内是否有烟灰残留物，如有，请先清洁后再插入产品</string>
-    <string name="help_CC_Q7">对于不能手动调节频率的车载FM怎么办？</string>
-    <string name="help_CC_A7">将车载FM调节到一个频率，然后将app频率调到对应的频率，点击确定即可</string>
-    <string name="help_CC_Q8">为什么推荐使用FM调至空频率？</string>
-    <string name="help_CC_A8">FM信号会相互干扰，当FM信号过强，可能会听不到产品发射FM信号，造成FM发射有问题，因此根据当地频率覆盖强弱，我们为您推荐了三个空频率</string>
-    <string name="help_CC_Q9">怎么调到一个最佳频率？</string>
-    <string name="help_CC_A9">推荐频率也许未必是你所在城市最佳的选择，可以尝试用手动方式增减0.1MHz调节汽车FM到一个没有电台干扰的频率，同时记得将手机APP也调节到同样频率。如果一段时间听下来非常OK，也欢迎你将所在城市和频率通过“关于”中的“意见反馈”分享给我们，我们可以在软件迭代时优化推荐频率给你所在城市的小伙伴们。</string>
+    <string name="help_CC_A1">RoidMi works with your phone via Bluetooth, so the closer your phone is to the RoidMi, the better connection it will have.</string>
+    <string name="help_CC_Q2">Is RoidMi powered on?</string>
+    <string name="help_CC_A2">If your phone can\'t find your RoidMi, check if the LED in the USB ports is on. If not, make sure your car lighter socket is compatible with the device and it has power. If it does, replugging the RoidMi will power on the device.</string>
+    <string name="help_CC_Q3">Should I restart Bluetooth?</string>
+    <string name="help_CC_A3">If RoidMi is powered on, and your phone can\'t find it, try restarting your Bluetooth. After a few seconds, search again for RoidMi.</string>
+    <string name="help_CC_Q4">What if RoidMi is paired with another phone in range?</string>
+    <string name="help_CC_A4">In that case, you should turn off the other phone\'s bluetooth, and try reconnecting.</string>
+    <string name="help_CC_Q5">I can\'t reconnect the phone!</string>
+    <string name="help_CC_A5">Reboot your phone, and/or restart the app.</string>
+    <string name="help_CC_Q6">Bluetooth connection is weak.</string>
+    <string name="help_CC_A6">Make sure the lighter socket is clean of any soot, and plug your RoidMi in after you clean it.</string>
+    <string name="help_CC_Q7">How to adjust the transmitting frequency correctly?</string>
+    <string name="help_CC_A7">Search for a free frequency on your car, and then, when you find it, change the RoidMi\'s transmitting frequency within the app, and match the radio\'s frequency.</string>
+    <string name="help_CC_Q8">Why is it recommended that I find a free frequency?</string>
+    <string name="help_CC_A8">Because the two frequencies would interfere, and you wouldn\'t be able to hear your music. Adjust your frequency accordingly.</string>
+    <string name="help_CC_Q9">What if the recommended frequency doesn\'t work?</string>
+    <string name="help_CC_A9">The recommended frequency may not work in your city. Find a free frequency with around three free channels in between, tune in your RoidMi to the same channel, and using the feedback feature, we will change the recommended frequency for your city! </string>
     <string name="info_center">Info Center</string>
     <string name="login">Login</string>
     <string name="login_fail">Login failed</string>
@@ -209,14 +209,14 @@
 
 2) The user registration is successful, Wuxi Rui Information Technology Co., Ltd. meters will give each user a user account and corresponding password, the user ID and password from the user responsible for the custody; users should all activities and events in their user account's legal liability.
 
-3) The user can use Bluetooth FM channels each individual service, when a user uses Bluetooth FM each individual service, the user's behavior as the terms of their service to the individual services as well as Bluetooth FM issued at the individual service agreed class bulletin.
+3) The user can use RoidMi channels each individual service, when a user uses RoidMi each individual service, the user's behavior as the terms of their service to the individual services as well as RoidMi issued at the individual service agreed class bulletin.
 
-4) Bluetooth FM Member Service Agreement and various announcements by the Terms of Service and Information Technology Co., Ltd. Wuxi Rui meters updated and revised without notice. When you use related services, Bluetooth FM should be concerned about this updated and revised notice, and comply with the terms they use.
+4) RoidMi Member Service Agreement and various announcements by the Terms of Service and Information Technology Co., Ltd. Wuxi Rui meters updated and revised without notice. When you use related services, RoidMi should be concerned about this updated and revised notice, and comply with the terms they use.
 
-Before you use Bluetooth FM to provide the services, the user should read this Agreement carefully. If you do not agree with and / or modification of the Service at any time, you can take the initiative to cancel the service provided by Bluetooth FM; once you use Bluetooth FM service is deemed to have understood and fully agree with the content of the Service Agreement , including any modifications meters Wuxi Rui Information Technology Co., Ltd. made at any time of the service agreement, and become Bluetooth FM users."</string>
+Before you use RoidMi to provide the services, the user should read this Agreement carefully. If you do not agree with and / or modification of the Service at any time, you can take the initiative to cancel the service provided by RoidMi; once you use RoidMi service is deemed to have understood and fully agree with the content of the Service Agreement , including any modifications meters Wuxi Rui Information Technology Co., Ltd. made at any time of the service agreement, and become RoidMi users."</string>
     <string name="protocol_title_2">2. Privacy</string>
     <string name="protocol_content_2">"
-1) Bluetooth FM account (ie Bluetooth FM user ID) of rice owned by Wuxi Rui Information Technology Co., Ltd., the user complete the registration formalities, Bluetooth FM obtained the right to use the account. Users should provide timely, accurate and detailed personal information and update registration information, with timely, detailed and accurate requirements, all the original type of information will be used for registration information. If the problem is due to the registration information is untrue and caused problems and consequences occur, rice Wuxi Rui Information Technology Co. assumes no responsibility.
+1) RoidMi account (ie RoidMi user ID) of rice owned by Wuxi Rui Information Technology Co., Ltd., the user complete the registration formalities, RoidMi obtained the right to use the account. Users should provide timely, accurate and detailed personal information and update registration information, with timely, detailed and accurate requirements, all the original type of information will be used for registration information. If the problem is due to the registration information is untrue and caused problems and consequences occur, rice Wuxi Rui Information Technology Co. assumes no responsibility.
 
 2) Users must not transfer, sell or lend to others account info and/or password, if the meter Wuxi Rui Information Technology Co., found the user account is not registered himself, Wuxi Rui meter IT Ltd reserves the right to discontinue service. If users find that their account has been illegally used by others, you should immediately notify meters Wuxi Rui Information Technology Co. A result of hacking or user violation of this agreement lead to account, password illegal use by others, and assumes all legal liability and loss caused by the user himself, Wuxi Rui Information Technology Co., rice does not bear any responsibility.
 
@@ -227,14 +227,14 @@ Before you use Bluetooth FM to provide the services, the user should read this A
 (4) in accordance with the requirements of the relevant government departments;
 (5) to safeguard the legitimate rights and interests of Wuxi Rui Information Technology Co., Ltd. meters.
 
-4) Registered users Bluetooth FM account, use other Bluetooth FM products or services, visit Bluetooth FM website, or participate in promotions and prize games, Bluetooth FM collect user's personally identifiable information. Information Technology Co., Ltd. Wuxi Rui meter will not provide to any third party, sell, lease, share trading and the user's personally identifiable information. However, the user agrees meters Wuxi Rui Information Technology Co., a user's personally identifiable information to improve services and web content provided.
+4) Registered users RoidMi account, use other RoidMi products or services, visit RoidMi website, or participate in promotions and prize games, RoidMi collect user's personally identifiable information. Information Technology Co., Ltd. Wuxi Rui meter will not provide to any third party, sell, lease, share trading and the user's personally identifiable information. However, the user agrees meters Wuxi Rui Information Technology Co., a user's personally identifiable information to improve services and web content provided.
 
-5) When the user uses Bluetooth FM products and services, a variety of data and information Bluetooth FM will be actively or passively collect and access the user's behavior arising; including but not limited to location information, IP address, device information , cookies, etc; user hereby irrevocably consent Wuxi Rui information Technology Co., Ltd. meters above the right to use the data and information, and in order to enhance Bluetooth FM products, improved Bluetooth FM service purposes, the data and information provided to the third parties.
+5) When the user uses RoidMi products and services, a variety of data and information RoidMi will be actively or passively collect and access the user's behavior arising; including but not limited to location information, IP address, device information , cookies, etc; user hereby irrevocably consent Wuxi Rui information Technology Co., Ltd. meters above the right to use the data and information, and in order to enhance RoidMi products, improved RoidMi service purposes, the data and information provided to the third parties.
 
-6) When the user uses Bluetooth FM products and services, in order to provide better service, Bluetooth FM possible through your phone using a variety of positioning technology, the user hereby irrevocably consent to use this technology Bluetooth FM for customer service, and we agreed Bluetooth FM authorise third parties to use these technologies to provide users with services."</string>
+6) When the user uses RoidMi products and services, in order to provide better service, RoidMi possible through your phone using a variety of positioning technology, the user hereby irrevocably consent to use this technology RoidMi for customer service, and we agreed RoidMi authorise third parties to use these technologies to provide users with services."</string>
     <string name="protocol_title_3">3. Terms of Service</string>
     <string name="protocol_content_3">"
-1) The user when using Bluetooth FM service, must comply with the provisions of relevant laws and regulations of the People's Republic of China, the user should agree to not use the Service for any illegal or improper activity, including, but not limited to the following acts:
+1) The user when using RoidMi service, must comply with the provisions of relevant laws and regulations of the People's Republic of China, the user should agree to not use the Service for any illegal or improper activity, including, but not limited to the following acts:
 · Uploaded, displayed, posted, transmitted or otherwise transmit the letter containing the following contents;
 · The basic principles of the Constitution against the determined;
 · Endangering national security, leaking state secrets, subverting state power, undermining national unity;
@@ -247,21 +247,21 @@ Before you use Bluetooth FM to provide the services, the user should read this A
 · Contain false, harmful, threatening, infringes on privacy, harassing, tortuous, defamatory, vulgar, obscene, or other morally sense of content;
 · Containing Chinese laws, regulations, rules, regulations and how to regulate the legal validity of having a restricted or prohibited by other content;
 · Do not for any unlawful purpose and the use of network services system;
-· Do not use Bluetooth FM services in the following activities;
+· Do not use RoidMi services in the following activities;
 · Without permission, access to computer information network or use the computer information network resources;
 · Without permission of the computer information network functions to delete, modify or increase;
 · Without permission, to enter the computer information network, storage, processing or transmission of data and applications to delete, modify or increase;
 · Intentionally spreading computer viruses and other destructive programs;
 · Other acts that endanger the safety of computer information network;
 
-2) Any claim, loss or claim user violation of the provisions of this Agreement or the Terms of Service, arising or resulting from any third party claims, including reasonable attorneys' fees, you agree to indemnify Wuxi Rui Information Technology Co., rice and cooperation, affiliates, make it from damage. In this regard, Wuxi Rui Information Technology Co., Ltd. is entitled meters depending on the nature of the user's behavior, including but not limited to taking delete users to publish content, suspended license, termination of service, restrictions on the use, recycling Bluetooth FM account, legal liability and other measures . Car Bluetooth FM malicious registered account or use Bluetooth FM account for illegal activities, trouble, harassment, fraud, and other violations of other users of this Agreement, Wuxi Rui Information Technology Co., Ltd. is entitled meters recover their account. At the same time, Wuxi Rui Information Technology Co., Ltd. will, as the rice requirements of justice, assist in the investigation.
+2) Any claim, loss or claim user violation of the provisions of this Agreement or the Terms of Service, arising or resulting from any third party claims, including reasonable attorneys' fees, you agree to indemnify Wuxi Rui Information Technology Co., rice and cooperation, affiliates, make it from damage. In this regard, Wuxi Rui Information Technology Co., Ltd. is entitled meters depending on the nature of the user's behavior, including but not limited to taking delete users to publish content, suspended license, termination of service, restrictions on the use, recycling RoidMi account, legal liability and other measures . Car RoidMi malicious registered account or use RoidMi account for illegal activities, trouble, harassment, fraud, and other violations of other users of this Agreement, Wuxi Rui Information Technology Co., Ltd. is entitled meters recover their account. At the same time, Wuxi Rui Information Technology Co., Ltd. will, as the rice requirements of justice, assist in the investigation.
 
 3) The user may not use the Service or any part of the Service or obtain, copy, copy, sell, resell or exploit for any other commercial purposes.
 
-4) The user must use their own Bluetooth FM service process acts liable. User liability forms include, but are not limited to: compensation for those who have been violated, as well as in Wuxi Rui Information Technology Co., Ltd. meters first assumed the administrative penalties or liability for damages resulting from infringement by user behavior, the user should be given Wuxi Rui meters Information Technology Co., equal compensation."</string>
+4) The user must use their own RoidMi service process acts liable. User liability forms include, but are not limited to: compensation for those who have been violated, as well as in Wuxi Rui Information Technology Co., Ltd. meters first assumed the administrative penalties or liability for damages resulting from infringement by user behavior, the user should be given Wuxi Rui meters Information Technology Co., equal compensation."</string>
     <string name="protocol_title_4">4. Services</string>
     <string name="protocol_content_4">"
-1) The specific content of Bluetooth FM network services provided by the Information Technology Co., Ltd. Wuxi Rui meter according to the actual situation.
+1) The specific content of RoidMi network services provided by the Information Technology Co., Ltd. Wuxi Rui meter according to the actual situation.
 
 2) Unless the service agreement as otherwise expressly provided in other, Information Technology Co., Ltd. Wuxi Rui meter launch of new products, new features, new services, shall be subject to the Service Agreement.
 
@@ -273,21 +273,21 @@ Before you use Bluetooth FM to provide the services, the user should read this A
 
 6) The Service or third parties may provide, links to your site on the Internet or other resources. Since the meter Wuxi Rui Information Technology Co. has no control over such sites and resources, you acknowledge and agree that such sites or resources available, Wuxi Rui Information Technology Co., Ltd. is not responsible for rice, the presence or derived from such sites or resources for any content, advertising, products or other materials, rice Wuxi Rui information Technology Co., also does not guarantee or be responsible. Use of or reliance on any such sites or resources posted or through any damage or loss of any content, goods or services such sites or resources acquired generated by the meter Wuxi Rui Information Technology Co. does not assume any responsibility.
 
-7) The user expressly agrees that the use of risk Bluetooth FM network services will be entirely their own risk. Users understand and accept the download, or any information obtained through Bluetooth FM service depends on the users themselves by their commitment system damage, data loss, and any other risks. Information Technology Co., Ltd. Wuxi Rui meters of any goods online shopping service in the service obtained, the transaction process, job postings, are not guaranteed.
+7) The user expressly agrees that the use of risk RoidMi network services will be entirely their own risk. Users understand and accept the download, or any information obtained through RoidMi service depends on the users themselves by their commitment system damage, data loss, and any other risks. Information Technology Co., Ltd. Wuxi Rui meters of any goods online shopping service in the service obtained, the transaction process, job postings, are not guaranteed.
 
 8) 6 months without landing account, Wuxi Rui Information Technology Co., Ltd. meters off rights reserved.
 
-9) Wuxi Rui meter IT Ltd reserves the right at any time to modify or discontinue, temporarily or permanently, Bluetooth FM service (or any part thereof), regardless of whether or not notice, Information Technology Co., Ltd. Wuxi Rui meter users and any third All three need not bear any responsibility.
+9) Wuxi Rui meter IT Ltd reserves the right at any time to modify or discontinue, temporarily or permanently, RoidMi service (or any part thereof), regardless of whether or not notice, Information Technology Co., Ltd. Wuxi Rui meter users and any third All three need not bear any responsibility.
 
 10) Termination of service:
-You agree Bluetooth FM in its sole discretion based on consideration, for any reason, including but not limited to, prolonged use, or Bluetooth FM believe that you have violated the text and the spirit of the service agreement, terminate your password, account number or the Service the use, and take you to remove any content within the service and delete. You agree that any provision of services under this Agreement to provide this service, can be interrupted or terminated without prior notice, you acknowledge and agree that Bluetooth FM can deactivate or delete your account and your account all relevant information and documents immediately. In addition, you agree to use the Service is interrupted or terminated or your account number and related information and files are closed or deleted, Bluetooth FM to you or any third party shall not bear any responsibility."</string>
+You agree RoidMi in its sole discretion based on consideration, for any reason, including but not limited to, prolonged use, or RoidMi believe that you have violated the text and the spirit of the service agreement, terminate your password, account number or the Service the use, and take you to remove any content within the service and delete. You agree that any provision of services under this Agreement to provide this service, can be interrupted or terminated without prior notice, you acknowledge and agree that RoidMi can deactivate or delete your account and your account all relevant information and documents immediately. In addition, you agree to use the Service is interrupted or terminated or your account number and related information and files are closed or deleted, RoidMi to you or any third party shall not bear any responsibility."</string>
     <string name="protocol_title_5">5. Other</string>
     <string name="protocol_content_5">"
 1) To enter into this agreement, implementation and interpretation and dispute settlement should apply the law People's Republic of China.
 
 2) The two sides on the implementation of the contents of this Agreement or any dispute, both sides should be settled through friendly consultations; negotiation fails, either party may bring a lawsuit to Wuxi Rui Information Technology Co., Ltd. meter location People's Court.
 
-3) Bluetooth FM does not exercise or enforce any right or provision of the service agreement does not constitute a waiver of such right or.
+3) RoidMi does not exercise or enforce any right or provision of the service agreement does not constitute a waiver of such right or.
 
 4) any provision of this Agreement for whatever reason, completely or partially invalid or unenforceable, the remaining provisions of this Agreement remain valid and binding.
 
