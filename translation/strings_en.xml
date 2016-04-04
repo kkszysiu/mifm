@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RoidMi</string>
-    <string name="app_name_show">XiaoMi RoidMi</string>
+    <string name="app_name">MiFM</string>
+    <string name="app_name_show">XiaoMi MiFM</string>
     <string name="app_version">App version: %1$s</string>
     <string name="btn_change">Change frequency</string>
     <string name="btn_bt">Bluetooth Settings</string>
@@ -136,7 +136,7 @@
     <string name="help_A4">Answer: Go to app, and select your default music player from the option.</string>
     <string name="help_Q5">5) After selecting Auto Play, it doesn\'t start music automatically!</string>
     <string name="help_A5">Answer: Go to phone settings, and make sure the app has all the permissions!</string>
-    <string name="help_Q6">6) No effect after switching mode in otions! </string>
+    <string name="help_Q6">6) No effect after switching mode in options! </string>
     <string name="help_A6">Answer: In order for an option to take effect, you have to restart the app and bluetooth!</string>
     <string name="help_Q7">7) I don\'t like the Auto Play mode!</string>
     <string name="help_A7">Answer: Go to "Select player" screen, and switch off Auto Play from there.</string>
@@ -198,7 +198,7 @@
     <string name="music_set_click">The player configured successfully. Exit current player with long press, and open a new player.</string>
     <string name="music_set_play">The player configured successfully. Restart the app to take effect</string>
     <string name="protocol">User Agreement</string>
-    <string name="protocol_check_cont">I have read and agreed to the "RoidMi Agreement"</string>
+    <string name="protocol_check_cont">I have read and agreed to the "User Agreement"</string>
     <string name="protocol_ok">Confirm</string>
     <string name="protocol_mi_protocol">User Agreement</string>
     <string name="protocol_mi_privacy_policyl">Privacy Policy</string>
