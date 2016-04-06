@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MiFM</string>
-    <string name="app_name_show">XiaoMi MiFM</string>
+    <string name="app_name">RoidMi</string>
+    <string name="app_name_show">XiaoMi RoidMi</string>
     <string name="app_version">Версія програмного забезпечення: %1$s</string>
     <string name="btn_change">Змінити частоту</string>
     <string name="btn_bt">Bluetooth налаштування</string>
