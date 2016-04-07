@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">MiFM</string>
+  <string name="app_name_show">XiaoMi MiFM</string>
+  <string name="app_version">App Version: %1$s</string>
+  <string name="btn_change">Frequenz ändern</string>
+  <string name="btn_bt">Bluetooth Einstellungen</string>
+  <string name="btn_ok">OK</string>
+  <string name="btn_cannel">Abbrechen</string>
+  <string name="btn_allow">Erlauben</string>
+  <string name="btn_refused">Wiederholen</string>
+  <string name="btn_open">Einschalten</string>
+  <string name="btn_close">Ausschalten</string>
+  <string name="btn_next">Nächste</string>
+  <string name="btn_exit">Aussteigen</string>
+  <string name="delete">Löschen</string>
+  <string name="delete_success">Erfolgreich Gelöscht</string>
+  <string name="delete_fail">Löschen fehlgeschlagen</string>
+  <string name="default_music_app">Standard Musik App:</string>
+  <string name="fm_but">FM Transmitter</string>
+  <string name="fm_bt_note">Nicht Verbunden</string>
+  <string name="fm_bt_lost">BT Verbindung Verloren</string>
+  <string name="fm_title">FM</string>
+  <string name="fm_mhz">MHz</string>
+  <string name="fm_note">Bitte Radio Frequenz beim Empfänger einstellen</string>
+  <string name="fm_set_note">Frequenz Eingestellt!</string>
+  <string name="welcome">Willkommen</string>
+  <string name="No_Link_FM">Bitte stecken sie ihren RoidMi ein</string>
+  <string name="No_Data">keine Daten</string>
+  <string name="No_Create_File">kann Datei nicht Erstellen</string>
+  <string name="Net_not_connected">Bitte Prüfen sie ob ein Netzwerk Vorhanden ist!</string>
+  <string name="space_insufficient">zu wenig Speicher</string>
+  <string name="No_WIFI">Sie nutzen mobile Daten! Es können Kosten Entstehen! Drücke OK um Fortzufahren</string>
+  <string name="about">Über</string>
+  <string name="auto_title">Start Modus</string>
+  <string name="auto_info">Musik Player Modus</string>
+  <string name="auto_info_title">Startmodus wählen</string>
+  <string name="auto_state_default">Standard</string>
+  <string name="auto_state_click">Klick</string>
+  <string name="auto_state_play">Play</string>
+  <string name="auto_state_click_info">Drücke OK um Standart Player auszuwählen</string>
+  <string name="auto_state_play_info">Gehe zu Player und startet Musik</string>
+  <string name="auto_bt_disconnected">Tun Sie es nachdem BT erfolgreich Verbunden wurde</string>
+  <string name="auto_prompt_default">Standard.</string>
+  <string name="auto_prompt_click">lange Drücken zum Öffnen</string>
+  <string name="auto_prompt_play">Auto Play. BT neu Starten um zu Übernehmen.</string>
+  <string name="bt_not_open">Bluetooth ist nicht geöffnet</string>
+  <string name="bt_link_title">Bluetooth:</string>
+  <string name="bt_link_ok_info">Bluetooth Verbindung ist okay</string>
+  <string name="bt_link_ok">Verbunden</string>
+  <string name="bt_link_fail">Nicht Verbunden</string>
+  <string name="channel_change">FM</string>
+  <string name="channel_set_title">Frequenz Einstellen</string>
+  <string name="channel_send_title">FM Sende Frequenz: %1$sMHZ</string>
+  <string name="channel_send_current">Sende auf:</string>
+  <string name="channel_prompt">Stelle diese Frequenz ein!</string>
+  <string name="channel_recommend">Vorgeschlagene Frequenz</string>
+  <string name="download_fail_nofilename">File error（400）</string>
+  <string name="drive_title_today">Statistik Heute</string>
+  <string name="drive_title">Fahr Statistik</string>
+  <string name="drive_title_drive">Reise</string>
+  <string name="drive_title_drive_today">Heute Gefahren:</string>
+  <string name="drive_title_hour">Std.</string>
+  <string name="drive_title_minute">Min.</string>
+  <string name="drive_near_info">%1$s Fahre %2$s</string>
+  <string name="drive_time_0">"RoidMi, endless suprises! Have fun, it\'s yours!"</string>
+  <string name="drive_time_30_1">"Congratulations, you have won a green bar!"</string>
+  <string name="drive_time_30_2">"Congratulations, you won another green bar!"</string>
+  <string name="drive_time_30_3">"You have to love being eco-friendly! With little effort each day, we come closer to our goal!"</string>
+  <string name="drive_time_60">"Oh okay, you must know, that you can\'t earn more than one dream bar per day."</string>
+  <string name="drive_time_120">Congratulations, the roads are even more green!</string>
+  <string name="drive_time_300_1">"Congratulations, your smart driving left some footprint! Continue like this to have more fun!"</string>
+  <string name="drive_time_300_2">"Wow, you\'ve been driving more than 2 hours, you\'ll be on the leaderboard!"</string>
+  <string name="drive_time_300_more_1">"Wow, you\'re a Chinese leader"</string>
+  <string name="drive_time_300_more_2">"Wow, you have reached top rank! You must be feeling proud!"</string>
+  <string name="firmware">Firmware</string>
+  <string name="firmware_name">RoidMi</string>
+  <string name="firmware_version">Firmware Version</string>
+  <string name="firmware_update">Firmware Update</string>
+  <string name="feed_back">Feedback</string>
+  <string name="defout_contact">Deine Kontakt Informationen (email, Tel., etc)</string>
+  <string name="defout_content">Thanks for your feedback, we will carefully review your suggestions and comments.</string>
+  <string name="fb_contact_empty">Forms darf nicht leer sein</string>
+  <string name="fb_contact_error">Kontakt error!</string>
+  <string name="fb_content_empty">Feedback muss ausgefüllt werden</string>
+  <string name="fb_send">Gesendet</string>
+  <string name="fb_sending">Senden…</string>
+  <string name="fb_send_success">Erfolgreich Gesendet</string>
+  <string name="fb_send_fail">Senden Fehlgeschlagen</string>
+  <string name="feed_back_list_null1">Wir freuen uns Ihr Feedback zu sehen,</string>
+  <string name="feed_back_list_null2">damit sie ein gutes Benutzer Erlebnis haben</string>
+  <string name="guide">Einführung</string>
+  <string name="guide_use">Neukonfigurieren</string>
+  <string name="guide_title">XiaoMi RoidMi</string>
+  <string name="guide_login">Login</string>
+  <string name="guide_1">Mit der Anmeldung erklären Sie sich mit den Nutzungsbedingungen Einverstanden.
+</string>
+  <string name="guide_2">und</string>
+  <string name="guide_protocol">
+    <u>User Agreement</u>
+  </string>
+  <string name="guide_privacy_policyl">
+    <u>Privacy Policy</u>
+  </string>
+  <string name="guide_start_up">Automatisch Starten</string>
+  <string name="guide_start_up_info1">Damit die App Ordnungsgemäß Startet</string>
+  <string name="guide_start_up_info2">Nach der Konfiguration, Drücke den Zurück knopf um hier her zurück zu kommen</string>
+  <string name="guide_start_up_setting">Starteinstellungen Öffnen</string>
+  <string name="guide_install">RoidMi Installation</string>
+  <string name="guide_install_info">Stecke deinen RoidMi in den Zigaretten Anzünder</string>
+  <string name="guide_install_ok">Ok, RoidMi ist Angeschlossen!</string>
+  <string name="guide_bt">Bluetooth Verbindung</string>
+  <string name="guide_bt_info">Bitte gehe zu den Bluetooth Einstellungen um das Gerät mit dem RoidMi zu Verbinden</string>
+  <string name="guide_bt_link_info">After pairing successfully, press back button to return to this screen.</string>
+  <string name="guide_bt_setting">Gehe zu bluetooth Einstellungen</string>
+  <string name="guide_bt_success">Bluetooth Verbindung ist Erolgreich</string>
+  <string name="guide_bt_success_info">Successfully connected to RoidMi</string>
+  <string name="voice_detection_title">Geräusch Erkennung</string>
+  <string name="voice_detection_tip">Klicken Sie auf einen Ton zu senden, um festzustellen , ob die Verbindung erfolgreich ist
+</string>
+  <string name="send_voice">Ton Senden</string>
+  <string name="send_voice_fail">Wenn sie den Ton nicht hören, ändern Sie Die Frequenz und Versuchen sie es neu</string>
+  <string name="send_voice_success">Sie haben den Ton gehört, gehe zum nächsten Schritt</string>
+  <string name="next">Nächster Schritt</string>
+  <string name="defalut_player">Standard Music Player</string>
+  <string name="defalut_player_detail">Sie können den Standard Player auch später Festlegen</string>
+  <string name="begin_use">Los geht´s!</string>
+  <string name="fm_setting">Frequenz Einstellungen</string>
+  <string name="fm_setting_detial">Die Auto FM Frequenz für @ sollte Eingestellt sein auf:</string>
+  <string name="fm_setting_info">Stellen Sie die empfohlene Frequenz auf Ihrem Radio ein.</string>
+  <string name="go_to">Next</string>
+  <string name="help">Help</string>
+  <string name="help_other">FAQ</string>
+  <string name="help_title">Help</string>
+  <string name="help_Q1">1) Bluetooth can\'t find RoidMi!</string>
+  <string name="help_A1">Answer: Try replugging your RoidMi, then restart your bluetooth after 10 seconds, and search again.</string>
+  <string name="help_Q2">2) RoidMi can\'t connect to bluetooth</string>
+  <string name="help_A2">Answer: Try replugging your RoidMi, then search again, and reconnect.</string>
+  <string name="help_Q3">3) RoidMi is connected, but there\'s no sound!</string>
+  <string name="help_A3">Answer: Go to the app, set a frequency, and make sure you tune in to that frequency in your car\'s radio.</string>
+  <string name="help_Q4">4) The music player is not my default one!</string>
+  <string name="help_A4">Answer: Go to app, and select your default music player from the option.</string>
+  <string name="help_Q5">5) After selecting Auto Play, it doesn\'t start music automatically!</string>
+  <string name="help_A5">Answer: Go to phone settings, and make sure the app has all the permissions!</string>
+  <string name="help_Q6">6) No effect after switching mode in options! </string>
+  <string name="help_A6">Answer: In order for an option to take effect, you have to restart the app and bluetooth!</string>
+  <string name="help_Q7">7) I don\'t like the Auto Play mode!</string>
+  <string name="help_A7">Answer: Go to "Select player" screen, and switch off Auto Play from there.</string>
+  <string name="help_Q8">8) I don\'t want the voice prompts!</string>
+  <string name="help_A8">Answer: Go to app\'s settings and disable voice prompts from there.</string>
+  <string name="help_Q9">9) How can I switch RoidMi\'s colour?</string>
+  <string name="help_A9">Answer: Select "Colour" from the app\'s options and set your favourite colour from there.</string>
+  <string name="help_Q10">10) My default player cannot handle Auto Play!</string>
+  <string name="help_A10">Answer: Please check if your player has the latest update installed, if not please update.</string>
+  <string name="help_Q11">11) I can\'t use some music formats?</string>
+  <string name="help_A11">Answer: RoidMi does not handle software. It is likely your player\'s fault. Check again with another player.</string>
+  <string name="help_CC_Q1">Is RoidMi in range of the phone?</string>
+  <string name="help_CC_A1">RoidMi works with your phone via Bluetooth, so the closer your phone is to the RoidMi, the better connection it will have.</string>
+  <string name="help_CC_Q2">Is RoidMi powered on?</string>
+  <string name="help_CC_A2">If your phone can\'t find your RoidMi, check if the LED in the USB ports is on. If not, make sure your car lighter socket is compatible with the device and it has power. If it does, replugging the RoidMi will power on the device.</string>
+  <string name="help_CC_Q3">Should I restart Bluetooth?</string>
+  <string name="help_CC_A3">If RoidMi is powered on, and your phone can\'t find it, try restarting your Bluetooth. After a few seconds, search again for RoidMi.</string>
+  <string name="help_CC_Q4">What if RoidMi is paired with another phone in range?</string>
+  <string name="help_CC_A4">In that case, you should turn off the other phone\'s bluetooth, and try reconnecting.</string>
+  <string name="help_CC_Q5">I can\'t reconnect the phone!</string>
+  <string name="help_CC_A5">Reboot your phone, and/or restart the app.</string>
+  <string name="help_CC_Q6">Bluetooth connection is weak.</string>
+  <string name="help_CC_A6">Make sure the lighter socket is clean of any soot, and plug your RoidMi in after you clean it.</string>
+  <string name="help_CC_Q7">How to adjust the transmitting frequency correctly?</string>
+  <string name="help_CC_A7">Search for a free frequency on your car, and then, when you find it, change the RoidMi\'s transmitting frequency within the app, and match the radio\'s frequency.</string>
+  <string name="help_CC_Q8">Why is it recommended that I find a free frequency?</string>
+  <string name="help_CC_A8">Because the two frequencies would interfere, and you wouldn\'t be able to hear your music. Adjust your frequency accordingly.</string>
+  <string name="help_CC_Q9">What if the recommended frequency doesn\'t work?</string>
+  <string name="help_CC_A9">The recommended frequency may not work in your city. Find a free frequency with around three free channels in between, tune in your RoidMi to the same channel, and using the feedback feature, we will change the recommended frequency for your city! </string>
+  <string name="info_center">Info Center</string>
+  <string name="login">Login</string>
+  <string name="login_fail">Login Fehlgeschlagen</string>
+  <string name="login_out">Logout Account</string>
+  <string name="login_out_info">Sind sie sicher dass sie sich Abmelden wollen</string>
+  <string name="LED">LED Farbe</string>
+  <string name="LED_title">Farb Einstellungen</string>
+  <string name="LED_prompt">Bitte wähle die LED Farbe</string>
+  <string name="LED_toast">LED Farbe ist %1$s</string>
+  <string name="LED_red">Rot</string>
+  <string name="LED_green">Grün</string>
+  <string name="LED_blue">Blau</string>
+  <string name="LED_orange">Orange</string>
+  <string name="LED_qing">Cyan</string>
+  <string name="LED_close">LED aus</string>
+  <string name="MI_Key_proofread">Pairing Knopf</string>
+  <string name="MI_Key_swap">Das wird die Rauf und Runter Tasten tauschen</string>
+  <string name="music">Standard Player</string>
+  <string name="music_title">Musik Player</string>
+  <string name="music_not_install">App ist nicht Installiert</string>
+  <string name="music_main_title">Player auswählen:</string>
+  <string name="music_main_default_title">Standard App Festlegen:</string>
+  <string name="music_mode">Autoplay</string>
+  <string name="music_chose_app">App Auswählen</string>
+  <string name="music_info">RoidMi kann diesen Player direkt Steuern</string>
+  <string name="music_chose">Bitte wähle den Standard Player</string>
+  <string name="music_open">Öffnen</string>
+  <string name="music_set_title">Standard Musik App einstellen</string>
+  <string name="music_set_bt_note">Player erfolgreich Eingestellt</string>
+  <string name="music_set_click">Der Player wurde erfolgreich konfiguriert. Verlassen Sie den aktuellen Player mit langen drücken auf den zurück Knopf, und öffnen Sie einen neuen Spieler.</string>
+  <string name="music_set_play">Der Player wurde erfolgreich konfiguriert. Starten Sie die App neu um zu übernehmen</string>
+  <string name="protocol">Nutzerbedingungen</string>
+  <string name="protocol_check_cont">Ich habe die Nutzerbedingungen Gelesen und Akzeptiere sie</string>
+  <string name="protocol_ok">Bestätigen</string>
+  <string name="protocol_mi_protocol">Nutzerbedingungen</string>
+  <string name="protocol_mi_privacy_policyl">Datenschutz-Bestimmungen</string>
+  <string name="protocol_load_fail">User Agreement loading failed!</string>
+  <string name="protocol_title_1">1. General Provisions</string>
+  <string name="protocol_content_1">"
+1) The user agrees to the terms of this Agreement and follow the instructions on the page to complete all registration procedures. The user during the registration process, click on the "Agree" button means that the user and the meter Wuxi Rui Information Technology Co., Ltd. reached an agreement, accepted all the terms of this Agreement.
+
+2) The user registration is successful, Wuxi Rui Information Technology Co., Ltd. meters will give each user a user account and corresponding password, the user ID and password from the user responsible for the custody; users should all activities and events in their user account's legal liability.
+
+3) The user can use RoidMi channels each individual service, when a user uses RoidMi each individual service, the user's behavior as the terms of their service to the individual services as well as RoidMi issued at the individual service agreed class bulletin.
+
+4) RoidMi Member Service Agreement and various announcements by the Terms of Service and Information Technology Co., Ltd. Wuxi Rui meters updated and revised without notice. When you use related services, RoidMi should be concerned about this updated and revised notice, and comply with the terms they use.
+
+Before you use RoidMi to provide the services, the user should read this Agreement carefully. If you do not agree with and / or modification of the Service at any time, you can take the initiative to cancel the service provided by RoidMi; once you use RoidMi service is deemed to have understood and fully agree with the content of the Service Agreement , including any modifications meters Wuxi Rui Information Technology Co., Ltd. made at any time of the service agreement, and become RoidMi users."</string>
+  <string name="protocol_title_2">2. Privacy</string>
+  <string name="protocol_content_2">"
+1) RoidMi account (ie RoidMi user ID) of rice owned by Wuxi Rui Information Technology Co., Ltd., the user complete the registration formalities, RoidMi obtained the right to use the account. Users should provide timely, accurate and detailed personal information and update registration information, with timely, detailed and accurate requirements, all the original type of information will be used for registration information. If the problem is due to the registration information is untrue and caused problems and consequences occur, rice Wuxi Rui Information Technology Co. assumes no responsibility.
+
+2) Users must not transfer, sell or lend to others account info and/or password, if the meter Wuxi Rui Information Technology Co., found the user account is not registered himself, Wuxi Rui meter IT Ltd reserves the right to discontinue service. If users find that their account has been illegally used by others, you should immediately notify meters Wuxi Rui Information Technology Co. A result of hacking or user violation of this agreement lead to account, password illegal use by others, and assumes all legal liability and loss caused by the user himself, Wuxi Rui Information Technology Co., rice does not bear any responsibility.
+
+3) Wuxi Rui Information Technology Co., rice is not open to the public or to provide a single user registration information to third parties unless:
+(1) prior express authorization of the user;
+(2) only disclose your personal information to provide you requested products and services;
+(3) in accordance with relevant legal and regulatory requirements;
+(4) in accordance with the requirements of the relevant government departments;
+(5) to safeguard the legitimate rights and interests of Wuxi Rui Information Technology Co., Ltd. meters.
+
+4) Registered users RoidMi account, use other RoidMi products or services, visit RoidMi website, or participate in promotions and prize games, RoidMi collect user's personally identifiable information. Information Technology Co., Ltd. Wuxi Rui meter will not provide to any third party, sell, lease, share trading and the user's personally identifiable information. However, the user agrees meters Wuxi Rui Information Technology Co., a user's personally identifiable information to improve services and web content provided.
+
+5) When the user uses RoidMi products and services, a variety of data and information RoidMi will be actively or passively collect and access the user's behavior arising; including but not limited to location information, IP address, device information , cookies, etc; user hereby irrevocably consent Wuxi Rui information Technology Co., Ltd. meters above the right to use the data and information, and in order to enhance RoidMi products, improved RoidMi service purposes, the data and information provided to the third parties.
+
+6) When the user uses RoidMi products and services, in order to provide better service, RoidMi possible through your phone using a variety of positioning technology, the user hereby irrevocably consent to use this technology RoidMi for customer service, and we agreed RoidMi authorise third parties to use these technologies to provide users with services."</string>
+  <string name="protocol_title_3">3. Terms of Service</string>
+  <string name="protocol_content_3">"
+1) The user when using RoidMi service, must comply with the provisions of relevant laws and regulations of the People's Republic of China, the user should agree to not use the Service for any illegal or improper activity, including, but not limited to the following acts:
+· Uploaded, displayed, posted, transmitted or otherwise transmit the letter containing the following contents;
+· The basic principles of the Constitution against the determined;
+· Endangering national security, leaking state secrets, subverting state power, undermining national unity;
+· Harm national honor and interests;
+· Incitement to ethnic hatred, ethnic discrimination, undermining national unity;
+· Violate the state religion policies or propagate cult and feudal superstition;
+· Walking rumors, disturbs social order or undermines social stability;
+· Walking obscenity, pornography, gambling, violence, homicide, terror or instigate crimes;
+· Insult or slander others, infringe upon the legitimate rights of others;
+· Contain false, harmful, threatening, infringes on privacy, harassing, tortuous, defamatory, vulgar, obscene, or other morally sense of content;
+· Containing Chinese laws, regulations, rules, regulations and how to regulate the legal validity of having a restricted or prohibited by other content;
+· Do not for any unlawful purpose and the use of network services system;
+· Do not use RoidMi services in the following activities;
+· Without permission, access to computer information network or use the computer information network resources;
+· Without permission of the computer information network functions to delete, modify or increase;
+· Without permission, to enter the computer information network, storage, processing or transmission of data and applications to delete, modify or increase;
+· Intentionally spreading computer viruses and other destructive programs;
+· Other acts that endanger the safety of computer information network;
+
+2) Any claim, loss or claim user violation of the provisions of this Agreement or the Terms of Service, arising or resulting from any third party claims, including reasonable attorneys' fees, you agree to indemnify Wuxi Rui Information Technology Co., rice and cooperation, affiliates, make it from damage. In this regard, Wuxi Rui Information Technology Co., Ltd. is entitled meters depending on the nature of the user's behavior, including but not limited to taking delete users to publish content, suspended license, termination of service, restrictions on the use, recycling RoidMi account, legal liability and other measures . Car RoidMi malicious registered account or use RoidMi account for illegal activities, trouble, harassment, fraud, and other violations of other users of this Agreement, Wuxi Rui Information Technology Co., Ltd. is entitled meters recover their account. At the same time, Wuxi Rui Information Technology Co., Ltd. will, as the rice requirements of justice, assist in the investigation.
+
+3) The user may not use the Service or any part of the Service or obtain, copy, copy, sell, resell or exploit for any other commercial purposes.
+
+4) The user must use their own RoidMi service process acts liable. User liability forms include, but are not limited to: compensation for those who have been violated, as well as in Wuxi Rui Information Technology Co., Ltd. meters first assumed the administrative penalties or liability for damages resulting from infringement by user behavior, the user should be given Wuxi Rui meters Information Technology Co., equal compensation."</string>
+  <string name="protocol_title_4">4. Services</string>
+  <string name="protocol_content_4">"
+1) The specific content of RoidMi network services provided by the Information Technology Co., Ltd. Wuxi Rui meter according to the actual situation.
+
+2) Unless the service agreement as otherwise expressly provided in other, Information Technology Co., Ltd. Wuxi Rui meter launch of new products, new features, new services, shall be subject to the Service Agreement.
+
+3) In order to use this service, you must be responsible for obtaining legal qualifications to provide you with third-party Internet access services, access to international Internet and related services should pay for their own expenses. In addition, you must be responsible for themselves and equipped with all necessary international networking to connect the equipment needed, including a computer, modem or other access device;
+
+4) Given the special nature of network services, users agree Wuxi Rui meter IT Ltd reserves the right without prior notice, to change, suspend or terminate some or all network services. Wuxi Rui Information Technology Co., rice does not guarantee network services will not be interrupted, the timeliness of network services, security, accuracy is not guaranteed.
+
+5) Wuxi Rui Information Technology Co., Ltd. meters require regular or irregular basis to provide network services platform or related equipment repair or maintenance, as a result of such circumstances and cause of network services (including service charges) within a reasonable time of the interruption, Wuxi Rui Information Technology Co., rice will not bear any responsibility. Information Technology Co., Ltd. Wuxi Rui meters reservations without prior notice for the maintenance, upgrade or other purposes suspend any portion of the Service.
+
+6) The Service or third parties may provide, links to your site on the Internet or other resources. Since the meter Wuxi Rui Information Technology Co. has no control over such sites and resources, you acknowledge and agree that such sites or resources available, Wuxi Rui Information Technology Co., Ltd. is not responsible for rice, the presence or derived from such sites or resources for any content, advertising, products or other materials, rice Wuxi Rui information Technology Co., also does not guarantee or be responsible. Use of or reliance on any such sites or resources posted or through any damage or loss of any content, goods or services such sites or resources acquired generated by the meter Wuxi Rui Information Technology Co. does not assume any responsibility.
+
+7) The user expressly agrees that the use of risk RoidMi network services will be entirely their own risk. Users understand and accept the download, or any information obtained through RoidMi service depends on the users themselves by their commitment system damage, data loss, and any other risks. Information Technology Co., Ltd. Wuxi Rui meters of any goods online shopping service in the service obtained, the transaction process, job postings, are not guaranteed.
+
+8) 6 months without landing account, Wuxi Rui Information Technology Co., Ltd. meters off rights reserved.
+
+9) Wuxi Rui meter IT Ltd reserves the right at any time to modify or discontinue, temporarily or permanently, RoidMi service (or any part thereof), regardless of whether or not notice, Information Technology Co., Ltd. Wuxi Rui meter users and any third All three need not bear any responsibility.
+
+10) Termination of service:
+You agree RoidMi in its sole discretion based on consideration, for any reason, including but not limited to, prolonged use, or RoidMi believe that you have violated the text and the spirit of the service agreement, terminate your password, account number or the Service the use, and take you to remove any content within the service and delete. You agree that any provision of services under this Agreement to provide this service, can be interrupted or terminated without prior notice, you acknowledge and agree that RoidMi can deactivate or delete your account and your account all relevant information and documents immediately. In addition, you agree to use the Service is interrupted or terminated or your account number and related information and files are closed or deleted, RoidMi to you or any third party shall not bear any responsibility."</string>
+  <string name="protocol_title_5">5. Other</string>
+  <string name="protocol_content_5">"
+1) To enter into this agreement, implementation and interpretation and dispute settlement should apply the law People's Republic of China.
+
+2) The two sides on the implementation of the contents of this Agreement or any dispute, both sides should be settled through friendly consultations; negotiation fails, either party may bring a lawsuit to Wuxi Rui Information Technology Co., Ltd. meter location People's Court.
+
+3) RoidMi does not exercise or enforce any right or provision of the service agreement does not constitute a waiver of such right or.
+
+4) any provision of this Agreement for whatever reason, completely or partially invalid or unenforceable, the remaining provisions of this Agreement remain valid and binding.
+
+In case you found any violation of the service agreement and any other terms of service of the individual services, please notify the Wuxi Rui Information Technology Co. Ltd. meters.
+
+This product is designed to bring you a lot of convenience, but for your driving safety, we strongly recommend that you use the product according to the rules proper use of this product, all kinds of traffic accidents in the process due to improper use, Wuxi Rui m Information Technology Co., Ltd. will not be responsible."</string>
+  <string name="shake_song">Song shake</string>
+  <string name="shake_song_tip">Warning: Some phones don\'t support song shake.</string>
+  <string name="phone_voice_title">Musik</string>
+  <string name="push_activity">Push Aktivitäten</string>
+  <string name="setting">Einstellungen</string>
+  <string name="update">nach Update suchen</string>
+  <string name="update_title">Update</string>
+  <string name="update_info">Suche nach Neuer Version</string>
+  <string name="update_state_no">Sie verwenden die Aktuelle Version!</string>
+  <string name="update_state_yes">Ein Update ist Verfügbar</string>
+  <string name="update_timeout">Anfrage zeit Abgelaufen!</string>
+  <string name="update_not_find_file">Datei nicht Gefunden!</string>
+  <string name="update_getInfo">suche nach updates…</string>
+  <string name="update_download_info">lade ein update…%1$s</string>
+  <string name="update_download_progress">%1$s/%2$s</string>
+  <string name="update_download_fail">Download Fehlgeschlagen! Versuchen sie es später.</string>
+  <string name="update_download_again">Download Wiederholen</string>
+  <string name="update_latest">Das ist das Aktuelle Update</string>
+  <string name="update_latest_version">Ein Update wurde Gefunden: %1$s</string>
+  <string name="update_download">Update</string>
+  <string name="update_install">Installieren</string>
+  <string name="update_dialog_title">Neue Version Verfügbar! Bitte Updaten! (vV%1$s)</string>
+  <string name="update_dialog_title_force">Neues Update verfügbar, wenn sie weiterhin den RoidMi verwenden wollen, müssen sie Updaten!</string>
+  <string name="update_dialog_not_update">Später Updaten</string>
+  <string name="update_dialog_update">jetzt Updaten</string>
+  <string name="voice_title">Voice prompts</string>
+  <string name="voice_mode_close">Disable</string>
+  <string name="voice_info">Starting voice prompt</string>
+  <string name="voice_info_title">Voice prompts (Fatigue, starting app etc)</string>
+  <string name="key_pair_none">RoidMi nicht Verbunden</string>
+  <string name="key_pairing">RoidMi Verbinden</string>
+  <string name="key_not_pair">RoidMi nicht Verbunden</string>
+  <string name="key_pair_success">RoidMi erfolgreich Verbunden</string>
+  <string name="key_pair_fail">Verbindung Fehlgeschlagen</string>
+  <string name="key_pair_tip1">Bitte Drücken sie den pair button</string>
+  <string name="key_pair_tip2">Drücken Sie rauf und runter Knopf Gleichzeitig um zu paaren</string>
+  <string name="key_pair_tip3">Welcome back!</string>
+  <string name="key_pair_tip4">Click below to pair again</string>
+  <string name="key_pair_change_direction">Links und Rechts Knopf Tauschen</string>
+  <string name="key_pair_buy">Bezahl knopf</string>
+  <string name="key_pair_begin">Start pairing</string>
+  <string name="key_pair_title">Pair</string>
+  <string name="key_pair_rebegin">Neu Versuchen</string>
+</resources>
