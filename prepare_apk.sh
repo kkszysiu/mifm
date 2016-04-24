@@ -6,7 +6,7 @@ getLocalString() {
 
 echo "Starting build..."
 
-original_name="mifm-1.41"
+original_name="mifm-4-22"
 
 rm -rf ./dist/
 mkdir -p ./dist/
@@ -17,17 +17,16 @@ mkdir -p ./$original_name/
 echo "./apps/apktool d ./original_apk/$original_name.apk --output ./$original_name/ -f"
 ./apps/apktool d ./original_apk/$original_name.apk --output ./$original_name/ -f
 
-
-LOCALISATIONS=`ls -l ./translation/ | awk '{print $9}'`
+LOCALISATIONS=`ls -l ./translation/ | awk '{print $9}' | grep strings`
 for LOCALISATION in $LOCALISATIONS
 do
 echo  ${LOCALISATION}
 logString=$(getLocalString ${LOCALISATION})
 
-ls -lath
 ls -lath ./$original_name/
 
 cp ./translation/${LOCALISATION} ./$original_name/res/values/strings.xml
+cp ./translation/arrays_${logString}.xml ./$original_name/res/values/arrays.xml
 
 echo "./apps/apktool b $original_name --output ./dist/${original_name}_${logString}.apk"
 ./apps/apktool b $original_name --output ./dist/${original_name}_${logString}.apk
