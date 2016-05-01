@@ -1,0 +1,59 @@
+Language translation progress:
+--------------------------------------------------
+     arrays.xml
+--------------------------------------------------
+Language Code: fr
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: en
+Progress: [##################################################] 100.0% Complete
+Language Code: zh
+Progress: [##################################################] 100.0% Complete
+Language Code: pt
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: pt_BR
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: pt_PT
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: de
+Progress: [##################################################] 100.0% Complete
+Language Code: tr
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: sk
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: uk
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: de_DE
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: pl
+Progress: [########################################----------] 80.0% Complete
+
+
+--------------------------------------------------
+     strings.xml
+--------------------------------------------------
+Language Code: fr
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: en
+Progress: [##################################################] 100.0% Complete
+Language Code: zh
+Progress: [##################################################] 100.0% Complete
+Language Code: pt
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: pt_BR
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: pt_PT
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: de
+Progress: [####----------------------------------------------] 8.0% Complete
+Language Code: tr
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: sk
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: uk
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: de_DE
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: pl
+Progress: [--------------------------------------------------] 0.0% Complete
+
+
