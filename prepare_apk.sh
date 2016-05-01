@@ -1,7 +1,7 @@
 #!/bin/bash
 
 getLocalString() {
-    echo $1 | cut -d '_' -f 2 | cut -c1-2
+    echo $1 | cut -d '.' -f1-1 | cut -d '_' -f2-
 }
 
 echo "Starting build..."
@@ -22,9 +22,12 @@ for LOCALISATION in $LOCALISATIONS
 do
 echo  ${LOCALISATION}
 logString=$(getLocalString ${LOCALISATION})
+echo "logString: ${logString}"
 
-ls -lath ./$original_name/
+# ls -lath ./$original_name/
 
+echo "cp ./translation/${LOCALISATION} ./$original_name/res/values/strings.xml"
+echo "cp ./translation/arrays_${logString}.xml ./$original_name/res/values/arrays.xml"
 cp ./translation/${LOCALISATION} ./$original_name/res/values/strings.xml
 cp ./translation/arrays_${logString}.xml ./$original_name/res/values/arrays.xml
 
@@ -33,8 +36,6 @@ echo "./apps/apktool b $original_name --output ./dist/${original_name}_${logStri
 
 echo "java -jar ./apps/sign.jar ./dist/${original_name}_${logString}.apk --override"
 java -jar ./apps/sign.jar ./dist/${original_name}_${logString}.apk --override
-
-echo $logString
 
 done
 
