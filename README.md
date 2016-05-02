@@ -20,5 +20,10 @@ This is very handy and gives our developers/translators very nice UI. Even a non
 
 If you want to help us, just register on Transifex, join our project and start translating!
 
+Quick Tip:
+I highly recommend to change this option and set it to English. That way you will see English translation texts instead of Chinese!
+
+![Quick Tip 1](http://i.imgur.com/GzSF9WK.png)
+
 # Where to buy Roidmi:
 http://www.gearbest.com/car-charger/pp_280751.html
