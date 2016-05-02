@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">RoidmiDriver</string>
+    <string name="app_name_show">Roidmi Driver</string>
+    <string name="app_version">Wersja %1$s</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_cannel">Anuluj</string>
+    <string name="btn_allow">Zezwól</string>
+    <string name="btn_refused">Nie zezwalaj</string>
+    <string name="btn_open">Otwórz</string>
+    <string name="btn_close">Zamknij</string>
     <string name="carnum"/>
     <string name="voltage_V24size_2">20~24V</string>
     <string name="recommend_2">(推荐)</string>
@@ -250,12 +259,10 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="drive_time_30_3">You are more and more environmentally friendly n Every day to work a little bit, our goal is even closer</string>
     <string name="car_number_must">car number must be 5-digit</string>
     <string name="kou">Deduct</string>
-    <string name="valtage_abnormal">Battery voltage is abnormal</string>
     <string name="LED_qing">Cyan</string>
     <string name="bt_link_ok">Bind</string>
     <string name="voltage_sure_low">lower</string>
     <string name="MIC_switch">Microphone Switch</string>
-    <string name="btn_ok">Done</string>
     <string name="defalut_player">Default Player</string>
     <string name="shake_type_title">Shake a Shake function</string>
     <string name="send_voice">Sending Prompt Sound</string>
@@ -292,13 +299,11 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="personal_chassis_number_def2">请输入完整车架号</string>
     <string name="feed_back">Feedback</string>
     <string name="defout_contact">Your Contact Information(e-Mail, Mobile, QQ)</string>
-    <string name="app_name">RoidmiDriver</string>
     <string name="voice_title">Voice Prompt</string>
     <string name="personal_car_model">Car Model</string>
     <string name="login_out_btn">Sign out</string>
     <string name="push_main_title">%1$s article</string>
     <string name="personal_chassis_number">Vehicle Chassis Number</string>
-    <string name="btn_close">Close</string>
     <string name="channel_recommend">Recommended</string>
     <string name="koufen">deduct marks</string>
     <string name="login_fail">Sign in Failure</string>
@@ -335,7 +340,7 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="channel_curr">FM : %1$sMHz</string>
     <string name="fm_mhz">MHz</string>
     <string name="bc_bt_lost">Bluetooth car charger unconnected</string>
-    <string name="btn_open">Open</string>
+    <string name="valtage_abnormal">Battery voltage is abnormal</string>
     <string name="device_update_hint">Close to the mobile phone while upgrading</string>
     <string name="delete_fail">Failure to Delete</string>
     <string name="please_check_power">录音失败，请检查是否拒绝了录音权限</string>
@@ -361,13 +366,11 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="personal_chassis_name_def">请输入车主姓名</string>
     <string name="joke">给我讲个笑话</string>
     <string name="personal_plate_number">License Plate Number</string>
-    <string name="app_name_show">Roidmi Driver</string>
     <string name="login">Sign in</string>
     <string name="ji">吉A</string>
     <string name="btn_next">Next</string>
     <string name="ci">Times</string>
     <string name="drive_title_drive">Driving</string>
-    <string name="btn_cannel">Cancel</string>
     <string name="choose_oneormore_city">请选择城市</string>
     <string name="update_latest">The latest version already</string>
     <string name="car_maintenance">汽车保养</string>
@@ -377,7 +380,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="No_Data">No Data</string>
     <string name="shop_bc">Welcome to purchase Roidmi Music Bluetooth Car Charger</string>
     <string name="music_set_title">Set default booting APP</string>
-    <string name="app_version">App Version %1$s</string>
     <string name="LED_green">Green</string>
     <string name="noholiday">Normal Days</string>
     <string name="lanzhou">兰州</string>
@@ -408,7 +410,6 @@ The history of China\'s green driving will have your records</string>
     <string name="feed_back_notify_content">Feedback has reply, click to view the content</string>
     <string name="more_player">More App</string>
     <string name="drive_title_drive_today">Driving today:</string>
-    <string name="btn_allow">Allowed</string>
     <string name="protocol">Exemption Agreement</string>
     <string name="Net_not_connected">Checking Network if Connected</string>
     <string name="ganzhou">赣A</string>
@@ -437,7 +438,6 @@ The history of China\'s green driving will have your records</string>
     <string name="device_updating">hardware device is upgrading, pls don\'t quit</string>
     <string name="please_put_carjia">请输入车架号</string>
     <string name="about">About</string>
-    <string name="btn_refused">Refused</string>
     <string name="feed_back_notify_title">Feedback Reply</string>
     <string name="choossecity">City select</string>
     <string name="personal_cartype">Car Type</string>

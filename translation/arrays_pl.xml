@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string-array name="shake_type">
-    <item>Speech recognition</item>
-    <item>Next song</item>
-    <item>Close</item>
+    <item>Rozpoznawanie mowy</item>
+    <item>Następny utwór</item>
+    <item>Zamknij</item>
   </string-array>
   <string-array name="shake_size">
-    <item>Gentle</item>
-    <item>Strong</item>
+    <item>Delikatne</item>
+    <item>Mocne</item>
   </string-array>
   <string-array name="car_type">
-    <item>small car</item>
-    <item>big car</item>
+    <item>mały samochód</item>
+    <item>duży samochód</item>
   </string-array>
   <string-array name="provinces_zh_CN">
-    <item>京</item>
-    <item>津</item>
+    <item>Pekin</item>
+    <item>Tiencin</item>
     <item>沪</item>
     <item>渝</item>
     <item>宁</item>
