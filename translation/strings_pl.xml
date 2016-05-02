@@ -17,8 +17,8 @@
     <string name="unit_minute">minut</string>
     <string name="dian">·</string>
     <string name="about">O programie</string>
-    <string name="bt_link_ok">Podłącz</string>
-    <string name="bt_link_fail">Odłącz</string>
+    <string name="bt_link_ok">Połączony</string>
+    <string name="bt_link_fail">Odłączony</string>
     <string name="channel_change">Zmień</string>
     <string name="channel_set_title">Ustawianie częstotliwości</string>
     <string name="channel_curr">FM : %1$sMHz</string>
@@ -81,7 +81,7 @@
     <string name="update_state_no">Najnowsza wersja</string>
     <string name="update_timeout">Limit czasu żądania upłynął!</string>
     <string name="update_not_find_file">Plik APK nie został znaleziony!</string>
-    <string name="update_getInfo">Sprawdź Uaktualnienia…</string>
+    <string name="update_getInfo">Sprawdzam uaktualnienia…</string>
     <string name="update_download_progress">%1$s/%2$s</string>
     <string name="update_download_fail">Nie udało się pobrać. Proszę spróbować ponownie.</string>
     <string name="update_download_again">Pobierz ponownie.</string>
