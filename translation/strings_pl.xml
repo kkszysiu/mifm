@@ -9,6 +9,8 @@
     <string name="btn_refused">Nie zezwalaj</string>
     <string name="btn_open">Otwórz</string>
     <string name="btn_close">Zamknij</string>
+    <string name="delete">Usuń</string>
+    <string name="bt_lost">Połączenie Bluetooth utracone!</string>
     <string name="carnum"/>
     <string name="voltage_V24size_2">20~24V</string>
     <string name="recommend_2">(推荐)</string>
@@ -446,7 +448,6 @@ The history of China\'s green driving will have your records</string>
     <string name="ganzhou2">赣M</string>
     <string name="my_device">My device</string>
     <string name="voltage_size">voltage</string>
-    <string name="bt_lost">Lost Bluetooth Signal!</string>
     <string name="device_link">Connect Bluetooth</string>
     <string name="LED_title">Setting Indicator</string>
     <string name="Must_Num_Char">Numbers and Letters Only</string>
@@ -461,7 +462,6 @@ The history of China\'s green driving will have your records</string>
     <string name="web_load_fail">page downloading failure</string>
     <string name="zhe">浙A</string>
     <string name="drive_time_120">Congratulations, you are on the way to the green driving</string>
-    <string name="delete">Delete</string>
     <string name="send_voice_fail">In case no prompt sound, return to change frequency</string>
     <string name="personal_chassis_guanju">车管所登记</string>
     <string name="device_update_title">%1$s Firmware upgrading</string>
