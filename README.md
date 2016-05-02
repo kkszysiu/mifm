@@ -14,6 +14,7 @@ For latest releases just look here: https://github.com/kkszysiu/mifm/releases
 
 We highly recommend to use https://www.transifex.com/mifm/mifm/ to make a new translations.
 This repository is highly integrated with our Transifex, everytime someone change something, we will release new version.
+(there's a script that if checking if there was any updates to the translations and if there are - updates the translations and build new version with new apks)
 
 This is very handy and gives our developers/translators very nice UI. Even a non-programmer can help us making new translations and this is soo cool! :)
 
