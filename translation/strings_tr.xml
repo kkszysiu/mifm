@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Roidmi Sürücü</string>
+    <string name="app_name_show">Roidmi Sürücü</string>
+    <string name="app_version">Uygulama Versiyonu: %1$s</string>
     <string name="carnum"/>
     <string name="recommend_2">(推荐)</string>
     <string name="device_bu_title">Roidmi USB with Bluetooth</string>
@@ -292,7 +295,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="personal_chassis_number_def2">请输入完整车架号</string>
     <string name="feed_back">Feedback</string>
     <string name="defout_contact">Your Contact Information(e-Mail, Mobile, QQ)</string>
-    <string name="app_name">RoidmiDriver</string>
     <string name="voice_title">Voice Prompt</string>
     <string name="personal_car_model">Car Model</string>
     <string name="login_out_btn">Sign out</string>
@@ -361,7 +363,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="personal_chassis_name_def">请输入车主姓名</string>
     <string name="joke">给我讲个笑话</string>
     <string name="personal_plate_number">License Plate Number</string>
-    <string name="app_name_show">Roidmi Driver</string>
     <string name="login">Sign in</string>
     <string name="ji">吉A</string>
     <string name="btn_next">Next</string>
@@ -377,7 +378,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="No_Data">No Data</string>
     <string name="shop_bc">Welcome to purchase Roidmi Music Bluetooth Car Charger</string>
     <string name="music_set_title">Set default booting APP</string>
-    <string name="app_version">App Version %1$s</string>
     <string name="LED_green">Green</string>
     <string name="noholiday">Normal Days</string>
     <string name="lanzhou">兰州</string>
