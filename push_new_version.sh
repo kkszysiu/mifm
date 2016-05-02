@@ -20,7 +20,7 @@ else
 
     translation_values=$(<translation_statistics.txt)
 
-    git tag -a "v.$TDATE" -m "v.$TDATE\n$translation_values"
+    git tag -a "v.$TDATE" -m "v.$TDATE\n\n$translation_values"
 
     git push origin master --tags
 fi
