@@ -16,7 +16,7 @@ for fname, fpart in files.iteritems():
     base_tags = {}
 
     for child in root:
-        print child.tag, child.attrib, child.text
+        # print child.tag, child.attrib, child.text
         if child.attrib.get('name'):
             base_tags[child.attrib['name']] = child.text
 
@@ -29,7 +29,7 @@ for fname, fpart in files.iteritems():
             root = tree2.getroot()
 
             for child in root:
-                print child.tag, child.attrib, child.text
+                # print child.tag, child.attrib, child.text
                 if child.attrib.get('name'):
                     old_tags[child.attrib['name']] = child.text
 
@@ -60,12 +60,12 @@ for fname, fpart in files.iteritems():
     base_tags = {}
 
     for child in root:
-        print child.tag, child.attrib, child.text
+        # print child.tag, child.attrib, child.text
         if child.tag == 'string-array' and child.attrib.get('name'):
             parse_name = child.attrib['name']
             base_tags[parse_name] = []
             for item in child.iter('item'):
-                print item.tag, item.attrib, item.text
+                # print item.tag, item.attrib, item.text
                 base_tags[parse_name].append(item.text)
         elif child.tag == 'string' and child.attrib.get('name'):
             pass
@@ -79,12 +79,12 @@ for fname, fpart in files.iteritems():
             root = tree2.getroot()
 
             for child in root:
-                print child.tag, child.attrib, child.text
+                # print child.tag, child.attrib, child.text
                 if child.tag == 'string-array' and child.attrib.get('name'):
                     parse_name = child.attrib['name']
                     old_tags[parse_name] = []
                     for item in child.iter('item'):
-                        print item.tag, item.attrib, item.text
+                        # print item.tag, item.attrib, item.text
                         old_tags[parse_name].append(item.text)
 
             print 'base_tags', base_tags
