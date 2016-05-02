@@ -4,7 +4,7 @@ git pull
 python pull_translations.py
 python propagate_translations.py
 
-TDATE=`date +'%Y/%m/%d %H:%M:%S:%3N'`
+TDATE=`date +'%Y_%m_%d_%H%M%S'`
 MODIFIED_FILES=`git status | grep 'modified:'`
 
 echo "MODIFIED_FILES $MODIFIED_FILES"
