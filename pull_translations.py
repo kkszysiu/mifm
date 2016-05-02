@@ -44,7 +44,7 @@ for resource in resources:
     for lang_name in languages:
         real_name = '{}_{}.xml'.format(fnamep[0], lang_name)
         # print t.list_translation_strings('mifm', resource['slug'], lang_name)
-        # print t.get_translation('mifm', resource['slug'], lang_name, '{}/translation/{}'.format(local_dir, real_name))
+        print t.get_translation('mifm', resource['slug'], lang_name, '{}/translation/{}'.format(local_dir, real_name))
 
     for lang, sdict in statistics.iteritems():
         completed = sdict.get('completed', '0%')
