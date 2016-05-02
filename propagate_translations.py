@@ -33,11 +33,11 @@ for fname, fpart in files.iteritems():
                 if child.attrib.get('name'):
                     old_tags[child.attrib['name']] = child.text
 
-            print base_tags
-            print old_tags
+            # print base_tags
+            # print old_tags
 
             missing_tags = list(set(base_tags.keys()) - set(old_tags.keys()))
-            print missing_tags
+            # print missing_tags
             for missing_tag in missing_tags:
                 elem = Element('string', {'name': missing_tag})
                 elem.text = base_tags[missing_tag]
@@ -87,11 +87,11 @@ for fname, fpart in files.iteritems():
                         # print item.tag, item.attrib, item.text
                         old_tags[parse_name].append(item.text)
 
-            print 'base_tags', base_tags
-            print 'old_tags', old_tags
+            # print 'base_tags', base_tags
+            # print 'old_tags', old_tags
 
             missing_tags = list(set(base_tags.keys()) - set(old_tags.keys()))
-            print 'missing_tags', missing_tags
+            # print 'missing_tags', missing_tags
 
             if missing_tags:
                 shutil.copyfile('./translation/{}'.format(fname), path)
