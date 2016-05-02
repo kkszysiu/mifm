@@ -22,6 +22,7 @@
     <string name="channel_change">Zmień</string>
     <string name="channel_set_title">Ustawianie częstotliwości</string>
     <string name="channel_curr">FM : %1$sMHz</string>
+    <string name="channel_send_current">Aktualna częstotliwość</string>
     <string name="channel_prompt">Dostosowywanie częstotliwości samochodu</string>
     <string name="channel_recommend">Rekomendowana Częstotliwość</string>
     <string name="download_fail_nofilename">Problem z pobieraniem plików（400）</string>
@@ -33,6 +34,7 @@
     <string name="device_update_title">%1$s aktualizacja firmware\'u</string>
     <string name="device_update_success">Aktualizacja powiodła się</string>
     <string name="device_update_fail">Problem z aktualizacją</string>
+    <string name="defout_contact">Informacje kontaktowe (email, nr. tel)</string>
     <string name="fb_content_empty">Proszę zostawić ocenę</string>
     <string name="guide_show">www.roidmi.com</string>
     <string name="voice_detection_title">Rozpoznawanie mowy</string>
@@ -62,6 +64,7 @@
     <string name="charging_tip1">W pełni naładowany za %1$s</string>
     <string name="charging_tip2">Naładowany %1$s</string>
     <string name="charging_full_tip">W pełni naładowany</string>
+    <string name="chossecity">Wybierz miasto</string>
     <string name="carnum"/>
     <string name="choossecity">Wybierz miasto</string>
     <string name="today">Dziś</string>
@@ -72,6 +75,7 @@
     <string name="beijing">Pekin</string>
     <string name="shake_type_tip_no_mic">Następny utwór</string>
     <string name="shop_bc">Witamy! Dotknij tutaj jeśli chcesz kupić ładowarkę samochodową Roidmi</string>
+    <string name="shop_shake_bc">Przejdź do kupna ładowarki Roidmi</string>
     <string name="shop_tip">Ciesz się inteligentną i ciekawą jazdą!</string>
     <string name="settings">Ustawienia</string>
     <string name="settings_url">Adres serwera</string>
@@ -103,7 +107,6 @@
     <string name="voltage_V24size_3">24~29V</string>
     <string name="voltage_V24size_6">&gt;29V</string>
     <string name="voltage_detail_normal">——</string>
-    <string name="defout_contact">Your Contact Information(e-Mail, Mobile, QQ)</string>
     <string name="restriction">restriction</string>
     <string name="fakuang">fine</string>
     <string name="drive_time_300_more_2">Wow, you have been ranked top of the Chinese Beverly Hillbillies list. Far ahead of others in the mood is not very cool ah!</string>
@@ -177,7 +180,7 @@
     <string name="help_Q3">3.The car audio doesn\'t work even if the Bluetooth being connected.</string>
     <string name="help_Q4">4.Not the Default Music Player</string>
     <string name="help_Q5">5.After setting up the auto play mode, the music player can not be opened automatically.</string>
-    <string name="help_Q6">6.Disliking Auto Play Mode</string>
+    <string name="violationall">违章总数</string>
     <string name="help_Q7">7.No Need for Voice Prompts</string>
     <string name="help_Q12">12.How to exchange music？</string>
     <string name="bc_no_Link">please connect Bluetooth car charger in advance</string>
@@ -309,7 +312,6 @@ Click OK to Continue!</string>
     <string name="help_Q19">19.How to find the best requency?</string>
     <string name="send_voice_fail">In case no prompt sound, return to change frequency</string>
     <string name="valtage_tip">current voltage %1$sV</string>
-    <string name="shop_shake_bc">Go to buy music Bluetooth car charger</string>
     <string name="guide_install_info">Fill the charger with Bluetooth into the car lighter</string>
     <string name="Not_NULL">Not to be Null!</string>
     <string name="ji">吉A</string>
@@ -328,7 +330,7 @@ Click OK to Continue!</string>
     <string name="personal_plate_number">License Plate Number</string>
     <string name="update_download_info">Downloading the latest version for you…%1$s</string>
     <string name="help_A3">Tips: Click Car charger with Bluetooth on the APP homepage; Click FM Sending Frequency. Set up the sending frequency of player. Adjust the car FM to the set frequency</string>
-    <string name="violationall">违章总数</string>
+    <string name="help_Q6">6.Disliking Auto Play Mode</string>
     <string name="MIC_open_title">Confirm to open the hands-free calls function?</string>
     <string name="voltage_V12size_3">12~12.8V
 (before starting)</string>
@@ -408,7 +410,6 @@ Click OK to Continue!</string>
     <string name="drive_time_300_1">Congratulations for your footprints in the intelligent driving of Beverly Hillbillies list
  Use a little more every day, you will experience more fun oh</string>
     <string name="please_put_fdj">请输入发动机号</string>
-    <string name="channel_send_current">Current channel</string>
     <string name="personal_chassis_guanju">车管所登记</string>
     <string name="please_put_carjia">请输入车架号</string>
     <string name="valtage_switch_title">abnormal voltage alarm</string>
@@ -423,7 +424,6 @@ Click OK to Continue!</string>
     <string name="voltage_size_tip">*This detecting result is for your reference only, actually professional technicians test results shall prevail</string>
     <string name="guide_bt">Bluetooth Connection</string>
     <string name="ready_city">candidate city</string>
-    <string name="chossecity">Choose City</string>
     <string name="guide_start_up">Boot-up After Power on</string>
     <string name="info_center">information Center</string>
     <string name="device_get_version_unknow">Failing to obtain device information (wrongcode:103)</string>
