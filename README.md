@@ -10,6 +10,14 @@ If you want to help just fork this project. Add your translation and do the pull
 
 For latest releases just look here: https://github.com/kkszysiu/mifm/releases
 
+# How to help us
+
+We highly recommend to use https://www.transifex.com/mifm/mifm/ to make a new translations.
+This repository is highly integrated with our Transifex, everytime someone change something, we will release new version.
+
+This is very handy and gives our developers/translators very nice UI. Even a non-programmer can help us making new translations and this is soo cool! :)
+
+If you want to help us, just register on Transifex, join our project and start translating!
 
 # Where to buy Roidmi:
 http://www.gearbest.com/car-charger/pp_280751.html

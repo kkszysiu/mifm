@@ -18,7 +18,9 @@ else
     git add translation_statistics.txt
     git commit -m "Added new translation stats" translation_statistics.txt
 
-    git tag -a "v.$TDATE" -m "v.$TDATE"
+    translation_values=$(<translation_statistics.txt)
+
+    git tag -a "v.$TDATE" -m "v.$TDATE\n$translation_values"
 
     git push origin master --tags
 fi
