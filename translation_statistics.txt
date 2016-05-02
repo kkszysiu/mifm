@@ -17,7 +17,7 @@ Progress: [--------------------------------------------------] 0.0% Complete
 Language Code: de
 Progress: [##################################################] 100.0% Complete
 Language Code: tr
-Progress: [--------------------------------------------------] 0.0% Complete
+Progress: [##############################--------------------] 60.0% Complete
 Language Code: sk
 Progress: [--------------------------------------------------] 0.0% Complete
 Language Code: uk
