@@ -20,6 +20,7 @@
     <string name="space_insufficient">Zbyt mało pamięci telefonu</string>
     <string name="unit_hour">godzin</string>
     <string name="unit_minute">minut</string>
+    <string name="welcome">Korzystaj z przyjemnością</string>
     <string name="dian">·</string>
     <string name="about">O programie</string>
     <string name="bt_link_ok">Połączony</string>
@@ -143,7 +144,6 @@
     <string name="help_A8">Tips: Click Car charger with Bluetooth on the APP homepage; Click the Setting Indicator and select corresponding color.</string>
     <string name="shake_open_tip">Pls open the shake a shake function firstly.</string>
     <string name="update_dialog_title">Find a new version, update it!（V%1$s）</string>
-    <string name="welcome">Welcome to Use</string>
     <string name="koufen">deduct marks</string>
     <string name="used_car">二手车</string>
     <string name="personal_null">Unset</string>
