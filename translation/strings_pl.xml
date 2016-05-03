@@ -41,7 +41,7 @@
     <string name="device_link">Podłącz Bluetooth</string>
     <string name="device_version">Wersja firmware</string>
     <string name="device_update_title">%1$s aktualizacja firmware\'u</string>
-    <string name="device_update_hint">Trzymaj blisko telefon podczas aktualizacji</string>
+    <string name="device_update_hint">Trzymaj telefon blisko podczas aktualizacji</string>
     <string name="device_update_success">Aktualizacja powiodła się</string>
     <string name="device_update_fail">Problem z aktualizacją</string>
     <string name="device_update_rstart">Uruchom ponownie</string>
