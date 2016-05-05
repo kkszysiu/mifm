@@ -11,7 +11,7 @@ local_dir = os.path.abspath(pathname)
 username = os.getenv('TRANSIFEX_USERNAME')
 password = os.getenv('TRANSIFEX_PASSWORD')
 
-t = TransifexAPI(username, password, 'http://transifex.com')
+t = TransifexAPI(username, password, 'http://www.transifex.com')
 
 def get_statistics(project, resource):
     url = 'https://www.transifex.com/api/2/project/{}/resource/{}/stats/'.format(
