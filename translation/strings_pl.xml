@@ -10,13 +10,19 @@
     <string name="btn_open">Otwórz</string>
     <string name="btn_close">Zamknij</string>
     <string name="btn_next">Następny</string>
+    <string name="Data_fail">Błąd danych</string>
     <string name="delete">Usuń</string>
     <string name="delete_success">Usunięto poprawnie</string>
     <string name="delete_fail">Błąd podczas usuwania</string>
     <string name="bt_lost">Połączenie Bluetooth utracone!</string>
     <string name="fm_mhz">MHz</string>
+    <string name="fm_set_note">Ustawienie zapamiętane</string>
+    <string name="Must_Num_Char">Tylko cyfry!</string>
     <string name="No_Data">Brak danych</string>
     <string name="No_Create_File">Nie można utworzyć pliku</string>
+    <string name="Not_NULL">Pole nie może być puste</string>
+    <string name="Net_not_connected">Sprawdzanie czy jest połączenie z siecią</string>
+    <string name="No_WIFI">Brak WiFi, możliwe wysokie zużycie danych, kliknij OK aby przejść dalej</string>
     <string name="space_insufficient">Zbyt mało pamięci telefonu</string>
     <string name="unit_hour">godzin</string>
     <string name="unit_minute">minut</string>
@@ -37,26 +43,43 @@
     <string name="download_fail_nofilename">Problem z pobieraniem plików（400）</string>
     <string name="my_device">Moje urządzenie</string>
     <string name="device_bc">Ładowarka samochodowa z Bluetooth</string>
-    <string name="device_bu">USD z Bluetooth</string>
+    <string name="device_bu">USB z Bluetooth</string>
+    <string name="device_bu_title">Roidmi USB z Bluetooth</string>
     <string name="device_link">Podłącz Bluetooth</string>
     <string name="device_version">Wersja firmware</string>
     <string name="device_update_title">%1$s aktualizacja firmware\'u</string>
     <string name="device_update_hint">Trzymaj telefon blisko podczas aktualizacji</string>
+    <string name="device_update_num">Ukończono %1$s</string>
     <string name="device_update_success">Aktualizacja powiodła się</string>
     <string name="device_update_fail">Problem z aktualizacją</string>
     <string name="device_update_rstart">Uruchom ponownie</string>
+    <string name="device_updating">Urządzenie w trakcie aktualizacji, proszę nie rozłączać</string>
+    <string name="device_update_notify_title">Powiadomienie o aktualizacji</string>
+    <string name="device_update_notify_content">Nowa wersja oprogramowania dostępna</string>
+    <string name="device_latest_version">Urządzenie aktualne</string>
+    <string name="device_geting_version">Pobieranie wersji urządzenia, prosze czekać</string>
+    <string name="device_get_version_fail">Nie można pobrać informacji o wersji, sprawdź czy masz połączenie</string>
+    <string name="device_get_version_unknow">Nie można pobrać informacji o wersji (wrongcode:103)</string>
+    <string name="bc_no_Link">Najpierw sparuj urządzenie z telefonem</string>
+    <string name="bc_bt_lost">Utracono połączenie Bluetooth</string>
     <string name="drive_title_drive_today">Przejechano dzisiaj:</string>
     <string name="feed_back">Informacja zwrotna</string>
     <string name="defout_contact">Informacje kontaktowe (email, nr. tel)</string>
+    <string name="defout_content">Dziękujemy za opinię</string>
     <string name="fb_content_empty">Prześlij swoją opinię!</string>
     <string name="fb_send">Wyślij</string>
     <string name="fb_sending">Wysyłanie...</string>
     <string name="fb_send_success">Wysłano pomyślnie</string>
     <string name="fb_send_fail">Błąd podczas przesyłania</string>
+    <string name="feed_back_list_null1">Chcielibyśmy poznać twoją opinię</string>
+    <string name="feed_back_list_null2">Chcielibyśmy dostarczyć ci najlepszą jakość usług</string>
+    <string name="feed_back_notify_title">Twoja opinia</string>
     <string name="guide_show">www.roidmi.com</string>
     <string name="voice_detection_title">Rozpoznawanie mowy</string>
     <string name="defalut_player">Domyślny odtwarzacz</string>
+    <string name="begin_use">Rozpocznij</string>
     <string name="fm_setting">Ustawianie Częstotliwości</string>
+    <string name="go_to">Przejdź do</string>
     <string name="help">Pomoc</string>
     <string name="login">Zaloguj się</string>
     <string name="logining">Logowanie…</string>
@@ -112,6 +135,10 @@
     <string name="update_dialog_update">Aktualizuj teraz</string>
     <string name="voice_title">Komendy głosowe</string>
     <string name="valtage">Napięcie Akumulatora</string>
+    <string name="valtage_normal">Napięcie akumulatora w normie</string>
+    <string name="valtage_abnormal">Napięcie akumulatora nieprawidłowe</string>
+    <string name="valtage_tip">aktualne napięcie %1$sV</string>
+    <string name="valtage_abnormal_tip">Proszę sprawdź swój akumulator</string>
     <string name="valtage_type_V12">mały samochód</string>
     <string name="valtage_type_V24">duży samochód</string>
     <string name="voltage_size">napięcie</string>
@@ -124,11 +151,11 @@
     <string name="voltage_V24size_3">24~29V</string>
     <string name="voltage_V24size_6">&gt;29V</string>
     <string name="voltage_detail_normal">——</string>
+    <string name="web_load_fail">nieudane poberanie strony</string>
+    <string name="please_opennet">błąd zapytania, proszę sprawdź swoje połączenie</string>
     <string name="restriction">restriction</string>
-    <string name="fakuang">fine</string>
     <string name="drive_time_300_more_2">Wow, you have been ranked top of the Chinese Beverly Hillbillies list. Far ahead of others in the mood is not very cool ah!</string>
     <string name="personal_plate_number_def">The Rear Five Digits</string>
-    <string name="device_bu_title">Roidmi USB with Bluetooth</string>
     <string name="drive_time_300_more_1">Wow, you\'re one of the Chinese Beverly Hillbillies for driving. Why not air your mood at the moment?</string>
     <string name="update_latest_version">Finding a new version %1$s</string>
     <string name="update_dialog_title_force">Find a new version, update it if you want to continue to use it!</string>
@@ -140,7 +167,6 @@
     <string name="help_A20">操作提示：提供车牌号所在地的8个城市限行情况：北京、长春、成都、贵阳、杭州、兰州、南昌、天津。限行提示默认为开启状态，前一天晚上8：00准时推送提醒至用户手机，且第二天手机连上车充蓝牙后，自动播报今天您的车牌限行。用户可根据实际使用情况，选择关闭限行提示。</string>
     <string name="push_main_title">%1$s article</string>
     <string name="personal_chassis_number">Vehicle Chassis Number</string>
-    <string name="Net_not_connected">Checking Network if Connected</string>
     <string name="help_A8">Tips: Click Car charger with Bluetooth on the APP homepage; Click the Setting Indicator and select corresponding color.</string>
     <string name="shake_open_tip">Pls open the shake a shake function firstly.</string>
     <string name="update_dialog_title">Find a new version, update it!（V%1$s）</string>
@@ -149,13 +175,11 @@
     <string name="personal_null">Unset</string>
     <string name="holiday">Holidays</string>
     <string name="gan">甘A</string>
-    <string name="go_to">Skipping</string>
     <string name="drive_title_today">Today\'s driving records</string>
     <string name="help_A9">Tips: Make sure the audio player being re-connected; Close the guide page of the audio player if it\'s the updated software.</string>
     <string name="guide_bt_success">Bluetooth Connected</string>
     <string name="addfen">Accumulated Points</string>
     <string name="music_mode">Automatically play while starting the car</string>
-    <string name="please_opennet">request failure, please check your web</string>
     <string name="help_A1">Tips: First unplug the player from the car lighter hole, insert it again. Open the mobile Bluetooth after closing it around 10 seconds. Click to search the player again.</string>
     <string name="help_A2">Tips: Insert the player into the car lighter hole again after power off. Click to search and connect it again.</string>
     <string name="send_voice_success">Hearing prompt sound, go to next step</string>
@@ -168,8 +192,8 @@
     <string name="help_A10">Tips: Our hardware control protocol does not support the software. We recommend you to use such audio players as KuGoo, TTPOD, KUWO, QQ Music etc.</string>
     <string name="valtage_switch_tip">Used to control of prompt tone of indicator light</string>
     <string name="help_A16">Tips: Clean the ash from the car lighter hole if any.</string>
-    <string name="update_notify_title">Update Notification</string>
-    <string name="Data_fail">Data Failure</string>
+    <string name="help_A17">Tips: Adjust the frequency of APP to the same one of the car FM.</string>
+    <string name="help_A14">Tips: Close the undesired Bluetooth of the mobile phone bounded to the audio player nearby, and start to search the audio player with the desired mobile phone.</string>
     <string name="help_A15">Tips: Re-boot the mobile phone and open the Roidmi Driver APP.</string>
     <string name="todaytraffic">Traffic Restriction Today</string>
     <string name="help_A18">Tips: Since strong FM signal may interfere with weak one, we recommend you with three local unoccupied frequencies.</string>
@@ -178,14 +202,11 @@
     <string name="personal_chassis_guanju_def">请输入车管所登记手机号</string>
     <string name="personal_nick">nick</string>
     <string name="push_main_content">Newest activity unreading</string>
-    <string name="web_load_fail">page downloading failure</string>
-    <string name="personal_chassis_zhenshu">证书编号</string>
     <string name="gui">贵A</string>
     <string name="push_activity">Activity</string>
     <string name="help_Q8">8.How to switch the players light color?</string>
     <string name="help_Q9">9.Unable to use the preferred audio player in the auto-play mode？</string>
     <string name="nanjing">南京</string>
-    <string name="device_latest_version">The latest device version</string>
     <string name="shake_tip">Some hardware devices don\'t support the shake a shake function</string>
     <string name="trafficlip">*The feature is only suitable for the non-business small vehicles with local license plate</string>
     <string name="help_Q1">1.Mobile phone Bluetooth can\'t find Roidmi Music Blue C</string>
@@ -195,8 +216,6 @@
     <string name="help_Q5">5.After setting up the auto play mode, the music player can not be opened automatically.</string>
     <string name="violationall">违章总数</string>
     <string name="help_Q7">7.No Need for Voice Prompts</string>
-    <string name="help_Q12">12.How to exchange music？</string>
-    <string name="bc_no_Link">please connect Bluetooth car charger in advance</string>
     <string name="nomessage">您暂无消息</string>
     <string name="protocol_content_1">
 1.Users agree to the terms of this Agreement and follow the prompts on the page to complete all the registration procedures. Whenever the users in the process of registration procedures, click the agree button, it represents that the users have reached an agreement with Wuxi Roidmi Information Technology Co., Ltd. and fully accept all the terms of this agreement.
@@ -208,7 +227,6 @@
 4.Wuxi Roidmi Information Technology Co., Ltd., reserves the right to update and revise the service agreement of Roidmi Driver and various other services terms and announcements at any time without further notice. It is your responsibility to check the update and revision of the Roidmi Driver periodically and comply with the relevant provisions of its use.
 
 Before you use the services provided by the Bluetooth FM, you should carefully read the service agreement. If you disagree with this service agreement and / or its modification at any time, you can take the initiative to cancel the service provided by the Bluetooth FM. Once you use the Roidmi Driver service, it is regarded as you have understood and fully agree with the content of the service agreement, including the modifications by Wuxi Roidmi Information Technology Co., Ltd. to the service agreement at any time, and become a user of the Roidmi Driver.</string>
-    <string name="bc_bt_lost">Bluetooth car charger unconnected</string>
     <string name="protocol_content_3">
 1.: Users must comply with the relevant laws and regulations of the Peoples Republic of china in the use of Bluetooth FM services. Such improper behaviors or illegal activities shall not be conducted by the users, including but not limited to as followings:
 ·To upload, display, post, transmit, or otherwise send a letter containing one of the following;
@@ -286,28 +304,22 @@ Although the product, in the process of driving will bring you a lot of convenie
 10.Termination of Service
 . You agree that the Roidmi Driver, based on its own consideration, for any reason, including but not limited to long time not used, or violation of the text and spirit of the service agreement by yourself, terminates your password, account number or the service, and removes any contents during the service period. You agree that the services provided in accordance with the provisions of this service agreement can be interrupted or terminated without prior notice. You acknowledge and agree that the Roidmi Driver can immediately close or delete your account and all relevant information and documents in your account. In addition, you agree that the Roidmi Driver does not assume any responsibility to you or any 3rd party due to the interruption or termination of your account and closing or deleting of the related information and documents.</string>
     <string name="help_Q20">20.限行提示包括哪些城市？如何提示限行情况？</string>
-    <string name="device_update_notify_content">New version device，update it and have a try</string>
     <string name="notdeai">violation</string>
     <string name="chassis_number_must">17 Digits for the Vehicle Chassis No. Only</string>
-    <string name="No_WIFI">Mobile Phone Traffic Alert:
-Perhaps high cost data flow.
-Click OK to Continue!</string>
     <string name="hangzhou">杭州</string>
     <string name="shake_type_tip">Speech recognition/Next song</string>
-    <string name="help_A17">Tips: Adjust the frequency of APP to the same one of the car FM.</string>
     <string name="guiyang">贵阳</string>
     <string name="violationdetail">Details of Traffic Peccancy</string>
-    <string name="voltage_sure_normal">normal</string>
     <string name="guide_install">Installing Player</string>
     <string name="protocol">Exemption Agreement</string>
     <string name="personal_engine_number">Engine Number</string>
     <string name="restriction_title2">根据您的车牌尾号提醒</string>
-    <string name="begin_use">Starting to Use</string>
+    <string name="please_check_power">录音失败，请检查是否拒绝了录音权限</string>
     <string name="drive_title">Driving records</string>
     <string name="beijing_weather">北京天气</string>
     <string name="personal_chassis_zhenshu_def">请输入登记证书编号</string>
     <string name="help_Q18">18.Why to recommend using unoccupied frequency?</string>
-    <string name="valtage_normal">The battery voltage is normal</string>
+    <string name="help_Q12">12.How to exchange music？</string>
     <string name="help_Q13">13.Try to re-start Bluetooth?</string>
     <string name="help_Q10">10.Unable to Use Some Music Software？</string>
     <string name="help_Q11">11.How to open voice recognition? What does voice recognition contains?</string>
@@ -320,13 +332,13 @@ Click OK to Continue!</string>
     <string name="update_notify_content">Have a new version, click to check the update content</string>
     <string name="help_Q19">19.How to find the best requency?</string>
     <string name="send_voice_fail">In case no prompt sound, return to change frequency</string>
-    <string name="valtage_tip">current voltage %1$sV</string>
+    <string name="fakuang">fine</string>
     <string name="guide_install_info">Fill the charger with Bluetooth into the car lighter</string>
-    <string name="Not_NULL">Not to be Null!</string>
+    <string name="drive_time_60">Oh, well, let\'s realize the dream of driving less than an hour a day</string>
     <string name="ji">吉A</string>
     <string name="music_not_install">APP Not Installed</string>
     <string name="search_near">最近查询 </string>
-    <string name="device_updating">hardware device is upgrading, pls don\'t quit</string>
+    <string name="personal_chassis_name">车主姓名</string>
     <string name="drive_time_0">Roidmi, infinite surprises!
  Come and enjoy the fun of it</string>
     <string name="guide_start_up_setting">Open the boot settings</string>
@@ -339,14 +351,13 @@ Click OK to Continue!</string>
     <string name="update_download_info">Downloading the latest version for you…%1$s</string>
     <string name="help_A3">Tips: Click Car charger with Bluetooth on the APP homepage; Click FM Sending Frequency. Set up the sending frequency of player. Adjust the car FM to the set frequency</string>
     <string name="help_Q6">6.Disliking Auto Play Mode</string>
-    <string name="MIC_open_title">Confirm to open the hands-free calls function?</string>
+    <string name="update_notify_title">Update Notification</string>
     <string name="voltage_V12size_3">12~12.8V
 (before starting)</string>
     <string name="query_violation">Traffic Peccancy Quer</string>
     <string name="voltage_V12size_6">&gt;15V
 (after starting)</string>
-    <string name="voltage_V12size_5">13.2~15V
-(after starting)</string>
+    <string name="please_choose_city">请选择违章查询的城市</string>
     <string name="voltage_V12size_4">12.8~13.2V
 (after starting)</string>
     <string name="ci">Times</string>
@@ -356,30 +367,26 @@ Click OK to Continue!</string>
     <string name="update_state_yes">New version to update</string>
     <string name="choose_oneormore_city">请选择城市</string>
     <string name="trafficwei">Tail Number of the Restricted Car</string>
-    <string name="Must_Num_Char">Numbers and Letters Only</string>
     <string name="guide_bt_setting">Entering Bluetooth settings</string>
     <string name="shake_size">Intensity</string>
-    <string name="device_ty_title">Roidmi TPMS</string>
-    <string name="device_update_notify_title">device update notification</string>
-    <string name="please_check_power">录音失败，请检查是否拒绝了录音权限</string>
+    <string name="personal_chassis_zhenshu">证书编号</string>
     <string name="personal_chassis_shenfenall_def">请输入完整身份证</string>
     <string name="car_maintenance">汽车保养</string>
     <string name="restriction_tip_title">限行提示</string>
     <string name="yuan">Yuan</string>
     <string name="fen">Points</string>
-    <string name="personal_chassis_name">车主姓名</string>
+    <string name="device_ty_title">Roidmi TPMS</string>
     <string name="car_number_must">car number must be 5-digit</string>
     <string name="fm_setting_info">Selecting the Recommended Frequency by Searching FM for the Auto-Searching Cars</string>
     <string name="LED_title">Setting Indicator</string>
     <string name="music_set_title">Set default booting APP</string>
-    <string name="device_geting_version">obtaining the information of device, please wait</string>
     <string name="defalut_player_detail">Changing the Default Player in Settings Later</string>
-    <string name="valtage_abnormal_tip">Please check ASAP!</string>
+    <string name="music_title3">Hot Radio station</string>
     <string name="noholiday">Normal Days</string>
     <string name="music_title1">Music Mood</string>
     <string name="lanzhou">兰州</string>
     <string name="device_ty">TPMS</string>
-    <string name="valtage_abnormal">Battery voltage is abnormal</string>
+    <string name="shake_type">Shake a Shake function</string>
     <string name="guide_bt_info">Please enter the system to set up the Bluetooth connection to the paired device</string>
     <string name="music_title2">Popularity list</string>
     <string name="voice_stick_title">Tip-Sticking Prompt</string>
@@ -392,8 +399,6 @@ Click OK to Continue!</string>
     <string name="engine_number_must">8 Digits for the Engine No. Only</string>
     <string name="voltage_sure_hight_too">too higher</string>
     <string name="kou">Deduct</string>
-    <string name="feed_back_list_null2">Bring the best experience to you!</string>
-    <string name="music_title3">Hot Radio station</string>
     <string name="phone_voice_title">Mobile Phone Ring Projection</string>
     <string name="fm_setting_detial">Setting up the Default Car FM to the frequency of</string>
     <string name="zhe">浙A</string>
@@ -415,7 +420,6 @@ Click OK to Continue!</string>
     <string name="please_put_carjia">请输入车架号</string>
     <string name="valtage_switch_title">abnormal voltage alarm</string>
     <string name="nowhavenotraffic">No data of the Restricted currently</string>
-    <string name="feed_back_notify_title">Feedback Reply</string>
     <string name="manney">Sum of Penalty</string>
     <string name="tianjing">天津</string>
     <string name="protocol_title_5">Ⅴ.Others</string>
@@ -427,24 +431,21 @@ Click OK to Continue!</string>
     <string name="ready_city">candidate city</string>
     <string name="guide_start_up">Boot-up After Power on</string>
     <string name="info_center">information Center</string>
-    <string name="device_get_version_unknow">Failing to obtain device information (wrongcode:103)</string>
     <string name="shake_size_tip">Gentle/Strong</string>
-    <string name="fm_set_note">FM Sending Done!</string>
-    <string name="shake_type">Shake a Shake function</string>
     <string name="listent_voice">请听到提示音后开始说话。</string>
     <string name="guide_start_up_info2">After setting up, press the back to return to the interface</string>
     <string name="guide_bt_link_info">After pairing the Bluetooth,
 press the back button of mobile to return to the interface</string>
     <string name="guide_start_up_info1">To Ensure the Normal Run of Program</string>
     <string name="music_set_bt_note">Successfully set up the player</string>
-    <string name="defout_content">Thank you for your feedback, we will listen carefully to your comments and suggestions</string>
-    <string name="drive_time_60">Oh, well, let\'s realize the dream of driving less than an hour a day</string>
+    <string name="voltage_sure_normal">normal</string>
     <string name="music_set_play">Re-boot the Bluetooth while exiting current audio player after successfully setting it</string>
     <string name="usercity">You have added the city</string>
     <string name="protocol_title_4">Ⅳ.Service Content</string>
     <string name="changchun">长春</string>
     <string name="guide_install_ok">Ensure to have it inserted into the car lighter</string>
     <string name="fa">Fine</string>
+    <string name="MIC_open_title">Confirm to open the hands-free calls function?</string>
     <string name="voltage_sure_low_too">too lower</string>
     <string name="personal_chassis_shenfen">车主身份证</string>
     <string name="drive_time_30_1">Congratulations on your great green driving behavior!
@@ -458,23 +459,20 @@ The history of China\'s green driving will have your records</string>
     <string name="protocol_title_3">Ⅲ.Rules for Use</string>
     <string name="carisafe">You have no record of violation</string>
     <string name="personal_chassis_shenfen_def">请输入车主身份证</string>
-    <string name="feed_back_list_null1">We are look forward to hearing from you,</string>
     <string name="voltage_sure_low">lower</string>
     <string name="torrowtraffic">Traffic Restriction Tomorrow</string>
-    <string name="device_update_num">Done already %1$s</string>
     <string name="feed_back_notify_content">Feedback has reply, click to view the content</string>
     <string name="voltage_detail_4">It\'s likely not to charge battery, please check engine or other power load</string>
     <string name="personal_chassis_number_def">17-Digit</string>
-    <string name="device_get_version_fail">Failing to obtain device information, please check if the web is open or not</string>
     <string name="help_A11">operation ways：1. Entering homepage of music Bluetooth car charger, click the icon of voice recognition 2. When APP it working, shake your phone to enter into voice recognition. After the prompt tone, you can speak directly, like tell a joke, what\'s the weather today  system will automatically tell you the result after analysis.</string>
     <string name="shake_type_title">Shake a Shake function</string>
-    <string name="please_choose_city">请选择违章查询的城市</string>
+    <string name="voltage_V12size_5">13.2~15V
+(after starting)</string>
     <string name="voltage_sure">judgment</string>
     <string name="personal_chassis_number_def2">请输入完整车架号</string>
     <string name="voltage_detail_6">It\'s likely to damage storage batter, please check the stabilizator of engine</string>
     <string name="more_player">More App</string>
     <string name="nodate">Failed to get the data</string>
-    <string name="help_A14">Tips: Close the undesired Bluetooth of the mobile phone bounded to the audio player nearby, and start to search the audio player with the desired mobile phone.</string>
     <string name="voltage_detail_2">difficult to start, please close other electrical device and start car charging</string>
     <string name="voltage_detail_1">can\'t start the car，you may need to exchange storage battery</string>
     <string name="restriction_tip_info">News informing.voice broad casting</string>
