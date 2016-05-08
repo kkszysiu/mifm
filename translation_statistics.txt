@@ -18,6 +18,8 @@ Language Code: de
 Progress: [##################################################] 100.0% Complete
 Language Code: tr
 Progress: [##############################--------------------] 60.0% Complete
+Language Code: sr_RS
+Progress: [--------------------------------------------------] 0.0% Complete
 Language Code: sk
 Progress: [--------------------------------------------------] 0.0% Complete
 Language Code: uk
@@ -46,6 +48,8 @@ Progress: [--------------------------------------------------] 0.0% Complete
 Language Code: de
 Progress: [####----------------------------------------------] 8.0% Complete
 Language Code: tr
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: sr_RS
 Progress: [--------------------------------------------------] 0.0% Complete
 Language Code: sk
 Progress: [--------------------------------------------------] 0.0% Complete
