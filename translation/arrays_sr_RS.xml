@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string-array name="shake_type">
+    <item>Speech recognition</item>
+    <item>Next song</item>
+    <item>Close</item>
+  </string-array>
+  <string-array name="shake_size">
+    <item>Gentle</item>
+    <item>Strong</item>
+  </string-array>
+  <string-array name="car_type">
+    <item>small car</item>
+    <item>big car</item>
+  </string-array>
+  <string-array name="provinces_zh_CN">
+    <item>京</item>
+    <item>津</item>
+    <item>沪</item>
+    <item>渝</item>
+    <item>宁</item>
+    <item>琼</item>
+    <item>藏</item>
+    <item>青</item>
+    <item>川</item>
+    <item>粤</item>
+    <item>贵</item>
+    <item>闽</item>
+    <item>吉</item>
+    <item>陕</item>
+    <item>蒙</item>
+    <item>晋</item>
+    <item>甘</item>
+    <item>桂</item>
+    <item>鄂</item>
+    <item>赣</item>
+    <item>浙</item>
+    <item>苏</item>
+    <item>新</item>
+    <item>鲁</item>
+    <item>皖</item>
+    <item>湘</item>
+    <item>黑</item>
+    <item>辽</item>
+    <item>云</item>
+    <item>豫</item>
+    <item>冀</item>
+  </string-array>
+  <string-array name="Char_A_Z">
+    <item>A</item>
+    <item>B</item>
+    <item>C</item>
+    <item>D</item>
+    <item>E</item>
+    <item>F</item>
+    <item>G</item>
+    <item>H</item>
+    <item>I</item>
+    <item>J</item>
+    <item>K</item>
+    <item>L</item>
+    <item>M</item>
+    <item>N</item>
+    <item>O</item>
+    <item>P</item>
+    <item>Q</item>
+    <item>R</item>
+    <item>S</item>
+    <item>T</item>
+    <item>U</item>
+    <item>V</item>
+    <item>W</item>
+    <item>X</item>
+    <item>Y</item>
+    <item>Z</item>
+  </string-array>
+</resources>
