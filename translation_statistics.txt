@@ -44,7 +44,7 @@ Progress: [--------------------------------------------------] 0.0% Complete
 Language Code: pt_BR
 Progress: [--------------------------------------------------] 0.0% Complete
 Language Code: pt_PT
-Progress: [--------------------------------------------------] 0.0% Complete
+Progress: [###-----------------------------------------------] 5.0% Complete
 Language Code: de
 Progress: [####----------------------------------------------] 8.0% Complete
 Language Code: tr
