@@ -10,6 +10,7 @@ deploy:
   provider: releases
   api_key: "$mifm_deployment_token"
   file:
+    - dist/mifm-4-22_cs.apk
     - dist/mifm-4-22_de.apk
     - dist/mifm-4-22_de_DE.apk
     - dist/mifm-4-22_en.apk
@@ -19,6 +20,7 @@ deploy:
     - dist/mifm-4-22_pt_BR.apk
     - dist/mifm-4-22_pt_PT.apk
     - dist/mifm-4-22_sk.apk
+    - dist/mifm-4-22_sr_RS.apk
     - dist/mifm-4-22_tr.apk
     - dist/mifm-4-22_uk.apk
     - dist/mifm-4-22_zh.apk
