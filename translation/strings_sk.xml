@@ -99,6 +99,7 @@ Trochu úsilia každý deň, a ste bližšie nášmu cieľu</string>
     <string name="feed_back_notify_title">Odpoveď na spätnú väzbu</string>
     <string name="feed_back_notify_content">Spätná väzba má odpoveď, stlačte aby ste pozreli obsah</string>
     <string name="guide_show">www.roidmi.com</string>
+    <string name="guide_start_up">Boot po zapojení</string>
     <string name="carnum"/>
     <string name="restriction">restriction</string>
     <string name="drive_time_300_more_2">Wow, you have been ranked top of the Chinese Beverly Hillbillies list. Far ahead of others in the mood is not very cool ah!</string>
@@ -429,7 +430,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="ready_city">candidate city</string>
     <string name="chossecity">Choose City</string>
     <string name="protocol_title_4">Ⅳ.Service Content</string>
-    <string name="guide_start_up">Boot-up After Power on</string>
     <string name="info_center">information Center</string>
     <string name="shake_size_tip">Gentle/Strong</string>
     <string name="update_title">Check for Updates</string>
