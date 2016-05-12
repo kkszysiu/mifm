@@ -100,6 +100,10 @@ Trochu úsilia každý deň, a ste bližšie nášmu cieľu</string>
     <string name="feed_back_notify_content">Spätná väzba má odpoveď, stlačte aby ste pozreli obsah</string>
     <string name="guide_show">www.roidmi.com</string>
     <string name="guide_start_up">Boot po zapojení</string>
+    <string name="guide_start_up_info1">Aby zaistilo normálnu prevádzku aplikácie</string>
+    <string name="guide_start_up_info2">Po nastavení, stlačte späť aby ste sa vrátili na rozhranie</string>
+    <string name="guide_start_up_setting">Otvoriť boot nastavenia</string>
+    <string name="guide_install">Prehrávač sa inštaluje</string>
     <string name="carnum"/>
     <string name="restriction">restriction</string>
     <string name="drive_time_300_more_2">Wow, you have been ranked top of the Chinese Beverly Hillbillies list. Far ahead of others in the mood is not very cool ah!</string>
@@ -109,7 +113,6 @@ Trochu úsilia každý deň, a ste bližšie nášmu cieľu</string>
     <string name="MIC">Microphone</string>
     <string name="update_latest_version">Finding a new version %1$s</string>
     <string name="update_dialog_update">Update right now</string>
-    <string name="voltage_detail_normal">——</string>
     <string name="update_dialog_title_force">Find a new version, update it if you want to continue to use it!</string>
     <string name="ganzhou">赣A</string>
     <string name="message_erro">输入信息错误</string>
@@ -159,7 +162,6 @@ Trochu úsilia každý deň, a ste bližšie nášmu cieľu</string>
     <string name="personal_engine_number_def2">请输入完整发动机号</string>
     <string name="update_download_fail">Failure to download! Please download again.</string>
     <string name="personal_nick">nick</string>
-    <string name="help_A3">Tips: Click Car charger with Bluetooth on the APP homepage; Click FM Sending Frequency. Set up the sending frequency of player. Adjust the car FM to the set frequency</string>
     <string name="citychange">exchanging city</string>
     <string name="web_load_fail">page downloading failure</string>
     <string name="settings">Settings</string>
@@ -269,7 +271,7 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="violationdetail">Details of Traffic Peccancy</string>
     <string name="sex_woman">Female</string>
     <string name="voltage_sure_normal">normal</string>
-    <string name="guide_install">Installing Player</string>
+    <string name="voltage_detail_normal">——</string>
     <string name="protocol">Exemption Agreement</string>
     <string name="personal_engine_number">Engine Number</string>
     <string name="restriction_title2">根据您的车牌尾号提醒</string>
@@ -300,7 +302,7 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="search_near">最近查询 </string>
     <string name="personal_chassis_name">车主姓名</string>
     <string name="begin_use">Starting to Use</string>
-    <string name="guide_start_up_setting">Open the boot settings</string>
+    <string name="please_put_carjia">请输入车架号</string>
     <string name="LED_green">Green</string>
     <string name="voice_detection_tip">Click to send a prompt sound to detect whether the connection is successful</string>
     <string name="personal_chassis_name_def">请输入车主姓名</string>
@@ -358,7 +360,7 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="today">Today</string>
     <string name="music_title1">Music Mood</string>
     <string name="lanzhou">兰州</string>
-    <string name="please_put_carjia">请输入车架号</string>
+    <string name="carisafe">You have no record of violation</string>
     <string name="protocol_content_2">
 1.Wuxi Roidmi Information Technology Co., ltd. has the ownership of the Roidmi Driver account i.e. the Roidmi Driver user ID. After the users complete the registration procedures, they can obtain the right to use the Roidmi Driver accounts. Wuxi Roidmi Information Technology Co., Ltd., is not responsible for any problems and consequences caused by untrue registration information since the users have to provide detailed and accurate personal information timely, and constantly update the registration information. Meanwhile all the original information inputted will be kept as the registration information.
 
@@ -437,9 +439,8 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="shake_type">Shake a Shake function</string>
     <string name="charging">Phone is charging</string>
     <string name="listent_voice">请听到提示音后开始说话。</string>
-    <string name="guide_start_up_info2">After setting up, press the back to return to the interface</string>
     <string name="update_download">Update immediately</string>
-    <string name="guide_start_up_info1">To Ensure the Normal Run of Program</string>
+    <string name="help_A3">Tips: Click Car charger with Bluetooth on the APP homepage; Click FM Sending Frequency. Set up the sending frequency of player. Adjust the car FM to the set frequency</string>
     <string name="music_set_bt_note">Successfully set up the player</string>
     <string name="help_A9">Tips: Make sure the audio player being re-connected; Close the guide page of the audio player if it\'s the updated software.</string>
     <string name="valtage">Battery Voltage</string>
@@ -464,7 +465,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="charging_full_tip">Fully charged</string>
     <string name="voltage_sure_low">lower</string>
     <string name="torrowtraffic">Traffic Restriction Tomorrow</string>
-    <string name="carisafe">You have no record of violation</string>
     <string name="voltage_detail_4">It\'s likely not to charge battery, please check engine or other power load</string>
     <string name="personal_engine_number_def">8-Digit</string>
     <string name="personal_chassis_number_def">17-Digit</string>
