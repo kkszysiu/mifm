@@ -27,7 +27,7 @@
     <string name="space_insufficient">Недостатньо пам\'яті мобільного телефону</string>
     <string name="unit_hour">години</string>
     <string name="unit_minute">хвилини</string>
-    <string name="welcome">Ласкаво просимо до використання</string>
+    <string name="welcome">Ласкаво просимо</string>
     <string name="about">Про</string>
     <string name="bt_link_ok">Зв\'язати</string>
     <string name="bt_link_fail">Розв\'язати</string>
@@ -58,9 +58,13 @@
     <string name="device_update_rstart">Перезапустити</string>
     <string name="device_updating">оновлюється прошивка пристрою, будь-ласка, не виходьте</string>
     <string name="device_update_notify_title">повідомлення про оновлення прошивки пристрою</string>
+    <string name="device_update_notify_content">Нова версія прошивки пристрою, оновіться до неї та спробуйте</string>
+    <string name="device_latest_version">Це остання версія прошивки пристрою</string>
     <string name="device_geting_version">отримання інформації про пристрій, будь-ласка, зачекайте</string>
     <string name="device_get_version_fail">Не вдалося отримати інформацію про пристрій, будь-ласка, перевірте чи відкритий web</string>
     <string name="device_get_version_unknow">Не вдалося отримати інформацію про пристрій (wrongcode: 103)</string>
+    <string name="bc_no_Link">Будь-ласка, підключіть автомобільний зарядний пристрій з Bluetooth заздалегідь</string>
+    <string name="bc_bt_lost">Автомобільний зарядний пристрій з Bluetooth відключено</string>
     <string name="feed_back">Зворотній зв\'язок</string>
     <string name="defout_contact">Ваша контактна інформація (e-mail, телефон тощо)</string>
     <string name="defout_content">Дякуємо вам за зворотній зв\'язок, ми уважно розглянемо ваші коментарі та пропозиції</string>
@@ -128,7 +132,7 @@
     <string name="help_A14">Tips: Close the undesired Bluetooth of the mobile phone bounded to the audio player nearby, and start to search the audio player with the desired mobile phone.</string>
     <string name="help_A15">Tips: Re-boot the mobile phone and open the Roidmi Driver APP.</string>
     <string name="todaytraffic">Traffic Restriction Today</string>
-    <string name="shake_type">Shake a Shake function</string>
+    <string name="engine_number_must">8 Digits for the Engine No. Only</string>
     <string name="help_A18">Tips: Since strong FM signal may interfere with weak one, we recommend you with three local unoccupied frequencies.</string>
     <string name="help_A19">Tips: Perhaps it\'s not the best choice of frequency we recommend you in your city. You\'d better manually increase or decrease the frequency of 0.1MHz FM to a radio frequency without interference, meanwhile adjust the mobile phone APP to the same frequency. If it works well after a period of time, you are welcome to share the frequency of your city with us in the feedback of about menu. We will recommend to the people in the same city of yours while we update the software.</string>
     <string name="personal_engine_number_def2">请输入完整发动机号</string>
@@ -144,7 +148,6 @@
     <string name="help_Q8">8.How to switch the players light color?</string>
     <string name="help_Q9">9.Unable to use the preferred audio player in the auto-play mode？</string>
     <string name="update_not_find_file">APK file not found!</string>
-    <string name="device_latest_version">The latest device version</string>
     <string name="shake_tip">Some hardware devices don\'t support the shake a shake function</string>
     <string name="sex_man">Male</string>
     <string name="trafficlip">*The feature is only suitable for the non-business small vehicles with local license plate</string>
@@ -157,7 +160,6 @@
     <string name="help_Q7">7.No Need for Voice Prompts</string>
     <string name="personal_car_model">Car Model</string>
     <string name="help_Q12">12.How to exchange music？</string>
-    <string name="bc_no_Link">please connect Bluetooth car charger in advance</string>
     <string name="nomessage">您暂无消息</string>
     <string name="guide_bt_link_info">After pairing the Bluetooth,
 press the back button of mobile to return to the interface</string>
@@ -171,7 +173,6 @@ press the back button of mobile to return to the interface</string>
 4.Wuxi Roidmi Information Technology Co., Ltd., reserves the right to update and revise the service agreement of Roidmi Driver and various other services terms and announcements at any time without further notice. It is your responsibility to check the update and revision of the Roidmi Driver periodically and comply with the relevant provisions of its use.
 
 Before you use the services provided by the Bluetooth FM, you should carefully read the service agreement. If you disagree with this service agreement and / or its modification at any time, you can take the initiative to cancel the service provided by the Bluetooth FM. Once you use the Roidmi Driver service, it is regarded as you have understood and fully agree with the content of the service agreement, including the modifications by Wuxi Roidmi Information Technology Co., Ltd. to the service agreement at any time, and become a user of the Roidmi Driver.</string>
-    <string name="bc_bt_lost">Bluetooth car charger unconnected</string>
     <string name="protocol_content_3">
 1.: Users must comply with the relevant laws and regulations of the Peoples Republic of china in the use of Bluetooth FM services. Such improper behaviors or illegal activities shall not be conducted by the users, including but not limited to as followings:
 ·To upload, display, post, transmit, or otherwise send a letter containing one of the following;
@@ -233,7 +234,7 @@ Although the product, in the process of driving will bring you a lot of convenie
 10.Termination of Service
 . You agree that the Roidmi Driver, based on its own consideration, for any reason, including but not limited to long time not used, or violation of the text and spirit of the service agreement by yourself, terminates your password, account number or the service, and removes any contents during the service period. You agree that the services provided in accordance with the provisions of this service agreement can be interrupted or terminated without prior notice. You acknowledge and agree that the Roidmi Driver can immediately close or delete your account and all relevant information and documents in your account. In addition, you agree that the Roidmi Driver does not assume any responsibility to you or any 3rd party due to the interruption or termination of your account and closing or deleting of the related information and documents.</string>
     <string name="help_Q20">20.限行提示包括哪些城市？如何提示限行情况？</string>
-    <string name="device_update_notify_content">New version device，update it and have a try</string>
+    <string name="shake_type">Shake a Shake function</string>
     <string name="settings_url">Server Address</string>
     <string name="shop_tip">Enjoy the intelligent and interesting drive!</string>
     <string name="personal_info_title">Personal Information</string>
@@ -422,7 +423,6 @@ The history of China\'s green driving will have your records</string>
     <string name="guide_bt">Bluetooth Connection</string>
     <string name="ready_city">candidate city</string>
     <string name="chossecity">Choose City</string>
-    <string name="engine_number_must">8 Digits for the Engine No. Only</string>
     <string name="protocol_title_4">Ⅳ.Service Content</string>
     <string name="guide_start_up">Boot-up After Power on</string>
     <string name="info_center">information Center</string>
