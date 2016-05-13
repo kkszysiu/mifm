@@ -28,7 +28,6 @@
     <string name="unit_hour">години</string>
     <string name="unit_minute">хвилини</string>
     <string name="welcome">Ласкаво просимо до використання</string>
-    <string name="dian">.</string>
     <string name="about">Про</string>
     <string name="bt_link_ok">Зв\'язати</string>
     <string name="bt_link_fail">Розв\'язати</string>
@@ -59,6 +58,9 @@
     <string name="device_update_rstart">Перезапустити</string>
     <string name="device_updating">оновлюється прошивка пристрою, будь-ласка, не виходьте</string>
     <string name="device_update_notify_title">повідомлення про оновлення прошивки пристрою</string>
+    <string name="device_geting_version">отримання інформації про пристрій, будь-ласка, зачекайте</string>
+    <string name="device_get_version_fail">Не вдалося отримати інформацію про пристрій, будь-ласка, перевірте чи відкритий web</string>
+    <string name="device_get_version_unknow">Не вдалося отримати інформацію про пристрій (wrongcode: 103)</string>
     <string name="feed_back">Зворотній зв\'язок</string>
     <string name="defout_contact">Ваша контактна інформація (e-mail, телефон тощо)</string>
     <string name="defout_content">Дякуємо вам за зворотній зв\'язок, ми уважно розглянемо ваші коментарі та пропозиції</string>
@@ -239,6 +241,7 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="drive_title_today">Today\'s driving records</string>
     <string name="login_out_btn">Sign out</string>
     <string name="music_recommend">Recommend</string>
+    <string name="dian">·</string>
     <string name="hangzhou">杭州</string>
     <string name="shake_open_tip">Pls open the shake a shake function firstly.</string>
     <string name="help_A17">Tips: Adjust the frequency of APP to the same one of the car FM.</string>
@@ -339,7 +342,6 @@ The history of China\'s green driving will have your records</string>
     <string name="LED_title">Setting Indicator</string>
     <string name="shop_bc">Welcome to purchase Roidmi Music Bluetooth Car Charger</string>
     <string name="music_set_title">Set default booting APP</string>
-    <string name="device_geting_version">obtaining the information of device, please wait</string>
     <string name="mycar">my car</string>
     <string name="defalut_player_detail">Changing the Default Player in Settings Later</string>
     <string name="valtage_abnormal_tip">Please check ASAP!</string>
@@ -424,7 +426,6 @@ The history of China\'s green driving will have your records</string>
     <string name="protocol_title_4">Ⅳ.Service Content</string>
     <string name="guide_start_up">Boot-up After Power on</string>
     <string name="info_center">information Center</string>
-    <string name="device_get_version_unknow">Failing to obtain device information (wrongcode:103)</string>
     <string name="shake_size_tip">Gentle/Strong</string>
     <string name="update_title">Check for Updates</string>
     <string name="LED_blue">Blue</string>
@@ -466,7 +467,6 @@ The history of China\'s green driving will have your records</string>
     <string name="voltage_detail_4">It\'s likely not to charge battery, please check engine or other power load</string>
     <string name="personal_engine_number_def">8-Digit</string>
     <string name="personal_chassis_number_def">17-Digit</string>
-    <string name="device_get_version_fail">Failing to obtain device information, please check if the web is open or not</string>
     <string name="help_A11">operation ways：1. Entering homepage of music Bluetooth car charger, click the icon of voice recognition 2. When APP it working, shake your phone to enter into voice recognition. After the prompt tone, you can speak directly, like tell a joke, what\'s the weather today  system will automatically tell you the result after analysis.</string>
     <string name="shake_type_title">Shake a Shake function</string>
     <string name="please_choose_city">请选择违章查询的城市</string>
