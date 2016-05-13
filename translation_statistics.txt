@@ -58,7 +58,7 @@ Progress: [#############-------------------------------------] 25.0% Complete
 Language Code: de_DE
 Progress: [--------------------------------------------------] 0.0% Complete
 Language Code: uk
-Progress: [#########-----------------------------------------] 18.0% Complete
+Progress: [##########----------------------------------------] 19.0% Complete
 Language Code: cs
 Progress: [--------------------------------------------------] 0.0% Complete
 Language Code: pl
