@@ -113,6 +113,8 @@ Pojďte to zažít </string>
     <string name="fm_setting_detial">Nastavte FM frekvenci vozidla na</string>
     <string name="help">pomoc</string>
     <string name="help_Q1">1. Mobilní zařízení nenalezlo Roidmi Music Blue C</string>
+    <string name="help_A1">Tip: Vytáhněte Roidmi že zřídky auto zásuvky a znovu ho zasuňte. Vypněte Bluetooth na mobilním zařízení a po zhruba 10 vteřinách ho znovu spusťte. Znovu vyhledejte Roidmi.</string>
+    <string name="help_Q2">2. Neúspěšné spojení Bluetooth </string>
     <string name="carnum"/>
     <string name="restriction">restriction</string>
     <string name="drive_time_300_more_2">Wow, you have been ranked top of the Chinese Beverly Hillbillies list. Far ahead of others in the mood is not very cool ah!</string>
@@ -146,7 +148,6 @@ Pojďte to zažít </string>
     <string name="addfen">Accumulated Points</string>
     <string name="music_mode">Automatically play while starting the car</string>
     <string name="please_opennet">request failure, please check your web</string>
-    <string name="help_A1">Tips: First unplug the player from the car lighter hole, insert it again. Open the mobile Bluetooth after closing it around 10 seconds. Click to search the player again.</string>
     <string name="help_A2">Tips: Insert the player into the car lighter hole again after power off. Click to search and connect it again.</string>
     <string name="help_A3">Tips: Click Car charger with Bluetooth on the APP homepage; Click FM Sending Frequency. Set up the sending frequency of player. Adjust the car FM to the set frequency</string>
     <string name="help_A4">Tips: Open the APP. Select the player you like.</string>
@@ -179,11 +180,10 @@ Pojďte to zažít </string>
     <string name="shake_tip">Some hardware devices don\'t support the shake a shake function</string>
     <string name="sex_man">Male</string>
     <string name="trafficlip">*The feature is only suitable for the non-business small vehicles with local license plate</string>
-    <string name="help_Q2">2.Unable to Connect the Bluetooth</string>
     <string name="help_Q3">3.The car audio doesn\'t work even if the Bluetooth being connected.</string>
     <string name="help_Q4">4.Not the Default Music Player</string>
     <string name="help_Q5">5.After setting up the auto play mode, the music player can not be opened automatically.</string>
-    <string name="help_Q6">6.Disliking Auto Play Mode</string>
+    <string name="violationall">违章总数</string>
     <string name="help_Q7">7.No Need for Voice Prompts</string>
     <string name="personal_car_model">Car Model</string>
     <string name="help_Q12">12.How to exchange music？</string>
@@ -313,7 +313,7 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="charging_tip1">Fully charged after %1$s</string>
     <string name="charging_tip2">Charged %1$s</string>
     <string name="choossecity">City select</string>
-    <string name="violationall">违章总数</string>
+    <string name="help_Q6">6.Disliking Auto Play Mode</string>
     <string name="MIC_open_title">Confirm to open the hands-free calls function?</string>
     <string name="voltage_V12size_3">12~12.8V
 (before starting)</string>
