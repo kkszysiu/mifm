@@ -123,6 +123,13 @@ Pojďte to zažít </string>
     <string name="help_Q5">5. Po nastavení automatického přehrávání se přehrávací aplikace nespouští automaticky.</string>
     <string name="help_A5">Tip: Nastavte Roidmi aplikaci v mobilním operačním systému jako chráněnou aplikaci pozadí.</string>
     <string name="help_Q6">6. Vypnutí automatického přehrávání.</string>
+    <string name="help_A6">Tip: V Roidmi aplikaci vypněte automatické přehrávání.</string>
+    <string name="help_Q7">7. Nepotřebuji hlasová upozornění.</string>
+    <string name="help_A7">Tip: Rozklikněte menu v pravém horním rohu, zvolte nastavení a vypněte hlasová upozornění.</string>
+    <string name="help_Q8">8. Změna barvy podsvícení Roidmi přehrávače </string>
+    <string name="help_A8">Tip: V Roidmi aplikaci zvolte nastavení barev a vyberte si požadovanou barvu</string>
+    <string name="help_Q9">9. Nelze použít zvolený audio přehrávač v auto-play módu?</string>
+    <string name="help_A9">Tip: Ujistěte se zda je Roidmi Bluetooth přehrávač připojený. Zavřete okno nastavení audio přehrávače po provedení změn.</string>
     <string name="carnum"/>
     <string name="restriction">restriction</string>
     <string name="drive_time_300_more_2">Wow, you have been ranked top of the Chinese Beverly Hillbillies list. Far ahead of others in the mood is not very cool ah!</string>
@@ -140,7 +147,6 @@ Pojďte to zažít </string>
     <string name="help_A20">操作提示：提供车牌号所在地的8个城市限行情况：北京、长春、成都、贵阳、杭州、兰州、南昌、天津。限行提示默认为开启状态，前一天晚上8：00准时推送提醒至用户手机，且第二天手机连上车充蓝牙后，自动播报今天您的车牌限行。用户可根据实际使用情况，选择关闭限行提示。</string>
     <string name="push_main_title">%1$s article</string>
     <string name="personal_chassis_number">Vehicle Chassis Number</string>
-    <string name="help_A8">Tips: Click Car charger with Bluetooth on the APP homepage; Click the Setting Indicator and select corresponding color.</string>
     <string name="jin">Beijing</string>
     <string name="shake_open_tip">Pls open the shake a shake function firstly.</string>
     <string name="update_state_no">The latest version already</string>
@@ -158,8 +164,6 @@ Pojďte to zažít </string>
     <string name="please_opennet">request failure, please check your web</string>
     <string name="music_download">Recommend</string>
     <string name="please_check_power">录音失败，请检查是否拒绝了录音权限</string>
-    <string name="help_A6">Tips: Click Car charger with Bluetooth on the APP homepage; Close the Automatically play while starting the car.</string>
-    <string name="help_A7">Tips: Click the icon on the upper right corner of the homepage; Click the settings and close the Voice Prompt.</string>
     <string name="help_A12">Tips：App offers shaking function(exchange music, voice recognition),exchanging music acquiescently. Shaking your phone when music playing, it will play next music after prompt tone kaka</string>
     <string name="help_A13">Tips: Try to re-open the Bluetooth of the mobile phone and search the audio player after a while if the Roidmi Music Blue C can\'t be found but powered on already.</string>
     <string name="help_A10">Tips: Our hardware control protocol does not support the software. We recommend you to use such audio players as KuGoo, TTPOD, KUWO, QQ Music etc.</string>
@@ -180,15 +184,14 @@ Pojďte to zažít </string>
     <string name="update_download_progress">%1$s/%2$s</string>
     <string name="gui">贵A</string>
     <string name="push_activity">Activity</string>
-    <string name="help_Q8">8.How to switch the players light color?</string>
-    <string name="help_Q9">9.Unable to use the preferred audio player in the auto-play mode？</string>
+    <string name="guiyang">贵阳</string>
     <string name="update_not_find_file">APK file not found!</string>
     <string name="shake_tip">Some hardware devices don\'t support the shake a shake function</string>
     <string name="sex_man">Male</string>
     <string name="trafficlip">*The feature is only suitable for the non-business small vehicles with local license plate</string>
     <string name="update_download_info">Downloading the latest version for you…%1$s</string>
     <string name="violationall">违章总数</string>
-    <string name="help_Q7">7.No Need for Voice Prompts</string>
+    <string name="personal_chassis_zhenshu">证书编号</string>
     <string name="personal_car_model">Car Model</string>
     <string name="help_Q12">12.How to exchange music？</string>
     <string name="nomessage">您暂无消息</string>
@@ -271,7 +274,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="music_recommend">Recommend</string>
     <string name="hangzhou">杭州</string>
     <string name="shake_type_tip">Speech recognition/Next song</string>
-    <string name="guiyang">贵阳</string>
     <string name="tianjin">津</string>
     <string name="violationdetail">Details of Traffic Peccancy</string>
     <string name="sex_woman">Female</string>
@@ -342,7 +344,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="update_latest">The latest version already</string>
     <string name="drive_time_30_1">Congratulations on your great green driving behavior!
 The history of China\'s green driving will have your records</string>
-    <string name="personal_chassis_zhenshu">证书编号</string>
     <string name="tormorow">Tomorrow</string>
     <string name="personal_chassis_shenfenall_def">请输入完整身份证</string>
     <string name="city">City</string>
@@ -436,7 +437,6 @@ The history of China\'s green driving will have your records</string>
     <string name="update_download">Update immediately</string>
     <string name="notdeai">violation</string>
     <string name="music_set_bt_note">Successfully set up the player</string>
-    <string name="help_A9">Tips: Make sure the audio player being re-connected; Close the guide page of the audio player if it\'s the updated software.</string>
     <string name="valtage">Battery Voltage</string>
     <string name="shake_type_tip_no_mic">Next song</string>
     <string name="music_set_play">Re-boot the Bluetooth while exiting current audio player after successfully setting it</string>
