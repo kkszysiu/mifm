@@ -109,10 +109,16 @@
     <string name="choossecity">Wybierz miasto</string>
     <string name="today">Dziś</string>
     <string name="tormorow">Jutro</string>
+    <string name="holiday">Święta</string>
+    <string name="noholiday">Dni normalne</string>
     <string name="city">Miasto</string>
     <string name="jin">Pekin</string>
     <string name="tianjin">Tiencin</string>
     <string name="beijing">Pekin</string>
+    <string name="shake_tip">Niektóre z urządzeń mogą nie wspierać funkcji shake</string>
+    <string name="shake_type">Funkcja shake</string>
+    <string name="shake_type_title">Funkcja shake</string>
+    <string name="shake_type_tip">Rozpoznawanie mowy / Następny utwór</string>
     <string name="shake_type_tip_no_mic">Następny utwór</string>
     <string name="shop_bc">Witamy! Dotknij tutaj jeśli chcesz kupić ładowarkę samochodową Roidmi</string>
     <string name="shop_shake_bc">Przejdź do kupna ładowarki Roidmi</string>
@@ -126,10 +132,12 @@
     <string name="update_timeout">Limit czasu żądania upłynął!</string>
     <string name="update_not_find_file">Plik APK nie został znaleziony!</string>
     <string name="update_getInfo">Sprawdzam uaktualnienia…</string>
+    <string name="update_download_info">Pobieranie najnowszej wersji…%1$s</string>
     <string name="update_download_progress">%1$s/%2$s</string>
     <string name="update_download_fail">Nie udało się pobrać. Proszę spróbować ponownie.</string>
     <string name="update_download_again">Pobierz ponownie.</string>
     <string name="update_latest">Posiadasz już najnowszą wersję</string>
+    <string name="update_latest_version">Szukanie nowej wersji %1$s</string>
     <string name="update_download">Aktualizuj natychmiast</string>
     <string name="update_install">Instalacja</string>
     <string name="update_dialog_update">Aktualizuj teraz</string>
@@ -157,7 +165,6 @@
     <string name="drive_time_300_more_2">Wow, you have been ranked top of the Chinese Beverly Hillbillies list. Far ahead of others in the mood is not very cool ah!</string>
     <string name="personal_plate_number_def">The Rear Five Digits</string>
     <string name="drive_time_300_more_1">Wow, you\'re one of the Chinese Beverly Hillbillies for driving. Why not air your mood at the moment?</string>
-    <string name="update_latest_version">Finding a new version %1$s</string>
     <string name="update_dialog_title_force">Find a new version, update it if you want to continue to use it!</string>
     <string name="Net_time_out">request timeout, Checking Network if Connected</string>
     <string name="ganzhou">赣A</string>
@@ -173,7 +180,6 @@
     <string name="koufen">deduct marks</string>
     <string name="used_car">二手车</string>
     <string name="personal_null">Unset</string>
-    <string name="holiday">Holidays</string>
     <string name="gan">甘A</string>
     <string name="drive_title_today">Today\'s driving records</string>
     <string name="help_A9">Tips: Make sure the audio player being re-connected; Close the guide page of the audio player if it\'s the updated software.</string>
@@ -207,7 +213,6 @@
     <string name="help_Q8">8.How to switch the players light color?</string>
     <string name="help_Q9">9.Unable to use the preferred audio player in the auto-play mode？</string>
     <string name="nanjing">南京</string>
-    <string name="shake_tip">Some hardware devices don\'t support the shake a shake function</string>
     <string name="trafficlip">*The feature is only suitable for the non-business small vehicles with local license plate</string>
     <string name="help_Q1">1.Mobile phone Bluetooth can\'t find Roidmi Music Blue C</string>
     <string name="help_Q2">2.Unable to Connect the Bluetooth</string>
@@ -307,7 +312,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="notdeai">violation</string>
     <string name="chassis_number_must">17 Digits for the Vehicle Chassis No. Only</string>
     <string name="hangzhou">杭州</string>
-    <string name="shake_type_tip">Speech recognition/Next song</string>
     <string name="guiyang">贵阳</string>
     <string name="violationdetail">Details of Traffic Peccancy</string>
     <string name="guide_install">Installing Player</string>
@@ -331,7 +335,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="mycar">my car</string>
     <string name="update_notify_content">Have a new version, click to check the update content</string>
     <string name="help_Q19">19.How to find the best requency?</string>
-    <string name="send_voice_fail">In case no prompt sound, return to change frequency</string>
     <string name="fakuang">fine</string>
     <string name="guide_install_info">Fill the charger with Bluetooth into the car lighter</string>
     <string name="drive_time_60">Oh, well, let\'s realize the dream of driving less than an hour a day</string>
@@ -348,7 +351,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="personal_chassis_name_def">请输入车主姓名</string>
     <string name="notrafficwei">Tail Number of Non-Restriction Car</string>
     <string name="personal_plate_number">License Plate Number</string>
-    <string name="update_download_info">Downloading the latest version for you…%1$s</string>
     <string name="help_A3">Tips: Click Car charger with Bluetooth on the APP homepage; Click FM Sending Frequency. Set up the sending frequency of player. Adjust the car FM to the set frequency</string>
     <string name="help_Q6">6.Disliking Auto Play Mode</string>
     <string name="update_notify_title">Update Notification</string>
@@ -382,11 +384,10 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="music_set_title">Set default booting APP</string>
     <string name="defalut_player_detail">Changing the Default Player in Settings Later</string>
     <string name="music_title3">Hot Radio station</string>
-    <string name="noholiday">Normal Days</string>
     <string name="music_title1">Music Mood</string>
     <string name="lanzhou">兰州</string>
     <string name="device_ty">TPMS</string>
-    <string name="shake_type">Shake a Shake function</string>
+    <string name="send_voice_fail">In case no prompt sound, return to change frequency</string>
     <string name="guide_bt_info">Please enter the system to set up the Bluetooth connection to the paired device</string>
     <string name="music_title2">Popularity list</string>
     <string name="voice_stick_title">Tip-Sticking Prompt</string>
@@ -465,7 +466,6 @@ The history of China\'s green driving will have your records</string>
     <string name="voltage_detail_4">It\'s likely not to charge battery, please check engine or other power load</string>
     <string name="personal_chassis_number_def">17-Digit</string>
     <string name="help_A11">operation ways：1. Entering homepage of music Bluetooth car charger, click the icon of voice recognition 2. When APP it working, shake your phone to enter into voice recognition. After the prompt tone, you can speak directly, like tell a joke, what\'s the weather today  system will automatically tell you the result after analysis.</string>
-    <string name="shake_type_title">Shake a Shake function</string>
     <string name="voltage_V12size_5">13.2~15V
 (after starting)</string>
     <string name="voltage_sure">judgment</string>
