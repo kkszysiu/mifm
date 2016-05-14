@@ -3,7 +3,7 @@
     <string name="app_name">Roidmi</string>
     <string name="app_name_show">Roidmi</string>
     <string name="app_version">Verze aplikace %1$s</string>
-    <string name="btn_ok">Hotovo</string>
+    <string name="btn_ok">Budiž </string>
     <string name="btn_cannel">Zrušit </string>
     <string name="btn_allow">Povolené </string>
     <string name="btn_refused">Zamítnuté </string>
@@ -83,7 +83,7 @@ Pojďte to zažít </string>
     <string name="fb_sending">Odesílání...</string>
     <string name="fb_send_success">Odesláno </string>
     <string name="fb_send_fail">Odesílání selhalo</string>
-    <string name="feed_back_list_null1">Těšíme se na Vaši odpověď </string>
+    <string name="feed_back_list_null1">Těšíme se na Vaše připomínky </string>
     <string name="feed_back_list_null2">Přinášíme ten nejlepší zážitek!</string>
     <string name="feed_back_notify_title">Odpověď na zpětnou vazbu </string>
     <string name="feed_back_notify_content">Vaše zpráva se dočkala odpovědi, prohlédnout </string>
