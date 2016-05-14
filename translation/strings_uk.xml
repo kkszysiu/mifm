@@ -117,6 +117,10 @@
     <string name="LED_qing">Зелено-блакитний</string>
     <string name="MIC">Мікрофон</string>
     <string name="MIC_switch">Перемкнути мікрофон</string>
+    <string name="MIC_open_title">Ви впевнені, що хочете увімкнути функцію гучного зв\'язку?</string>
+    <string name="MIC_open_tip">Розмови під час водіння створюють небезпеку, будь-ласка, використовуйте цю функцію на малій швидкості або після зупинки!</string>
+    <string name="music_title1">Музичний настрій</string>
+    <string name="music_title2">Список популярного</string>
     <string name="carnum"/>
     <string name="restriction">restriction</string>
     <string name="drive_time_300_more_2">Wow, you have been ranked top of the Chinese Beverly Hillbillies list. Far ahead of others in the mood is not very cool ah!</string>
@@ -161,7 +165,7 @@
     <string name="help_A10">Tips: Our hardware control protocol does not support the software. We recommend you to use such audio players as KuGoo, TTPOD, KUWO, QQ Music etc.</string>
     <string name="valtage_switch_tip">Used to control of prompt tone of indicator light</string>
     <string name="help_A16">Tips: Clean the ash from the car lighter hole if any.</string>
-    <string name="update_notify_title">Update Notification</string>
+    <string name="trafficwei">Tail Number of the Restricted Car</string>
     <string name="help_A14">Tips: Close the undesired Bluetooth of the mobile phone bounded to the audio player nearby, and start to search the audio player with the desired mobile phone.</string>
     <string name="help_A15">Tips: Re-boot the mobile phone and open the Roidmi Driver APP.</string>
     <string name="todaytraffic">Traffic Restriction Today</string>
@@ -188,7 +192,7 @@
     <string name="help_Q3">3.The car audio doesn\'t work even if the Bluetooth being connected.</string>
     <string name="help_Q4">4.Not the Default Music Player</string>
     <string name="help_Q5">5.After setting up the auto play mode, the music player can not be opened automatically.</string>
-    <string name="help_Q6">6.Disliking Auto Play Mode</string>
+    <string name="violationall">违章总数</string>
     <string name="help_Q7">7.No Need for Voice Prompts</string>
     <string name="personal_car_model">Car Model</string>
     <string name="help_Q12">12.How to exchange music？</string>
@@ -336,9 +340,9 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="charging_tip1">Fully charged after %1$s</string>
     <string name="charging_tip2">Charged %1$s</string>
     <string name="choossecity">City select</string>
-    <string name="violationall">违章总数</string>
+    <string name="help_Q6">6.Disliking Auto Play Mode</string>
     <string name="app_name_show">Roidmi Driver</string>
-    <string name="MIC_open_title">Confirm to open the hands-free calls function?</string>
+    <string name="update_notify_title">Update Notification</string>
     <string name="voltage_V12size_3">12~12.8V
 (before starting)</string>
     <string name="voltage_V12size_2">10.8~12V
@@ -378,7 +382,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="kou">Deduct</string>
     <string name="valtage_abnormal_tip">Please check ASAP!</string>
     <string name="today">Today</string>
-    <string name="music_title1">Music Mood</string>
     <string name="lanzhou">兰州</string>
     <string name="valtage_abnormal">Battery voltage is abnormal</string>
     <string name="car_maintenance">汽车保养</string>
@@ -392,13 +395,11 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="ji">吉A</string>
     <string name="personal_plate_number_def">The Rear Five Digits</string>
     <string name="voltage_sure_hight_too">too higher</string>
-    <string name="music_title2">Popularity list</string>
     <string name="fakuang">fine</string>
     <string name="music_title3">Hot Radio station</string>
     <string name="phone_voice_title">Mobile Phone Ring Projection</string>
     <string name="zhe">浙A</string>
     <string name="noholiday">Normal Days</string>
-    <string name="MIC_open_tip">It\'s not safety to have a call on driving, pls use this function on low speed or stop!</string>
     <string name="joke">给我讲个笑话</string>
     <string name="drive_time_120">Congratulations, you are on the way to the green driving</string>
     <string name="car_service">car service</string>
@@ -434,7 +435,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="charging">Phone is charging</string>
     <string name="listent_voice">请听到提示音后开始说话。</string>
     <string name="update_download">Update immediately</string>
-    <string name="trafficwei">Tail Number of the Restricted Car</string>
     <string name="notdeai">violation</string>
     <string name="music_set_bt_note">Successfully set up the player</string>
     <string name="help_A9">Tips: Make sure the audio player being re-connected; Close the guide page of the audio player if it\'s the updated software.</string>
