@@ -33,7 +33,7 @@
     <string name="bt_link_fail">Розв\'язати</string>
     <string name="channel_change">Змінити</string>
     <string name="channel_change_power">Вимкнути шуми</string>
-    <string name="channel_change_power_tip">поліпшити здатність анти-перешкод та якість тону</string>
+    <string name="channel_change_power_tip">поліпшити здатність анти-перешкод та якість тона</string>
     <string name="channel_set_title">Налаштувати частоту</string>
     <string name="channel_curr">FM: %1$sMHz</string>
     <string name="channel_send_current">Поточна частота</string>
@@ -89,10 +89,10 @@
 натисніть Назад на телефоні, щоб повернутися до інтерфейсу</string>
     <string name="guide_bt_setting">Відкрити налаштування Bluetooth</string>
     <string name="guide_bt_success">Bluetooth підключено</string>
-    <string name="guide_bt_success_info">Ваш мобільний телефон було успішно підключено до плеєру</string>
+    <string name="guide_bt_success_info">Ваш мобільний телефон було успішно підключено до плеєра</string>
     <string name="voice_detection_title">Виявлення мови</string>
     <string name="voice_detection_tip">Натисніть, щоб відправити підтверджуючий звук, щоб з\'ясувати чи успішне підключення</string>
-    <string name="send_voice">Відправлення підтверджуючого звуку</string>
+    <string name="send_voice">Відправлення підтверджуючого звука</string>
     <string name="send_voice_fail">У випадку відсутності підтверджуючого звуку, поверніться до налаштування частоти</string>
     <string name="send_voice_success">Підтверджуючий звук чутно, перейти до наступного кроку</string>
     <string name="defalut_player">Плеєр за промовчанням</string>
@@ -141,7 +141,10 @@
     <string name="personal_plate_number">Номерний знак</string>
     <string name="personal_plate_number_def">Задні п\'ять цифр</string>
     <string name="personal_chassis_number">Номер кузову автомобіля</string>
+    <string name="personal_chassis_number_def">Будь-ласка, введіть останні 17 цифр %1$d номеру кузова автомобіля</string>
+    <string name="personal_chassis_number_def2">Будь-ласка, введіть повний номер кузова автомобіля</string>
     <string name="personal_engine_number">Номер двигуну</string>
+    <string name="personal_engine_number_def">Будь-ласка, введіть останні 8 цифр %1$d номеру двигуна</string>
     <string name="car_number_must">номер автомобіля має мати 5 цифр</string>
     <string name="charging">Мобільний телефон заряджається</string>
     <string name="charging_tip1">Повністю заряджено через %1$s</string>
@@ -466,13 +469,10 @@ The history of China\'s green driving will have your records</string>
     <string name="gan">甘A</string>
     <string name="torrowtraffic">Traffic Restriction Tomorrow</string>
     <string name="voltage_detail_4">It\'s likely not to charge battery, please check engine or other power load</string>
-    <string name="personal_engine_number_def">8-Digit</string>
-    <string name="personal_chassis_number_def">17-Digit</string>
     <string name="help_A11">operation ways：1. Entering homepage of music Bluetooth car charger, click the icon of voice recognition 2. When APP it working, shake your phone to enter into voice recognition. After the prompt tone, you can speak directly, like tell a joke, what\'s the weather today  system will automatically tell you the result after analysis.</string>
     <string name="shake_type_title">Shake a Shake function</string>
     <string name="please_choose_city">请选择违章查询的城市</string>
     <string name="voltage_sure">judgment</string>
-    <string name="personal_chassis_number_def2">请输入完整车架号</string>
     <string name="voltage_detail_6">It\'s likely to damage storage batter, please check the stabilizator of engine</string>
     <string name="nodate">Failed to get the data</string>
     <string name="voltage_detail_2">difficult to start, please close other electrical device and start car charging</string>
