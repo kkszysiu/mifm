@@ -33,7 +33,7 @@
     <string name="bt_link_fail">Розв\'язати</string>
     <string name="channel_change">Змінити</string>
     <string name="channel_change_power">Вимкнути шуми</string>
-    <string name="channel_change_power_tip">поліпшити здатність анти-перешкод та якість тона</string>
+    <string name="channel_change_power_tip">поліпшити здатність анти-перешкод та якість тону</string>
     <string name="channel_set_title">Налаштувати частоту</string>
     <string name="channel_curr">FM: %1$sMHz</string>
     <string name="channel_send_current">Поточна частота</string>
