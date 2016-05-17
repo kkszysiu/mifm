@@ -178,7 +178,7 @@
     <string name="update_not_find_file">APK файл не знайдено!</string>
     <string name="update_getInfo">Перевірка наявності оновлень...</string>
     <string name="update_download_info">Завантаження останньої версії оновлення...%1$s</string>
-    <string name="update_download_fail">Помилка при завантаженні! Будь-ласка, завантажте знову.</string>
+    <string name="update_download_fail">Не вдалося завантажити! Будь-ласка, спробуйте знову.</string>
     <string name="update_download_again">Завантажити знову.</string>
     <string name="update_latest">Це остання версія</string>
     <string name="update_latest_version">Пошук нової версії %1$s</string>
