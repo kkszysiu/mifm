@@ -225,7 +225,7 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="help_Q20">20.限行提示包括哪些城市？如何提示限行情况？</string>
     <string name="device_update_notify_content">New version device，update it and have a try</string>
     <string name="personal_info_title">Personal Information</string>
-    <string name="bt_link_fail">unBind</string>
+    <string name="bt_link_fail">Unbind</string>
     <string name="tianjin">津</string>
     <string name="update_not_find_file">APK file not found!</string>
     <string name="login_out">Sign Out</string>
@@ -266,7 +266,7 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="drive_time_300_2">Wow, if the daily driving for more than 2 hours, there will be records of you in the Roidmi Beverly Hillbillies list</string>
     <string name="drive_time_300_1">Congratulations for your footprints in the intelligent driving of Beverly Hillbillies list
  Use a little more every day, you will experience more fun oh</string>
-    <string name="channel_send_current">Current channel</string>
+    <string name="channel_send_current">Current frequency</string>
     <string name="unit_hour">hours</string>
     <string name="valtage_switch_title">abnormal voltage alarm</string>
     <string name="manney">Sum of Penalty</string>

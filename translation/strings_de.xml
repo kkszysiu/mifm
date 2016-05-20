@@ -283,7 +283,7 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="music_chose_app">Chose APP</string>
     <string name="drive_time_300_2">Wow, if the daily driving for more than 2 hours, there will be records of you in the Roidmi Beverly Hillbillies list</string>
     <string name="LED_green">Green</string>
-    <string name="channel_send_current">Current channel</string>
+    <string name="channel_send_current">Current frequency</string>
     <string name="valtage_switch_title">abnormal voltage alarm</string>
     <string name="manney">Sum of Penalty</string>
     <string name="guide_start_up">Boot-up After Power on</string>

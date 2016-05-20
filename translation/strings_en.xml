@@ -35,7 +35,7 @@ Click OK to Continue!</string>
   <string name="dian">·</string>
   <string name="about">About</string>
   <string name="bt_link_ok">Bind</string>
-  <string name="bt_link_fail">unBind</string>
+  <string name="bt_link_fail">Unbind</string>
   <string name="car_service">car service</string>
   <string name="used_car">二手车</string>
   <string name="car_maintenance">汽车保养</string>
@@ -44,7 +44,7 @@ Click OK to Continue!</string>
   <string name="channel_change_power_tip">improve anti-interference ability and tone quality</string>
   <string name="channel_set_title">Setting frequency</string>
   <string name="channel_curr">FM : %1$sMHz</string>
-  <string name="channel_send_current">Current channel</string>
+  <string name="channel_send_current">Current frequency</string>
   <string name="channel_prompt">Adjusting car FM</string>
   <string name="channel_recommend">Recommended</string>
   <string name="channel_find_empty">Searching the empty MHz, please wait a moment</string>
