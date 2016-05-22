@@ -32,8 +32,8 @@ Appuyez sur OK pour continuer!</string>
     <string name="welcome">Bienvenue</string>
     <string name="dian">.</string>
     <string name="about">À propos</string>
-    <string name="bt_link_ok">Lier</string>
-    <string name="bt_link_fail">Supprimer le lien</string>
+    <string name="bt_link_ok">Appairé</string>
+    <string name="bt_link_fail">Non appairé</string>
     <string name="channel_change">Changer</string>
     <string name="channel_change_power">Réduction du bruit désactivée</string>
     <string name="channel_change_power_tip">améliorer les capacités anti-interférences et la qualité sonore</string>
