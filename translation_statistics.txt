@@ -3,7 +3,7 @@ Language translation progress:
      arrays.xml
 --------------------------------------------------
 Language Code: fr
-Progress: [--------------------------------------------------] 0.0% Complete
+Progress: [##################################################] 100.0% Complete
 Language Code: en
 Progress: [##################################################] 100.0% Complete
 Language Code: zh
@@ -36,7 +36,7 @@ Progress: [##################################################] 100.0% Complete
      strings.xml
 --------------------------------------------------
 Language Code: fr
-Progress: [#################################-----------------] 65.0% Complete
+Progress: [##################################----------------] 67.0% Complete
 Language Code: en
 Progress: [##################################################] 100.0% Complete
 Language Code: zh
