@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Conducteur Roidmi</string>
     <string name="app_name_show">Conducteur Roidmi</string>
-    <string name="app_version">Application version %1$s</string>
+    <string name="app_version">Version %1$s</string>
     <string name="btn_ok">Terminé</string>
     <string name="btn_cannel">Annuler</string>
     <string name="btn_allow">Autorisé</string>
@@ -33,7 +33,7 @@ Appuyez sur OK pour continuer!</string>
     <string name="dian">.</string>
     <string name="about">À propos</string>
     <string name="bt_link_ok">Lier</string>
-    <string name="bt_link_fail">Délier</string>
+    <string name="bt_link_fail">Supprimer le lien</string>
     <string name="channel_change">Changer</string>
     <string name="channel_change_power">Réduction du bruit désactivée</string>
     <string name="channel_change_power_tip">améliorer les capacités anti-interférences et la qualité sonore</string>
@@ -50,7 +50,7 @@ Appuyez sur OK pour continuer!</string>
     <string name="device_ty">TPMS</string>
     <string name="device_bu_title">Roidmi USB avec Bluetooth</string>
     <string name="device_ty_title">Roidmi TPMS</string>
-    <string name="device_link">Connecter le Bluetooth</string>
+    <string name="device_link">Paramètres Bluetooth</string>
     <string name="device_version">Version du micrologiciel</string>
     <string name="device_update_title">Mise à jour du micrologiciel %1$s</string>
     <string name="device_update_hint">Fermer l\'application pendant la mise à jour</string>
@@ -65,7 +65,7 @@ Appuyez sur OK pour continuer!</string>
     <string name="device_geting_version">Obtention des informations de l\'appareil, veuillez patienter</string>
     <string name="device_get_version_fail">Impossible d\'obtenir les informations de l\'appareil, merci de vérifier votre connexion réseau.</string>
     <string name="device_get_version_unknow">Impossible d\'obtenir les informations de l\'appareil (code d\'erreur 103)</string>
-    <string name="bc_no_Link">Merci de connecter le chargeur allume-cigare en Bluetooth en avance.</string>
+    <string name="bc_no_Link">Merci d\'appairer votre chargeur</string>
     <string name="bc_bt_lost">Chargeur allume-cigare déconnecté</string>
     <string name="drive_title_today">Registre de conduite du jour</string>
     <string name="drive_title">Registre de conduite</string>
@@ -99,13 +99,13 @@ Chaque jour nous rapproche encore plus de notre objectif.</string>
     <string name="guide_start_up_info1">Pour assurer le fonctionnement normal du programme</string>
     <string name="guide_start_up_info2">Après l\'installation, appuyez sur le bouton retour pour revenir sur l\'interface</string>
     <string name="guide_start_up_setting">Ouvrez les paramètres de démarrage</string>
-    <string name="guide_install">Installation du player</string>
+    <string name="guide_install">Installation du chargeur</string>
     <string name="guide_install_info">Insérez le chargeur Bluetooth dans l\'allume-cigare</string>
-    <string name="guide_install_ok">Assurez-vous de l\'avoir inséré dans l\'allume cigare</string>
+    <string name="guide_install_ok">Le chargeur est inséré</string>
     <string name="guide_bt">Connexion Bluetooth</string>
-    <string name="guide_bt_info">Merci d\'entrer dans les paramètres du système pour établir la connexion Bluetooth avec l\'appareil appairé</string>
+    <string name="guide_bt_info">Merci d\'aller dans les paramètres du Bluetooth pour établir la connexion avec votre chargeur</string>
     <string name="guide_bt_link_info">Après l\'appairage Bluetooth, appuyez sur le bouton retour pour revenir à l\'interface</string>
-    <string name="guide_bt_setting">Entrez dans les paramètres Bluetooth</string>
+    <string name="guide_bt_setting">Aler dans les paramètres Bluetooth</string>
     <string name="guide_bt_success">Bluetooth connecté</string>
     <string name="guide_bt_success_info">Votre téléphone portable est appairé avec succès avec le player.</string>
     <string name="voice_detection_title">Détection de la voix</string>
@@ -119,7 +119,7 @@ Chaque jour nous rapproche encore plus de notre objectif.</string>
     <string name="fm_setting">Définir la fréquence</string>
     <string name="fm_setting_detial">Définir la fréquence de l\'auto-radio sur</string>
     <string name="go_to">Passer</string>
-    <string name="help">aide</string>
+    <string name="help">Aide</string>
     <string name="help_Q2">2. Impossible de se connecter en Bluetooth</string>
     <string name="help_A2">Astuce : ré-insérez le player dans l\'allume-cigare après l\'avoir éteint. Cliquez sur rechercher et re-connectez le.</string>
     <string name="help_Q3">3. L\'auto-radio ne fonctionne pas, même si le Bluetooth a été connecté.</string>
@@ -153,7 +153,7 @@ Chaque jour nous rapproche encore plus de notre objectif.</string>
     <string name="MIC_open_tip">Il n\'est pas sûr de téléphoner au volant, merci d\'utiliser cette fonction à basse vitesse ou à l\'arrêt!</string>
     <string name="music_title1">Ambiance musicale</string>
     <string name="music_title3">Stations populaires</string>
-    <string name="music_default">Défaut</string>
+    <string name="music_default">Par défaut</string>
     <string name="music_download">Recommandé</string>
     <string name="music_recommend">Recommandé</string>
     <string name="music_not_install">L\'application n\'est pas installée</string>
@@ -161,6 +161,7 @@ Chaque jour nous rapproche encore plus de notre objectif.</string>
     <string name="music_choose">Sélectionnez un lecteur audio</string>
     <string name="more_player">Plus d\'applications</string>
     <string name="music_chose_app">Application sélectionnée</string>
+    <string name="music_set_title">Sélectionnez le lecteur audio par défaut</string>
     <string name="music_set_bt_note">Player installé avec succès</string>
     <string name="protocol_title_1">I. Règles générales</string>
     <string name="personal_info_title">Informations personnelles</string>
@@ -220,11 +221,11 @@ Chaque jour nous rapproche encore plus de notre objectif.</string>
     <string name="sex_man">Homme</string>
     <string name="sex_woman">Femme</string>
     <string name="update_title">Rechercher une mise à jour</string>
-    <string name="update_state_no">Vous avez déjà la version la plus récente</string>
+    <string name="update_state_no">À jouer</string>
     <string name="update_state_yes">Nouvelle version disponible</string>
     <string name="update_timeout">Temps d\'attente dépassé!</string>
     <string name="update_not_find_file">Fichier APK introuvable!</string>
-    <string name="update_getInfo">Rechercher des mises à jour</string>
+    <string name="update_getInfo">Recherche d\'une mise à jour</string>
     <string name="update_download_info">Téléchargement de la dernière version... %1$s</string>
     <string name="update_download_progress">%1$s/%2$s</string>
     <string name="update_download_fail">Erreur lors du téléchargement! Merci de recommencer.</string>
@@ -437,7 +438,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="car_number_must">car number must be 5-digit</string>
     <string name="fm_setting_info">Selecting the Recommended Frequency by Searching FM for the Auto-Searching Cars</string>
     <string name="shop_bc">Welcome to purchase Roidmi Music Bluetooth Car Charger</string>
-    <string name="music_set_title">Set default booting APP</string>
     <string name="music_title2">Popularity list</string>
     <string name="web_load_fail">page downloading failure</string>
     <string name="lanzhou">兰州</string>
