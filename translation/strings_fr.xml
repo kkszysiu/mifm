@@ -91,6 +91,7 @@ Chaque jour nous rapproche encore plus de notre objectif.</string>
     <string name="fb_send_success">Envoi terminé</string>
     <string name="fb_send_fail">Erreur lors de l\'envoi</string>
     <string name="feed_back_list_null1">Nous avons hâte d\'avoir de vos nouvelles,</string>
+    <string name="feed_back_list_null2">Vous apporter la meilleure expérience!</string>
     <string name="feed_back_notify_title">Répondre à la réaction</string>
     <string name="feed_back_notify_content">La réaction a une réponse, cliquez pour la voir</string>
     <string name="guide_show">www.roidmi.com</string>
@@ -102,6 +103,8 @@ Chaque jour nous rapproche encore plus de notre objectif.</string>
     <string name="guide_install_info">Insérez le chargeur Bluetooth dans l\'allume-cigare</string>
     <string name="guide_install_ok">Assurez-vous de l\'avoir inséré dans l\'allume cigare</string>
     <string name="guide_bt">Connexion Bluetooth</string>
+    <string name="guide_bt_info">Merci d\'entrer dans les paramètres du système pour établir la connexion Bluetooth avec l\'appareil appairé</string>
+    <string name="guide_bt_link_info">Après l\'appairage Bluetooth, appuyez sur le bouton retour pour revenir à l\'interface</string>
     <string name="guide_bt_setting">Entrez dans les paramètres Bluetooth</string>
     <string name="guide_bt_success">Bluetooth connecté</string>
     <string name="guide_bt_success_info">Votre téléphone portable est appairé avec succès avec le player.</string>
@@ -122,12 +125,16 @@ Chaque jour nous rapproche encore plus de notre objectif.</string>
     <string name="help_Q3">3. L\'auto-radio ne fonctionne pas, même si le Bluetooth a été connecté.</string>
     <string name="help_Q4">4. Pas le lecteur audio par défaut</string>
     <string name="help_A4">Astuce : ouvrez l\'application et sélectionnez votre lecteur préféré</string>
+    <string name="help_Q19">19. Comment trouver la meilleure fréquence?</string>
+    <string name="help_A19">Astuce: peut-être que la fréquence recommandée n\'est pas la meilleure pour votre ville. Vous devriez augmenter ou diminuer la fréquence de 0,1 MHz vers une fréquence sans interférences, en pensant bien à reporter la fréquence dans l\'application. Si cela fonctionne bien pendant un certain temps, n\'hésitez pas à partager la fréquence pour votre ville dans le menu réaction ou à propos. Nous la recommanderons aux autres personnes de votre ville.</string>
+    <string name="info_center">Centre d\'informations</string>
     <string name="login">Connexion</string>
     <string name="logining">Connexion...</string>
     <string name="login_fail">Erreur lors de la connexion</string>
     <string name="login_out">Déconnexion</string>
     <string name="login_out_info">Souhaitez-vous réellement vous déconnecter?</string>
     <string name="login_out_btn">Déconnexion</string>
+    <string name="LED_title">Définir l\'indicateur</string>
     <string name="LED_close">Fermer</string>
     <string name="LED_red">Rouge</string>
     <string name="LED_green">Vert</string>
@@ -135,7 +142,10 @@ Chaque jour nous rapproche encore plus de notre objectif.</string>
     <string name="LED_qing">Cyan</string>
     <string name="MIC">Microphone</string>
     <string name="MIC_switch">Changer de microphone</string>
+    <string name="MIC_open_title">Confirmer pour ouvrir la fonction appel mains libres?</string>
+    <string name="MIC_open_tip">Il n\'est pas sûr de téléphoner au volant, merci d\'utiliser cette fonction à basse vitesse ou à l\'arrêt!</string>
     <string name="music_title1">Ambiance musicale</string>
+    <string name="music_title3">Stations populaires</string>
     <string name="music_default">Défaut</string>
     <string name="music_download">Recommandé</string>
     <string name="music_recommend">Recommandé</string>
@@ -144,12 +154,19 @@ Chaque jour nous rapproche encore plus de notre objectif.</string>
     <string name="music_choose">Sélectionnez un lecteur audio</string>
     <string name="more_player">Plus d\'applications</string>
     <string name="music_chose_app">Application sélectionnée</string>
+    <string name="music_set_bt_note">Player installé avec succès</string>
+    <string name="protocol_title_1">I. Règles générales</string>
+    <string name="personal_info_title">Informations personnelles</string>
     <string name="personal_nick">Pseudonyme</string>
     <string name="personal_cartype">Type de voiture</string>
     <string name="personal_car_model">Modèle de voiture</string>
     <string name="personal_plate_number">Plaque d\'immatriculation</string>
     <string name="personal_chassis_number">Numéro de châssis du véhicule</string>
+    <string name="personal_chassis_number_def">%1$d chiffres</string>
     <string name="personal_engine_number">Numéro du moteur</string>
+    <string name="personal_engine_number_def">%1$d chiffres</string>
+    <string name="charging">Téléphone en charge</string>
+    <string name="charging_tip1">Complètement chargé dans %1$s</string>
     <string name="charging_tip2">Chargé à %1$s</string>
     <string name="charging_full_tip">Charge terminée</string>
     <string name="phone_voice_title">Relayer la sonnerie du téléphone</string>
@@ -172,7 +189,10 @@ Chaque jour nous rapproche encore plus de notre objectif.</string>
     <string name="fakuang">amende</string>
     <string name="restriction">restriction</string>
     <string name="restriction_title">restriction de trafic</string>
+    <string name="choossecity">Sélectionner une ville</string>
     <string name="nodate">Impossible de récupérer les données</string>
+    <string name="todaytraffic">Restrictions de trafic pour aujourd\'hui</string>
+    <string name="torrowtraffic">Restrictions de trafic pour demain</string>
     <string name="today">Aujourd\'hui</string>
     <string name="tormorow">Demain</string>
     <string name="holiday">Vacances</string>
@@ -187,6 +207,7 @@ Chaque jour nous rapproche encore plus de notre objectif.</string>
     <string name="shake_size_title">Intensité</string>
     <string name="shake_type_tip">Reconnaissance vocale/morceau suivant</string>
     <string name="shake_type_tip_no_mic">Morceau suivant</string>
+    <string name="shake_open_tip">Merci de d\'abord ouvrir la fonction ouvrir</string>
     <string name="settings">Paramètres</string>
     <string name="settings_url">Adresse du serveur</string>
     <string name="sex_man">Homme</string>
@@ -197,20 +218,27 @@ Chaque jour nous rapproche encore plus de notre objectif.</string>
     <string name="update_timeout">Temps d\'attente dépassé!</string>
     <string name="update_not_find_file">Fichier APK introuvable!</string>
     <string name="update_getInfo">Rechercher des mises à jour</string>
+    <string name="update_download_info">Téléchargement de la dernière version... %1$s</string>
+    <string name="update_download_progress">%1$s/%2$s</string>
     <string name="update_download_fail">Erreur lors du téléchargement! Merci de recommencer.</string>
     <string name="update_download_again">Merci de recommencer</string>
+    <string name="update_latest">Vous avez déjà la dernière version</string>
     <string name="update_latest_version">Nouvelle version disponible %1$s</string>
     <string name="update_download">Mettre à jour immédiatement</string>
     <string name="update_install">Installation</string>
+    <string name="update_dialog_title">Rechercher une nouvelle version, mettez-là à jour! （V%1$s)</string>
+    <string name="update_dialog_title_force">Rechercher une nouvelle version, mettez-là à jour si vous souhaitez continuer à l\'utiliser!</string>
     <string name="update_dialog_not_update">Mettre à jour plus tard</string>
     <string name="update_dialog_update">Mettre à jour maintenant</string>
     <string name="update_notify_title">Notification de mise à jour</string>
+    <string name="update_notify_content">Nouvelle version disponible, cliquez pour voir les changements</string>
     <string name="valtage">Tension de la batterie</string>
     <string name="valtage_normal">La tension de la batterie est normale</string>
     <string name="valtage_abnormal">La tension de la batterie est anormale</string>
     <string name="valtage_tip">Tension actuelle : %1$sV</string>
     <string name="valtage_abnormal_tip">Merci de vérifier rapidement!</string>
     <string name="valtage_switch_title">Alerte de tension anormale</string>
+    <string name="valtage_result_tip">Table des tensions de référence</string>
     <string name="valtage_type_V12">petite voiture</string>
     <string name="valtage_type_V24">grosse voiture</string>
     <string name="voltage_size">tension</string>
@@ -219,6 +247,18 @@ Chaque jour nous rapproche encore plus de notre objectif.</string>
 (avant le démarrage)</string>
     <string name="voltage_V12size_2">10.8~12V
 (après le démarrage)</string>
+    <string name="voltage_V12size_3">12~12.8V
+(avant le démarrage)</string>
+    <string name="voltage_V12size_4">12.8~13.2V
+(après le démarrage)</string>
+    <string name="voltage_V12size_5">13.2~15V
+(après le démarrage)</string>
+    <string name="voltage_V12size_6">&gt;15V
+(après le démarrage)</string>
+    <string name="voltage_V24size_1">&lt;20V</string>
+    <string name="voltage_V24size_2">20~24V</string>
+    <string name="voltage_V24size_3">24~29V</string>
+    <string name="voltage_V24size_6">&gt;29V</string>
     <string name="voltage_sure_low_too">trop bas</string>
     <string name="voltage_sure_low">bas</string>
     <string name="voltage_sure_normal">normal</string>
@@ -226,20 +266,17 @@ Chaque jour nous rapproche encore plus de notre objectif.</string>
     <string name="voltage_detail_normal">——</string>
     <string name="voltage_detail_1">impossible de démarrer la voiture, peut-être devriez-vous changer la batterie</string>
     <string name="drive_time_300_more_2">Wow, you have been ranked top of the Chinese Beverly Hillbillies list. Far ahead of others in the mood is not very cool ah!</string>
-    <string name="recommend_2">(推荐)</string>
+    <string name="personal_plate_number_def">The Rear Five Digits</string>
     <string name="voice_title">Voice Prompt</string>
     <string name="drive_time_300_more_1">Wow, you\'re one of the Chinese Beverly Hillbillies for driving. Why not air your mood at the moment?</string>
-    <string name="update_dialog_title_force">Find a new version, update it if you want to continue to use it!</string>
     <string name="ganzhou">赣A</string>
     <string name="message_erro">输入信息错误</string>
     <string name="protocol">Exemption Agreement</string>
     <string name="help_A20">操作提示：提供车牌号所在地的8个城市限行情况：北京、长春、成都、贵阳、杭州、兰州、南昌、天津。限行提示默认为开启状态，前一天晚上8：00准时推送提醒至用户手机，且第二天手机连上车充蓝牙后，自动播报今天您的车牌限行。用户可根据实际使用情况，选择关闭限行提示。</string>
-    <string name="shake_open_tip">Pls open the shake a shake function firstly.</string>
-    <string name="update_dialog_title">Find a new version, update it!（V%1$s）</string>
     <string name="koufen">deduct marks</string>
     <string name="used_car">二手车</string>
     <string name="personal_null">Unset</string>
-    <string name="help_A8">Tips: Click Car charger with Bluetooth on the APP homepage; Click the Setting Indicator and select corresponding color.</string>
+    <string name="voltage_detail">prompt</string>
     <string name="help_A9">Tips: Make sure the audio player being re-connected; Close the guide page of the audio player if it\'s the updated software.</string>
     <string name="ready_city">candidate city</string>
     <string name="please_opennet">request failure, please check your web</string>
@@ -256,13 +293,10 @@ Chaque jour nous rapproche encore plus de notre objectif.</string>
     <string name="help_A17">Tips: Adjust the frequency of APP to the same one of the car FM.</string>
     <string name="help_A14">Tips: Close the undesired Bluetooth of the mobile phone bounded to the audio player nearby, and start to search the audio player with the desired mobile phone.</string>
     <string name="help_A15">Tips: Re-boot the mobile phone and open the Roidmi Driver APP.</string>
-    <string name="todaytraffic">Traffic Restriction Today</string>
     <string name="help_A18">Tips: Since strong FM signal may interfere with weak one, we recommend you with three local unoccupied frequencies.</string>
-    <string name="help_A19">Tips: Perhaps it\'s not the best choice of frequency we recommend you in your city. You\'d better manually increase or decrease the frequency of 0.1MHz FM to a radio frequency without interference, meanwhile adjust the mobile phone APP to the same frequency. If it works well after a period of time, you are welcome to share the frequency of your city with us in the feedback of about menu. We will recommend to the people in the same city of yours while we update the software.</string>
     <string name="personal_engine_number_def2">请输入完整发动机号</string>
     <string name="personal_chassis_guanju_def">请输入车管所登记手机号</string>
     <string name="push_main_content">Newest activity unreading</string>
-    <string name="update_download_progress">%1$s/%2$s</string>
     <string name="gui">贵A</string>
     <string name="help_Q8">8.How to switch the players light color?</string>
     <string name="help_Q9">9.Unable to use the preferred audio player in the auto-play mode？</string>
@@ -360,10 +394,7 @@ Although the product, in the process of driving will bring you a lot of convenie
 10.Termination of Service
 . You agree that the Roidmi Driver, based on its own consideration, for any reason, including but not limited to long time not used, or violation of the text and spirit of the service agreement by yourself, terminates your password, account number or the service, and removes any contents during the service period. You agree that the services provided in accordance with the provisions of this service agreement can be interrupted or terminated without prior notice. You acknowledge and agree that the Roidmi Driver can immediately close or delete your account and all relevant information and documents in your account. In addition, you agree that the Roidmi Driver does not assume any responsibility to you or any 3rd party due to the interruption or termination of your account and closing or deleting of the related information and documents.</string>
     <string name="help_Q20">20.限行提示包括哪些城市？如何提示限行情况？</string>
-    <string name="voltage_V12size_5">13.2~15V
-(after starting)</string>
     <string name="shop_tip">Enjoy the intelligent and interesting drive!</string>
-    <string name="personal_info_title">Personal Information</string>
     <string name="chassis_number_must">17 Digits for the Vehicle Chassis No. Only</string>
     <string name="guiyang">贵阳</string>
     <string name="tianjin">津</string>
@@ -382,11 +413,9 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="help_Q17">17.How to deal with the car FM unable to adjust the frequency manually?</string>
     <string name="help_Q14">14.Has the audio player been bounded with other mobile phone?</string>
     <string name="help_Q15">15.Try to re-connect the mobile phone?</string>
-    <string name="valtage_result_tip">battery voltage reference table</string>
-    <string name="update_notify_content">Have a new version, click to check the update content</string>
-    <string name="help_Q19">19.How to find the best requency?</string>
+    <string name="help_A8">Tips: Click Car charger with Bluetooth on the APP homepage; Click the Setting Indicator and select corresponding color.</string>
     <string name="shop_shake_bc">Go to buy music Bluetooth car charger</string>
-    <string name="changchun">长春</string>
+    <string name="ji">吉A</string>
     <string name="search_near">最近查询 </string>
     <string name="personal_chassis_name">车主姓名</string>
     <string name="please_put_carjia">请输入车架号</string>
@@ -394,45 +423,30 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="citychange">exchanging city</string>
     <string name="personal_chassis_name_def">请输入车主姓名</string>
     <string name="notrafficwei">Tail Number of Non-Restriction Car</string>
-    <string name="update_download_info">Downloading the latest version for you…%1$s</string>
-    <string name="charging_tip1">Fully charged after %1$s</string>
     <string name="help_Q6">6.Disliking Auto Play Mode</string>
-    <string name="MIC_open_title">Confirm to open the hands-free calls function?</string>
-    <string name="voltage_V12size_3">12~12.8V
-(before starting)</string>
     <string name="query_violation">Traffic Peccancy Quer</string>
-    <string name="voltage_V12size_6">&gt;15V
-(after starting)</string>
     <string name="please_choose_city">请选择违章查询的城市</string>
-    <string name="voltage_V12size_4">12.8~13.2V
-(after starting)</string>
     <string name="chengdu">成都</string>
     <string name="ganzhou2">赣M</string>
     <string name="choose_oneormore_city">请选择城市</string>
     <string name="trafficwei">Tail Number of the Restricted Car</string>
-    <string name="update_latest">The latest version already</string>
     <string name="personal_chassis_zhenshu">证书编号</string>
     <string name="personal_chassis_shenfenall_def">请输入完整身份证</string>
     <string name="car_maintenance">汽车保养</string>
     <string name="restriction_tip_title">限行提示</string>
     <string name="car_number_must">car number must be 5-digit</string>
     <string name="fm_setting_info">Selecting the Recommended Frequency by Searching FM for the Auto-Searching Cars</string>
-    <string name="LED_title">Setting Indicator</string>
     <string name="shop_bc">Welcome to purchase Roidmi Music Bluetooth Car Charger</string>
     <string name="music_set_title">Set default booting APP</string>
     <string name="music_title2">Popularity list</string>
-    <string name="music_title3">Hot Radio station</string>
+    <string name="web_load_fail">page downloading failure</string>
     <string name="lanzhou">兰州</string>
-    <string name="guide_bt_info">Please enter the system to set up the Bluetooth connection to the paired device</string>
     <string name="voice_stick_title">Tip-Sticking Prompt</string>
     <string name="gan">甘A</string>
     <string name="recommend_1">（推荐）</string>
-    <string name="personal_plate_number_def">The Rear Five Digits</string>
-    <string name="ji">吉A</string>
+    <string name="recommend_2">(推荐)</string>
     <string name="engine_number_must">8 Digits for the Engine No. Only</string>
-    <string name="web_load_fail">page downloading failure</string>
     <string name="zhe">浙A</string>
-    <string name="MIC_open_tip">It\'s not safety to have a call on driving, pls use this function on low speed or stop!</string>
     <string name="joke">给我讲个笑话</string>
     <string name="car_service">car service</string>
     <string name="you_can_speak">您可以这样说</string>
@@ -448,31 +462,16 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="protocol_title_5">Ⅴ.Others</string>
     <string name="protocol_title_2">Ⅱ.Registration information and privacy protection</string>
     <string name="protocol_title_3">Ⅲ.Rules for Use</string>
-    <string name="protocol_title_1">Ⅰ. General Rules</string>
     <string name="voltage_size_tip">*This detecting result is for your reference only, actually professional technicians test results shall prevail</string>
     <string name="please_put_cartype">请输入车牌号</string>
-    <string name="protocol_title_4">Ⅳ.Service Content</string>
-    <string name="info_center">information Center</string>
     <string name="shake_size_tip">Gentle/Strong</string>
-    <string name="charging">Phone is charging</string>
-    <string name="guide_bt_link_info">After pairing the Bluetooth,
-press the back button of mobile to return to the interface</string>
-    <string name="music_set_bt_note">Successfully set up the player</string>
-    <string name="voltage_detail">prompt</string>
-    <string name="voltage_V24size_6">&gt;29V</string>
     <string name="music_set_play">Re-boot the Bluetooth while exiting current audio player after successfully setting it</string>
-    <string name="voltage_V24size_1">&lt;20V</string>
-    <string name="voltage_V24size_2">20~24V</string>
-    <string name="voltage_V24size_3">24~29V</string>
-    <string name="choossecity">City select</string>
+    <string name="protocol_title_4">Ⅳ.Service Content</string>
+    <string name="changchun">长春</string>
     <string name="personal_chassis_shenfen">车主身份证</string>
     <string name="notraffic">不限</string>
     <string name="nanchang">南昌</string>
     <string name="personal_chassis_shenfen_def">请输入车主身份证</string>
-    <string name="feed_back_list_null2">Bring the best experience to you!</string>
-    <string name="torrowtraffic">Traffic Restriction Tomorrow</string>
-    <string name="personal_engine_number_def">8-Digit</string>
-    <string name="personal_chassis_number_def">17-Digit</string>
     <string name="help_A11">operation ways：1. Entering homepage of music Bluetooth car charger, click the icon of voice recognition 2. When APP it working, shake your phone to enter into voice recognition. After the prompt tone, you can speak directly, like tell a joke, what\'s the weather today  system will automatically tell you the result after analysis.</string>
     <string name="listent_voice">请听到提示音后开始说话。</string>
     <string name="personal_chassis_number_def2">请输入完整车架号</string>
