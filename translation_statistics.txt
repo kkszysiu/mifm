@@ -50,7 +50,7 @@ Progress: [###-----------------------------------------------] 5.0% Complete
 Language Code: de
 Progress: [####----------------------------------------------] 8.0% Complete
 Language Code: tr
-Progress: [#########-----------------------------------------] 17.0% Complete
+Progress: [###########---------------------------------------] 21.0% Complete
 Language Code: sr_RS
 Progress: [--------------------------------------------------] 0.0% Complete
 Language Code: sk
