@@ -75,6 +75,7 @@
     <string name="feed_back_list_null2">Chcielibyśmy dostarczyć ci najlepszą jakość usług</string>
     <string name="feed_back_notify_title">Twoja opinia</string>
     <string name="guide_show">www.roidmi.com</string>
+    <string name="guide_bt_success">Bluetooth Podłączony</string>
     <string name="voice_detection_title">Rozpoznawanie mowy</string>
     <string name="defalut_player">Domyślny odtwarzacz</string>
     <string name="begin_use">Rozpocznij</string>
@@ -183,7 +184,6 @@
     <string name="gan">甘A</string>
     <string name="drive_title_today">Today\'s driving records</string>
     <string name="help_A9">Tips: Make sure the audio player being re-connected; Close the guide page of the audio player if it\'s the updated software.</string>
-    <string name="guide_bt_success">Bluetooth Connected</string>
     <string name="addfen">Accumulated Points</string>
     <string name="music_mode">Automatically play while starting the car</string>
     <string name="help_A1">Tips: First unplug the player from the car lighter hole, insert it again. Open the mobile Bluetooth after closing it around 10 seconds. Click to search the player again.</string>
