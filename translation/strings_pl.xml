@@ -22,6 +22,7 @@
     <string name="No_Create_File">Nie można utworzyć pliku</string>
     <string name="Not_NULL">Pole nie może być puste</string>
     <string name="Net_not_connected">Sprawdzanie czy jest połączenie z siecią</string>
+    <string name="Net_time_out">upłynął limit czasu żądania. Kontrola sieci</string>
     <string name="No_WIFI">Brak WiFi, możliwe wysokie zużycie danych, kliknij OK aby przejść dalej</string>
     <string name="space_insufficient">Zbyt mało pamięci telefonu</string>
     <string name="unit_hour">godzin</string>
@@ -62,7 +63,11 @@
     <string name="device_get_version_unknow">Nie można pobrać informacji o wersji (wrongcode:103)</string>
     <string name="bc_no_Link">Najpierw sparuj urządzenie z telefonem</string>
     <string name="bc_bt_lost">Utracono połączenie Bluetooth</string>
+    <string name="drive_title_today">Dzisiejsze rekordy</string>
+    <string name="drive_title">Rekordy</string>
     <string name="drive_title_drive_today">Przejechano dzisiaj:</string>
+    <string name="drive_time_0">Roidmi, niekończące się niespodzianki!
+Ciesz się zabawą</string>
     <string name="feed_back">Informacja zwrotna</string>
     <string name="defout_contact">Informacje kontaktowe (email, nr. tel)</string>
     <string name="defout_content">Dziękujemy za opinię</string>
@@ -75,6 +80,7 @@
     <string name="feed_back_list_null2">Chcielibyśmy dostarczyć ci najlepszą jakość usług</string>
     <string name="feed_back_notify_title">Twoja opinia</string>
     <string name="guide_show">www.roidmi.com</string>
+    <string name="guide_bt">Połączenie Blutetooth</string>
     <string name="guide_bt_success">Bluetooth Podłączony</string>
     <string name="voice_detection_title">Rozpoznawanie mowy</string>
     <string name="defalut_player">Domyślny odtwarzacz</string>
@@ -167,7 +173,6 @@
     <string name="personal_plate_number_def">The Rear Five Digits</string>
     <string name="drive_time_300_more_1">Wow, you\'re one of the Chinese Beverly Hillbillies for driving. Why not air your mood at the moment?</string>
     <string name="update_dialog_title_force">Find a new version, update it if you want to continue to use it!</string>
-    <string name="Net_time_out">request timeout, Checking Network if Connected</string>
     <string name="ganzhou">赣A</string>
     <string name="message_erro">输入信息错误</string>
     <string name="shake">Shake a Shake</string>
@@ -175,14 +180,13 @@
     <string name="help_A20">操作提示：提供车牌号所在地的8个城市限行情况：北京、长春、成都、贵阳、杭州、兰州、南昌、天津。限行提示默认为开启状态，前一天晚上8：00准时推送提醒至用户手机，且第二天手机连上车充蓝牙后，自动播报今天您的车牌限行。用户可根据实际使用情况，选择关闭限行提示。</string>
     <string name="push_main_title">%1$s article</string>
     <string name="personal_chassis_number">Vehicle Chassis Number</string>
-    <string name="help_A8">Tips: Click Car charger with Bluetooth on the APP homepage; Click the Setting Indicator and select corresponding color.</string>
     <string name="shake_open_tip">Pls open the shake a shake function firstly.</string>
     <string name="update_dialog_title">Find a new version, update it!（V%1$s）</string>
     <string name="koufen">deduct marks</string>
     <string name="used_car">二手车</string>
     <string name="personal_null">Unset</string>
     <string name="gan">甘A</string>
-    <string name="drive_title_today">Today\'s driving records</string>
+    <string name="voltage_detail">prompt</string>
     <string name="help_A9">Tips: Make sure the audio player being re-connected; Close the guide page of the audio player if it\'s the updated software.</string>
     <string name="addfen">Accumulated Points</string>
     <string name="music_mode">Automatically play while starting the car</string>
@@ -319,7 +323,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="personal_engine_number">Engine Number</string>
     <string name="restriction_title2">根据您的车牌尾号提醒</string>
     <string name="please_check_power">录音失败，请检查是否拒绝了录音权限</string>
-    <string name="drive_title">Driving records</string>
     <string name="beijing_weather">北京天气</string>
     <string name="personal_chassis_zhenshu_def">请输入登记证书编号</string>
     <string name="help_Q18">18.Why to recommend using unoccupied frequency?</string>
@@ -342,8 +345,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="music_not_install">APP Not Installed</string>
     <string name="search_near">最近查询 </string>
     <string name="personal_chassis_name">车主姓名</string>
-    <string name="drive_time_0">Roidmi, infinite surprises!
- Come and enjoy the fun of it</string>
     <string name="guide_start_up_setting">Open the boot settings</string>
     <string name="chuan">川A</string>
     <string name="citychange">exchanging city</string>
@@ -403,14 +404,13 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="phone_voice_title">Mobile Phone Ring Projection</string>
     <string name="fm_setting_detial">Setting up the Default Car FM to the frequency of</string>
     <string name="zhe">浙A</string>
-    <string name="please_put_cartype">请输入车牌号</string>
     <string name="MIC_open_tip">It\'s not safety to have a call on driving, pls use this function on low speed or stop!</string>
     <string name="joke">给我讲个笑话</string>
     <string name="drive_time_120">Congratulations, you are on the way to the green driving</string>
     <string name="car_service">car service</string>
     <string name="you_can_speak">您可以这样说</string>
     <string name="shake_size_title">Intensity</string>
-    <string name="voltage_detail">prompt</string>
+    <string name="help_A8">Tips: Click Car charger with Bluetooth on the APP homepage; Click the Setting Indicator and select corresponding color.</string>
     <string name="pleasechecknet">get the data failed, please check the network</string>
     <string name="music_chose_app">Chose APP</string>
     <string name="drive_time_300_2">Wow, if the daily driving for more than 2 hours, there will be records of you in the Roidmi Beverly Hillbillies list</string>
@@ -428,7 +428,7 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="login_fail">Sign in Failure</string>
     <string name="protocol_title_1">Ⅰ. General Rules</string>
     <string name="voltage_size_tip">*This detecting result is for your reference only, actually professional technicians test results shall prevail</string>
-    <string name="guide_bt">Bluetooth Connection</string>
+    <string name="please_put_cartype">请输入车牌号</string>
     <string name="ready_city">candidate city</string>
     <string name="guide_start_up">Boot-up After Power on</string>
     <string name="info_center">information Center</string>
