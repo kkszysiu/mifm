@@ -45,7 +45,9 @@
     <string name="my_device">Moje urządzenie</string>
     <string name="device_bc">Ładowarka samochodowa z Bluetooth</string>
     <string name="device_bu">USB z Bluetooth</string>
+    <string name="device_ty">TPMS</string>
     <string name="device_bu_title">Roidmi USB z Bluetooth</string>
+    <string name="device_ty_title">Roidmi TPMS</string>
     <string name="device_link">Podłącz Bluetooth</string>
     <string name="device_version">Wersja firmware</string>
     <string name="device_update_title">%1$s aktualizacja firmware\'u</string>
@@ -378,16 +380,15 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="restriction_tip_title">限行提示</string>
     <string name="yuan">Yuan</string>
     <string name="fen">Points</string>
-    <string name="device_ty_title">Roidmi TPMS</string>
     <string name="car_number_must">car number must be 5-digit</string>
     <string name="fm_setting_info">Selecting the Recommended Frequency by Searching FM for the Auto-Searching Cars</string>
     <string name="LED_title">Setting Indicator</string>
     <string name="music_set_title">Set default booting APP</string>
-    <string name="defalut_player_detail">Changing the Default Player in Settings Later</string>
+    <string name="kou">Deduct</string>
     <string name="music_title3">Hot Radio station</string>
     <string name="music_title1">Music Mood</string>
     <string name="lanzhou">兰州</string>
-    <string name="device_ty">TPMS</string>
+    <string name="please_put_carjia">请输入车架号</string>
     <string name="send_voice_fail">In case no prompt sound, return to change frequency</string>
     <string name="guide_bt_info">Please enter the system to set up the Bluetooth connection to the paired device</string>
     <string name="music_title2">Popularity list</string>
@@ -400,7 +401,7 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="restriction_title">Traffic Restriction</string>
     <string name="engine_number_must">8 Digits for the Engine No. Only</string>
     <string name="voltage_sure_hight_too">too higher</string>
-    <string name="kou">Deduct</string>
+    <string name="defalut_player_detail">Changing the Default Player in Settings Later</string>
     <string name="phone_voice_title">Mobile Phone Ring Projection</string>
     <string name="fm_setting_detial">Setting up the Default Car FM to the frequency of</string>
     <string name="zhe">浙A</string>
@@ -418,7 +419,6 @@ Although the product, in the process of driving will bring you a lot of convenie
  Use a little more every day, you will experience more fun oh</string>
     <string name="please_put_fdj">请输入发动机号</string>
     <string name="personal_chassis_guanju">车管所登记</string>
-    <string name="please_put_carjia">请输入车架号</string>
     <string name="valtage_switch_title">abnormal voltage alarm</string>
     <string name="nowhavenotraffic">No data of the Restricted currently</string>
     <string name="manney">Sum of Penalty</string>
