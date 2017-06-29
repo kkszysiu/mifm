@@ -8,9 +8,9 @@ Language Code: en
 Progress: [##################################################] 100.0% Complete
 Language Code: zh
 Progress: [##################################################] 100.0% Complete
-Language Code: pt
-Progress: [--------------------------------------------------] 0.0% Complete
 Language Code: pt_BR
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: pt
 Progress: [--------------------------------------------------] 0.0% Complete
 Language Code: pt_PT
 Progress: [--------------------------------------------------] 0.0% Complete
@@ -41,9 +41,9 @@ Language Code: en
 Progress: [##################################################] 100.0% Complete
 Language Code: zh
 Progress: [##################################################] 100.0% Complete
-Language Code: pt
-Progress: [--------------------------------------------------] 0.0% Complete
 Language Code: pt_BR
+Progress: [--------------------------------------------------] 0.0% Complete
+Language Code: pt
 Progress: [--------------------------------------------------] 0.0% Complete
 Language Code: pt_PT
 Progress: [###-----------------------------------------------] 5.0% Complete
